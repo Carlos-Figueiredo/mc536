@@ -1,0 +1,9 @@
+
+----Novo Item----
+numero: 10
+nome: pc
+valor: 2000
+data de aquisicao: 1/1/2000
+-historico-
+estava em ic desde a data 1/1/2000
+estava em feec desde a data 13/10/2010
