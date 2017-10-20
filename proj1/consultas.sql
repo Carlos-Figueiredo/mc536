@@ -10,14 +10,16 @@ SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     JOIN Pais b
     ON Paises_Fabricados.idPais = b.idPais
     ORDER BY Paises_Vendidos;
-    
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
-SELECT Paises_Vendidos.Pais_nomePais, SUM(Produto.Calorias) AS cal_total FROM Produto
+SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
 	JOIN Paises_Vendidos
 	ON Paises_Vendidos.Produto_Cod_barras = Produto.Cod_barras
-	GROUP BY Paises_Vendidos.Pais_nomePais
+	JOIN Pais
+	ON Paises_Vendidos.idPais = Pais.idPais
+	GROUP BY Pais.nome
 	ORDER BY cal_total DESC;
+
 
 -- Resulta em uma tabela com os paises e a média da quantidade (em g ou ml) comprada por eles, ordenada de forma decrescente.
 SELECT AVG(Produto.Quantidade), Paises_Vendidos.Pais_nomePais
