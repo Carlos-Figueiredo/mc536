@@ -1,211 +1,211 @@
-5410126806052	Bjorg
-20093709	Lotus
-3560070420179	Saveurs de nos régions
-3560070419456	Carrefour Bio,Carrefour
-3268350120558	Carrefour Bio,Carrefour,//Propiedad de://,Carrefour S.A.
-3178530402698	Le moulin du pivert
-3336970711057	Bonne Maman
-3350033118065	Vico,Intersnack
-3431410131003	Monoprix
-3560070600977	Gavottes
-3449851140553	Carrefour Bio
-3560070725588	Justin Bridou,Le Bâton de Berger
-7071848006113	Carrefour
-3245413922403	Sigdal,Sigdal bakeri
-3760121210524	Agir Carrefour,Carrefour
-3564709005157	Biocoop
-3477730001503	Nos Régions ont du Talent,Leclerc,Loc Maria
-3760122961241	Kaoka
-3178530411195	Michel et Augustin
-5000396015935	Bonne Maman
-3336971112013	McVitie's
-26034669	Vico
-3175681140806	Délice,Véritable Délice
-3178530408409	Céréal bio
-26035468	St Michel
-3222471834732	Kergrist
-3560070907564	Casino Bio
-3564709001579	Carrefour Bio,Carrefour
-3760029247127	Nos régions ont du talent
-3561770000036	Carabreizh
-3336971202059	La Maison d'Armorine
-3245390021908	Vico
-3175681120679	Reflets de France,Carrefour
-3178530407365	Céréal Bio
-3268350120367	St Michel
-3222475123597	Le Moulin du Pivert
-3368955782202	Casino
-3270720080102	U
-3256224371410	Daco bello
-3760077531865	U Bio,U
-3512690000101	Artesani
-3770002558126	Isla délice
-3266191085739	Le collectif des gourmandes
-3270190155584	La Vie Claire,Les Super Kid's
-7622300737955	Carrefour
-3268350120824	Tuc
-2000000000094	Le moulin du pivert
-3396411227486	Picard
-3256220363334	Bonneterre
-20384425	u
-3263853107013	McEnnedy
-3368954400770	Leader Price
-3256225054756	U Saveurs,U
-26039510	U Bio,U
-3178530409604	Hillcrest,Aldi
-5412514933050	St Michel,Saint-Michel
-8480017076489	Acapulco
-3278310003104	Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
-3760121211873	Le Hameau
-3113010128750	Biocoop
-3339881001026	Larnaudie,Larnaudie Prestige
-3435070029205	Afa Biscuiterie
-3700311810516	Fossier,Maison Fossier
-3410280021959	Tous les jours
-3067163621678	Top Budget,Les Mousquetaires
-20181482	Delpeyrat
-5000396037937	Crusti Croc
-7610200021120	McVitie's
-8480017032645	Migros,Afiro
-8480000364074	Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
-20276607	Hacendado,//Propiedad de://,Mercadona S.A.
-4004980517905	Catago
-7610036000337	Ültje
-3588570003524	Villars
-4003754176447	Eugene blond
-4104420053847	Unser Norden
+3229820181950	Bjorg
+5410126806052	Lotus
+20093709	Saveurs de nos régions
+3560070420179	Carrefour Bio,Carrefour
+3560070419456	Carrefour Bio,Carrefour,//Propiedad de://,Carrefour S.A.
+3268350120558	Le moulin du pivert
+3178530402698	Bonne Maman
+3336970711057	Vico,Intersnack
+3350033118065	Monoprix
+3431410131003	Gavottes
+3560070600977	Carrefour Bio
+3449851140553	Justin Bridou,Le Bâton de Berger
+3560070725588	Carrefour
+7071848006113	Sigdal,Sigdal bakeri
+3245413922403	Agir Carrefour,Carrefour
+3760121210524	Biocoop
+3564709005157	Nos Régions ont du Talent,Leclerc,Loc Maria
+3477730001503	Kaoka
+3760122961241	Michel et Augustin
+3178530411195	Bonne Maman
+5000396015935	McVitie's
+3336971112013	Vico
+26034669	Délice,Véritable Délice
+3175681140806	Céréal bio
+3178530408409	St Michel
+26035468	Kergrist
+3222471834732	Casino Bio
+3560070907564	Carrefour Bio,Carrefour
+3564709001579	Nos régions ont du talent
+3760029247127	Carabreizh
+3561770000036	La Maison d'Armorine
+3336971202059	Vico
+3245390021908	Reflets de France,Carrefour
+3175681120679	Céréal Bio
+3178530407365	St Michel
+3268350120367	Le Moulin du Pivert
+3222475123597	Casino
+3368955782202	U
+3270720080102	Daco bello
+3256224371410	U Bio,U
+3760077531865	Artesani
+3512690000101	Isla délice
+3770002558126	Le collectif des gourmandes
+3266191085739	La Vie Claire,Les Super Kid's
+3270190155584	Carrefour
+7622300737955	Tuc
+3268350120824	Le moulin du pivert
+2000000000094	Picard
+3396411227486	Bonneterre
+3256220363334	u
+20384425	McEnnedy
+3263853107013	Leader Price
+3368954400770	U Saveurs,U
+3256225054756	U Bio,U
+26039510	Hillcrest,Aldi
+3178530409604	St Michel,Saint-Michel
+5412514933050	Acapulco
+8480017076489	Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+3278310003104	Le Hameau
+3760121211873	Biocoop
+3113010128750	Larnaudie,Larnaudie Prestige
+3339881001026	Afa Biscuiterie
+3435070029205	Fossier,Maison Fossier
+3700311810516	Tous les jours
+3410280021959	Top Budget,Les Mousquetaires
+3067163621678	Delpeyrat
+20181482	Crusti Croc
+5000396037937	McVitie's
+7610200021120	Migros,Afiro
+8480017032645	Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+8480000364074	Hacendado,//Propiedad de://,Mercadona S.A.
+20276607	Catago
+4004980517905	Ültje
+7610036000337	Villars
+3588570003524	Eugene blond
+4003754176447	Unser Norden
+4104420053847	Alnatura
 4104420054806	Alnatura
-4000161100904	Alnatura
+4000161100904	Niederegger
 4000161440673	Niederegger
-3560070559619	Niederegger
-26192000	Carrefour
-3760029244003	Hillcrest,Aldi
-3760020501051	La Bien Nommée
-20127541	Jardin Bio,Léa Nature
-3396411223143	Delicia
-3560070504701	Bonneterre
-5901869009645	Carrefour
-3265475016001	Indykpol
-26018324	Lesieur
-3555080708591	Drizz,Aldi
-3760077534583	Sans marque,DV S.A.S.
-8423207207478	Artesani
-3222475720444	Bicentury,//Propiedad de://,Biocentury S.L.U.
-5000167082890	casino
-3260260031412	Boots
-20277406	La Trinitaine
-602652176616	DOR
-8480000335760	Be-Kind
-8413671022202	Hacendado,//Propiedad de://,Mercadona S.A.
+3560070559619	Carrefour
+26192000	Hillcrest,Aldi
+3760029244003	La Bien Nommée
+3760020501051	Jardin Bio,Léa Nature
+20127541	Delicia
+3396411223143	Bonneterre
+3560070504701	Carrefour
+5901869009645	Indykpol
+3265475016001	Lesieur
+26018324	Drizz,Aldi
+3555080708591	Sans marque,DV S.A.S.
+3760077534583	Artesani
+8423207207478	Bicentury,//Propiedad de://,Biocentury S.L.U.
+3222475720444	casino
+5000167082890	Boots
+3260260031412	La Trinitaine
+20277406	DOR
+602652176616	Be-Kind
+8480000335760	Hacendado,//Propiedad de://,Mercadona S.A.
+8413671022202	Chaskis,Facundo,//Propiedad de://,Industrial Comercial Facundo S.A.
 8413671030603	Chaskis,Facundo,//Propiedad de://,Industrial Comercial Facundo S.A.
 8413671022042	Chaskis,Facundo,//Propiedad de://,Industrial Comercial Facundo S.A.
-5425008344584	Chaskis,Facundo,//Propiedad de://,Industrial Comercial Facundo S.A.
+5425008344584	NewTree
 836110002074	NewTree
-24001885	NewTree
-20128609	Golden Bridge, GoldenBridge
-3497900007111	Bio Sonne
-3350033092419	DAO,Lou Bio
-60465005828	Monoprix
-3250392250249	Hollandia
-3662790003325	Chabrior,Sélection des Mousquetaires,Les Mousquetaires
-3564700083642	Mémé Georgette
-3257980085788	Pierre de Chaumeyrac,Marque Repère
+24001885	Golden Bridge, GoldenBridge
+20128609	Bio Sonne
+3497900007111	DAO,Lou Bio
+3350033092419	Monoprix
+60465005828	Hollandia
+3250392250249	Chabrior,Sélection des Mousquetaires,Les Mousquetaires
+3662790003325	Mémé Georgette
+3564700083642	Pierre de Chaumeyrac,Marque Repère
+3257980085788	Cora
 3257980085764	Cora
 3257982161565	Cora
-3245412512179	Cora
-3350030201029	Carrefour
-3250391773688	Monoprix
-3113010125865	Guillaume Dunoy
-3250391095605	Jean Larnaudie
-3250390424079	Guillaume Dunoy,Intermarché
-9310072000411	Chabrior
-8000015003081	Arnott's
-9300617324126	CAVEOSI
-3339883010170	Cadbury,Mondelēz International
-8480017020215	Afa,Afa biscuiterie
-9400553011477	Dia
-8480017155436	Griffin's
-8411814206885	Delicious Dia,Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+3245412512179	Carrefour
+3350030201029	Monoprix
+3250391773688	Guillaume Dunoy
+3113010125865	Jean Larnaudie
+3250391095605	Guillaume Dunoy,Intermarché
+3250390424079	Chabrior
+9310072000411	Arnott's
+8000015003081	CAVEOSI
+9300617324126	Cadbury,Mondelēz International
+3339883010170	Afa,Afa biscuiterie
+8480017020215	Dia
+9400553011477	Griffin's
+8480017155436	Delicious Dia,Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+8411814206885	Argal
 8411814215863	Argal
-8411814210806	Argal
-3700656401158	Selection Terroirs Espagne
-26080994	Corte del Gusto
-3222475718991	Asia Green Garden
-819701	Casino
-8480000670151	Marks & Spencer
-3535800172659	Hacendado,Antiu Xixona
-3270160801534	Gavottes
-8410376016789	Picard
-4001518003312	Gullón
-8008714000899	Griesson
-24086721	Amica,Amica chips
-8410350065055	Flor de Navidad,//Propiedad de://,Turrones José Garrigós S.A.
-8431876251197	Turrón 25
-8433329039826	Carrefour
-8433329039833	El Corte Inglés,//Propiedad de://,El Corte Inglés S.A.,//Perteneciente a://,Grupo El Corte Inglés
-3700428432885	El Corte Inglés
-85366013000299	Fleurons de Lomagne
-3250390183976	Pierre biscuiterie
-3258563020295	Netto
-5410126716016	Les Délices de Belle France,Belle France,Francap Distribution
-8421691784543	Lotus,Biscoff
+8411814210806	Selection Terroirs Espagne
+3700656401158	Corte del Gusto
+26080994	Asia Green Garden
+3222475718991	Casino
+819701	Marks & Spencer
+8480000670151	Hacendado,Antiu Xixona
+3535800172659	Gavottes
+3270160801534	Picard
+8410376016789	Gullón
+4001518003312	Griesson
+8008714000899	Amica,Amica chips
+24086721	Flor de Navidad,//Propiedad de://,Turrones José Garrigós S.A.
+8410350065055	Turrón 25
+8431876251197	Carrefour
+8433329039826	El Corte Inglés,//Propiedad de://,El Corte Inglés S.A.,//Perteneciente a://,Grupo El Corte Inglés
+8433329039833	El Corte Inglés
+3700428432885	Fleurons de Lomagne
+85366013000299	Pierre biscuiterie
+3250390183976	Netto
+3258563020295	Les Délices de Belle France,Belle France,Francap Distribution
+5410126716016	Lotus,Biscoff
+8421691784543	Alipende
 8421691477292	Alipende
-8410196051380	Alipende
-8430803027225	Virginias, B-SAN
-7622210114730	SuperSol
-20204389	Fontaneda
+8410196051380	Virginias, B-SAN
+8430803027225	SuperSol
+7622210114730	Fontaneda
+20204389	Sondey
 20204433	Sondey
-8480017092991	Sondey
-24044882	Dia
-20204365	Aurada
-8480017092984	Sondey
-24044080	Dia
+8480017092991	Dia
+24044882	Aurada
+20204365	Sondey
+8480017092984	Dia
+24044080	Aurada
 24018128	Aurada
-8431876005066	Aurada
-8410014305169	Carrefour
-5941634001061	Cuétara
-5060422870099	Sam Mills The Corn Master, //Propiedad de://, S.C. Sam Mills S.R.L., //Perteneciente a://, Sam Mills Group
-3182650148985	Real Handful
+8431876005066	Carrefour
+8410014305169	Cuétara
+5941634001061	Sam Mills The Corn Master, //Propiedad de://, S.C. Sam Mills S.R.L., //Perteneciente a://, Sam Mills Group
+5060422870099	Real Handful
+3182650148985	Le Glazik
 3182650248739	Le Glazik
-3182650008982	Le Glazik
-8606107223124	Le Glazik,Lotus
-4013200332198	Chips way
-50300853	Leverno
-5410471903024	Newman's Own
-4001518110294	Jules Destrooper
-4000161110170	Griesson
-42305880	Niederegger
-3104544018860	Alnatura
-3263852910713	Montfort
-3368390000190	Leader Price
-3226219005705	Armor Délices
-3700663000399	Biscuiterie de l‘abbaye
-3472860003557	Quintesens Bio
-3700125800826	La Mère Poulard
-3328481290770	Motta
-7613035903524	Michel Chatillon
-4003754178076	Nestle
-8713445070041	Unser Norden
-4000161400219	Joannusmolen
+3182650008982	Le Glazik,Lotus
+8606107223124	Chips way
+4013200332198	Leverno
+50300853	Newman's Own
+5410471903024	Jules Destrooper
+4001518110294	Griesson
+4000161110170	Niederegger
+42305880	Alnatura
+3104544018860	Montfort
+3263852910713	Leader Price
+3368390000190	Armor Délices
+3226219005705	Biscuiterie de l‘abbaye
+3700663000399	Quintesens Bio
+3472860003557	La Mère Poulard
+3700125800826	Motta
+3328481290770	Michel Chatillon
+7613035903524	Nestle
+4003754178076	Unser Norden
+8713445070041	Joannusmolen
+4000161400219	Niederegger
 4000161050292	Niederegger
 4000161400516	Niederegger
 4000161600091	Niederegger
 4000161740308	Niederegger
-8422584000511	Niederegger
-8421691560970	Ecocesta Productos Ecológicos,//Propiedad de://,Biogran S.L.
-718122600595	Alipende,//Propiedad de://,AhorraMas S.A.
-1151	goldbaums
-8480017541857	Bijou
-2000000017785	Dia
-3350031637513	Bretagne Specialités
-9300650012349	Monoprix
-4000161620112	Ritz,Nabisco,Mondelēz International
-20594442	Niederegger
-20045463	Saveurs de nos régions
-8423348402336	Lidl,Fresh & Easy  Llc,Le Césarin Gourmand
-5997591100545	Casa Ramon
-5400113569435	Ro'thello
-3257980832290	Delhaize
-3257984499307	Cora,Groupe Louis Delhaize
-3245390015594	Cora
+8422584000511	Ecocesta Productos Ecológicos,//Propiedad de://,Biogran S.L.
+8421691560970	Alipende,//Propiedad de://,AhorraMas S.A.
+718122600595	goldbaums
+1151	Bijou
+8480017541857	Dia
+2000000017785	Bretagne Specialités
+3350031637513	Monoprix
+9300650012349	Ritz,Nabisco,Mondelēz International
+4000161620112	Niederegger
+20594442	Saveurs de nos régions
+20045463	Lidl,Fresh & Easy  Llc,Le Césarin Gourmand
+8423348402336	Casa Ramon
+5997591100545	Ro'thello
+5400113569435	Delhaize
+3257980832290	Cora,Groupe Louis Delhaize
+3257984499307	Cora
 3245390015594	Grand Jury
