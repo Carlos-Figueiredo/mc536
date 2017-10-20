@@ -1,0 +1,2333 @@
+3229820181950	Céréales* 54% (*farine de blé
+3229820181950	*farine complète de blé 15%)
+3229820181950	*chocolat au lait 25% (*sucre de canne roux non raffiné
+3229820181950	*beurre de cacao
+3229820181950	*lait entier en poudre
+3229820181950	*pâte de cacao)
+3229820181950	*sucre de canne roux non raffiné
+3229820181950	*huile de tournesol oléique 9
+3229820181950	7%
+3229820181950	arôme naturel de vanille
+3229820181950	*lait écrémé en poudre
+3229820181950	sel de mer non raffiné
+3229820181950	extrait d'algue
+3229820181950	poudres à lever (carbonate acide d'ammonium
+3229820181950	carbonate acide de sodium)
+3229820181950	épaississant: *gomme d'acacia
+3229820181950	antioxydant : *extrait de romarin. - *99
+5410126806052	6% des ingrédients d'origine agricole ont été obtenus selon les règles de la production biologique.    
+5410126806052	Farine de _blé_
+5410126806052	sucre
+5410126806052	huile et graisse végétales
+5410126806052	sirop de sucre candi
+5410126806052	poudre à lever (carbonate acide de sodium)
+5410126806052	farine de _soja_
+5410126806052	sel
+20093709	cannelle.
+20093709	farine de _blé_
+20093709	sucre
+20093709	beurre pâtissier (_lait_) (soit 22
+20093709	5% en beurre reconstitué (_lait_)) (colorant : caroténoïdes)
+20093709	_œufs_ et jaune d'_œufs_
+20093709	amidon de _blé_
+20093709	_lait_ écrémé en poudre
+20093709	sel
+20093709	poudres à lever : carbonates d'ammonium
+20093709	carbonates de sodium
+3560070420179	diphosphates.
+3560070420179	Farine de _blé_ bio 77g
+3560070420179	_graines de sésame_ bio 21g
+3560070420179	huile d'olive vierge extra bio 8g
+3560070420179	levure
+3560070420179	sel
+3560070420179	farine de malt d'_orge_ bio (contient _blé_)
+3560070419456	agent de traitement de la farine : acide ascorbique.
+3560070419456	Harina de maíz* 75%
+3268350120558	grasa de palma* 24% y sal marina. (* Ingredientes procedentes de la agricultura ecológica).
+3268350120558	_Céréales_* 52.8% (farine de _blé_ T65*
+3268350120558	flocons d'_avoine_*
+3268350120558	farine de _seigle_ T130*
+3268350120558	farine d'_orge_*)
+3268350120558	sucre de canne non raffiné*
+3268350120558	huile de tournesol*
+3268350120558	pépites de chocolat* 8.8% (sucre de canne*
+3268350120558	pâte de cacao*
+3268350120558	beurre de cacao*
+3268350120558	extrait de vanille*)
+3268350120558	sirop de blé*
+3268350120558	beurre de cacao*
+3268350120558	cacao en poudre* 2%
+3268350120558	fibre d'_avoine_*
+3268350120558	poudre à lever : bicarbonate de sodium et d'ammonium
+3268350120558	sel de mer
+3178530402698	jus de citron concentré*.  * Ingrédients issus de l'agriculture biologique.
+3178530402698	Farine de _blé_ tendre
+3178530402698	sucre
+3178530402698	_beurre_ frais 15.5%
+3178530402698	nougatine (sucre
+3178530402698	_amande_
+3178530402698	_noisette_)
+3178530402698	amidon de _blé_
+3178530402698	_oeufs_ frais
+3178530402698	sucre inverti
+3178530402698	sel
+3178530402698	poudre à lever (carbonates de sodium et diphosphates)
+3178530402698	arôme naturel de vanille
+3336970711057	_lait_ écrémé en poudre.
+3336970711057	Semoule de maïs 59%
+3336970711057	arachides grillées moulues 30%
+3336970711057	huile de tournesol
+3336970711057	sel
+3336970711057	base aromatisante épice (arôme naturel
+3350033118065	tomate).
+3350033118065	Farine de blé* - pépites de chocolat noir* 30
+3350033118065	5 % (pâte de cacao*
+3350033118065	sucre*
+3350033118065	beurre de cacao*
+3350033118065	émulsifiant : lécithine de tournesol
+3350033118065	extrait de vanille*) - sucre* - beurre* - cacao maigre en poudre* 2
+3431410131003	3 % - poudre à lever : carbonate d'ammonium - sel marin - arôme naturel de cacao - arôme naturel de vanille - œuf en poudre* - poudre de lait écrémé*.     * ingrédients issus de l'agriculture biologique.
+3431410131003	Chocolat au _lait_ 43% (sucre
+3431410131003	beurre de cacao
+3431410131003	poudre de _lait_ entier
+3431410131003	pâte de cacao
+3431410131003	_lactose_
+3431410131003	émulsifiant : lécithines (_soja_)
+3431410131003	arôme naturel de vanille)
+3431410131003	farine de _blé_
+3431410131003	sucre
+3431410131003	beurre pâtissier (_lait_) 5%
+3431410131003	_lactose_ et protéines de _lait_
+3431410131003	sel
+3431410131003	extrait de malt d'_orge_
+3431410131003	poudre à lever : carbonates de sodium
+3560070600977	lécithines (_soja_).
+3560070600977	Nappage 59 % (pâte de cacao bio
+3560070600977	sucre de canne bio
+3560070600977	beurre de cacao bio
+3560070600977	huile essentielle d'orange bio)
+3449851140553	riz bio 41 %.
+3449851140553	Viande de porc
+3449851140553	_noisettes_ entières (8
+3449851140553	7 %)
+3449851140553	sel
+3449851140553	lactose
+3449851140553	dextrose
+3449851140553	épices et plantes aromatiques
+3449851140553	arômes naturels
+3449851140553	sucre
+3449851140553	conservateurs : nitrate de potassium et nitrite de sodium
+3560070725588	ferments.  145 g de viande utilisés pour la préparation de 100 g de produit fini.
+3560070725588	Chocolat au _lait_ bio 50 % (sucre de canne bio
+3560070725588	beurre de cacao bio
+3560070725588	poudre de _lait_ entier bio
+3560070725588	pâte de cacao bio)
+7071848006113	riz bio 50 %.
+7071848006113	Flocons d'épeautre 23%
+7071848006113	graines de tournesol
+7071848006113	graines de lin
+7071848006113	son d'_avoine_
+7071848006113	graines de courge 11%
+7071848006113	son de _blé_
+7071848006113	son d'_épeautre_ 7%
+7071848006113	farine d'épeautre compte 2%
+7071848006113	eau
+3245413922403	sel.
+3245413922403	Farine de blé 47
+3245413922403	7 %
+3245413922403	sucre
+3245413922403	graisse de plame
+3245413922403	graines de sésame décortiqués 11 %
+3245413922403	germe de blé 10
+3245413922403	9 %
+3245413922403	billettes de céréales (farine de riz 1%
+3245413922403	farine d'avoine 0
+3245413922403	7 %
+3245413922403	farine de blé 0
+3245413922403	6 %
+3245413922403	farine de seigle 0
+3245413922403	5 %
+3245413922403	semoule de maïs 0
+3245413922403	3 %
+3245413922403	lactosérum
+3245413922403	sirop de malte d'orge
+3245413922403	sel)
+3245413922403	arôme naturel de vanille
+3245413922403	poudres à lever (carbonates acides de sodium et d'ammonium
+3245413922403	disphosphate disodique)
+3245413922403	sel
+3245413922403	magésium
+3245413922403	protéines de lait
+3245413922403	amidon de blé
+3245413922403	vitamines B1
+3245413922403	B2
+3760121210524	B6 et B9.
+3760121210524	Pépites de chocolat noir 30.9% (pâte de cacao
+3760121210524	sucre roux de canne
+3760121210524	beurre de cacao
+3760121210524	émulsifiant : lécithine de tournesol
+3760121210524	extrait de vanille)
+3760121210524	sucre roux de canne 20.6%
+3760121210524	farine de blé T65 17.1%
+3760121210524	farine complète de blé T150 17.1%
+3760121210524	huile de colza
+3760121210524	cacao maigre en poudre 2.3%
+3760121210524	extrait de cacao
+3760121210524	poudre à lever : carbonates d'ammonium
+3760121210524	sel marin
+3760121210524	extrait de vanille
+3564709005157	poudre de lait écrémé.
+3564709005157	Farine de _blé_
+3564709005157	sucre
+3564709005157	_beurre_ concentré 16%
+3564709005157	_lait_ écrémé en poudre
+3564709005157	sel
+3564709005157	extrait de malt d'_orge_
+3564709005157	émulsifiant : lécithine de _soja_
+3477730001503	poudre à lever : carbonates de sodium.
+3477730001503	Pâte de cacao São Tomé
+3477730001503	sucre de canne blond
+3477730001503	éclats de _noisettes_ caramélisés 12% (éclats de _noisette_
+3477730001503	sucre de canne blond)
+3477730001503	beurre de cacao
+3477730001503	_beurre_ concentré
+3477730001503	émulsifiant : lécithine de tournesol
+3760122961241	extrait de vanille.
+3760122961241	Pâte sablée : farine de _blé_
+3760122961241	sucre
+3760122961241	beurre frais (_lait_) (7%)
+3760122961241	miel
+3760122961241	poudre à lever : carbonate de sodium
+3760122961241	_œuf_
+3760122961241	émulsifiant : lécithine
+3760122961241	sel
+3760122961241	arôme naturel.  Chocolat au lait (39%) : sucre
+3760122961241	beurre de cacao
+3760122961241	_lait_ entier en poudre
+3760122961241	pâte de cacao
+3760122961241	matière grasse de _lait_
+3760122961241	émulsifiant : lécithine de _soja_
+3178530411195	arôme naturel.  Noisettes (5%).
+3178530411195	Chocolat au _lait_ 40% (sucre
+3178530411195	poudre de _lait_ entier
+3178530411195	pâte de cacao
+3178530411195	beurre de cacao
+3178530411195	_beurre_ pâtissier
+3178530411195	émulsifiant : lécithines (_soja_)
+3178530411195	arôme naturel de vanille)
+3178530411195	farine de _blé_
+3178530411195	_lait_ entier frais
+3178530411195	_oeufs_ entiers
+3178530411195	sucre
+3178530411195	_beurre_ frais
+3178530411195	sirop de sucre inverti
+3178530411195	sel
+5000396015935	rhum
+5000396015935	Wheat Flour (56%)
+5000396015935	Vegetable Oil
+5000396015935	Sugar
+5000396015935	Wholemeal (13%)
+5000396015935	Partially Inverted Sugar Syrup
+5000396015935	Raising Agents (500
+5000396015935	334
+5000396015935	296)
+3336971112013	Salt.
+3336971112013	Semoule de maïs 59%
+3336971112013	_arachides_ grillées moulues 30%
+3336971112013	huile de tournesol
+3336971112013	sel
+3336971112013	base aromatisante épice (arôme naturel
+26034669	tomate).
+26034669	Farine de _blé_
+26034669	sucre
+26034669	beurre (_lait_) (18%)
+26034669	_oeuf_ entier
+26034669	amidon de _blé_
+26034669	sel
+3175681140806	poudre à lever (carbonates d'ammonium).
+3175681140806	Farine intégrale de meule de blé* (26%)
+3175681140806	Farine de _blé* (23%)
+3175681140806	sucre de canne* roux
+3175681140806	huile de tournesol* oléique
+3175681140806	noix de coco* (10
+3175681140806	5%)
+3175681140806	riz* (5%)
+3175681140806	flocons d'avoine* complète (5%)
+3175681140806	flocons de blé* (1
+3175681140806	5%)
+3175681140806	flocons d'orge* (1
+3175681140806	5%)
+3175681140806	flocons de seigle* (1
+3175681140806	5%)
+3175681140806	flocons d'avoine* (1
+3175681140806	5%)
+3175681140806	gruau d'avoine* (0
+3175681140806	5%)
+3175681140806	sucre de canne*
+3175681140806	émulsifiant : lécithines de colza
+3175681140806	sel marin
+3175681140806	poudres à lever (tartrates de potassium
+3175681140806	carbonates de sodium)
+3175681140806	sirop de malt d'orge*
+3175681140806	arôme naturel de citron
+3178530408409	arôme naturel. *Ingrédients issus de l'agriculture biologique. 
+3178530408409	Farine de _blé_
+3178530408409	sucre
+3178530408409	huile de tournesol
+3178530408409	_beurre_
+3178530408409	beurre de cacao
+3178530408409	_lait_ entier et _lait_ écrémé en poudre
+3178530408409	pâte de cacao
+3178530408409	fibres de _blé_
+3178530408409	_oeufs_ entiers
+3178530408409	poudres à lever : carbonates de sodium et d'ammonium - acide citrique
+3178530408409	sel
+3178530408409	arôme et arôme naturel de vanille
+26035468	émulsifiant : lécithines (_soja_).
+26035468	farine de _blé_
+26035468	sucre
+26035468	_beurre_ pâtissier (soit 22
+26035468	5% en _beurre_ reconstitué) (colorant : caroténoïdes)
+26035468	amidon de _blé_
+26035468	_oeufs_ et jaune d'_oeufs_
+26035468	_lait_ écrémé en poudre
+26035468	sel
+26035468	poudre à lever : carbonates d'ammonium - carbonate de sodium - diphosphates
+3222471834732	arôme
+3222471834732	Farine de _blé_*
+3222471834732	sucre de canne*
+3222471834732	_beurre_* 25 %
+3222471834732	_œufs_ en poudre*
+3222471834732	sel
+3222471834732	arôme naturel de vanille
+3222471834732	poudre à lever : carbonates d'ammonium
+3560070907564	_lait_ écrémé en poudre*.    *ingrédients issus de l'agriculture biologique.
+3560070907564	Légumes 72% en proportion variable (carotte
+3560070907564	betterave rouge*
+3564709001579	pomme de terre* ) huile de tournesol* 26% - sirop de glucose* - sel. *Biologique.
+3564709001579	Farine de _blé_ ; sucre ; _beurre_ 21% ; amidon de _blé_ ; _œufs_ entiers ; _Iactosérum_ en poudre ; extraît de malt d'_orge_ ; sel ; poudre de _lait_ écrémé ; poudres à lever : diphosphates
+3564709001579	carbonates de sodium
+3760029247127	carbonates d‘ammonium.
+3760029247127	Sucre
+3760029247127	crème fraiche (_lait_)
+3760029247127	beurre salé au sel de Guérande 16
+3760029247127	12 % (_lait_)
+3561770000036	huile de colza.
+3561770000036	Sucre
+3561770000036	glucose
+3561770000036	_crème_ fraiche
+3336971202059	_beurre_ frais salé 18 %.
+3336971202059	Semoule de maïs 59%
+3336971202059	_arachides_ grillées moulues 30%
+3336971202059	huile de tournesol
+3336971202059	sel
+3336971202059	base aromatisante épice (arôme naturel
+3245390021908	tomate).
+3245390021908	Farine de _blé_ (origine française)
+3245390021908	sucre (origine française)
+3245390021908	_beurre_ 21 % (origine française)
+3245390021908	amidon de _blé_
+3245390021908	_œufs_ entiers (origine française)
+3245390021908	_lactosérum_ en poudre
+3245390021908	extrait de malt d'_orge_
+3245390021908	sel
+3245390021908	poudre de _lait_ écrémé
+3175681120679	poudre à lever : diphosphates - carbonates de sodium - carbonates d'ammonium.
+3175681120679	Sucre de canne roux
+3175681120679	pépites de chocolat noir 20% (émulsifiant : lécithines de tournesol
+3175681120679	arôme naturel de vanille)
+3175681120679	_beurre_ 16
+3175681120679	5%
+3175681120679	farine complète de _blé_ de meule 14
+3175681120679	5%
+3175681120679	farine de _blé_
+3175681120679	flocons d'_avoine_ complète 12%
+3175681120679	cacao maigre en poudre 3%
+3175681120679	noix de coco
+3175681120679	_oeufs_ en poudre
+3175681120679	extrait de cacao
+3175681120679	sel marin
+3175681120679	poudres à lever (carbonates de sodium
+3175681120679	carbonates d'ammonium)
+3178530407365	correcteur d'acidité : acide citrique
+3178530407365	farine de _blé_50%
+3178530407365	beurre pâtissier 19%
+3178530407365	raisins secs de corinthe 16%
+3178530407365	sucre
+3268350120367	sel
+3268350120367	Farine de _blé_ T65
+3268350120367	pépites de chocolat 24
+3268350120367	1% (sucre de canne
+3268350120367	pâte de cacao
+3268350120367	beurre de cacao
+3268350120367	extrait de vanille)
+3268350120367	sucre de canne non raffiné
+3268350120367	huile de tournesol
+3268350120367	_beurre_
+3268350120367	sirop de blé
+3268350120367	cacao en poudre 2
+3268350120367	9%
+3268350120367	_noisettes_
+3268350120367	caramel
+3268350120367	poudre à lever : bicarbonate de sodium et d'ammonium
+3268350120367	sel de mer
+3222475123597	jus de citron concentré.
+3222475123597	Farine de blé**
+3222475123597	pépites de chocolat noir** 30
+3222475123597	5 % (pâte de cacao**
+3222475123597	sucre**
+3222475123597	beurre de cacao**
+3222475123597	émulsifiant : lécithine de tournesol
+3222475123597	extrait de vanille**)
+3222475123597	sucre**
+3222475123597	beurre**
+3222475123597	cacao maigre en poudre** 2
+3222475123597	3 %
+3222475123597	poudre à lever : carbonate d'ammonium
+3222475123597	sel marin
+3222475123597	arôme naturel de cacao
+3222475123597	arôme naturel de vanille
+3222475123597	œuf en poudre**
+3368955782202	poudre de lait écrémé**.    **Ingrédents issus de l'Agriculture Biologique.  
+3368955782202	Farine de blé (France)
+3368955782202	sucre
+3368955782202	beurre d'lsigny A.O.P. 23%
+3368955782202	pépites de fruits rouges 7% (purée et jus de pomme concentrés
+3368955782202	fruits rouges : purées de fraise - framboise - cassis - groseille et jus concentré de sureau (équivalent à 5% de fruits rouges)
+3368955782202	fibres de blé
+3368955782202	gélifiant : pectines)
+3368955782202	crème fraîche d’lsigny A.O.P. 5%
+3368955782202	jaunes d’œufs en poudre
+3368955782202	arôme
+3368955782202	sel marin
+3368955782202	jus de citron
+3368955782202	œuf entier en poudre
+3270720080102	lait écrémé en poudre.
+3270720080102	_Amandes_ décortiquées
+3270720080102	raisins blonds (raisins secs
+3270720080102	huile de tournesol
+3270720080102	conservateur : _anhydride sulfureux_)
+3270720080102	cranberries (cranberries séchées
+3270720080102	sucre
+3270720080102	huiles de tournesol)
+3256224371410	cerneaux de _noix de pécan_.
+3256224371410	Farine de _blé_
+3256224371410	graines de _sésame_ 22%
+3256224371410	huile d'olive vierge extra 8%
+3256224371410	sel
+3256224371410	levure
+3256224371410	farine de malt d'_orge_ (contient du _blé_)
+3760077531865	agent de traitement de la farine : acide ascorbique.
+3760077531865	farine de _blé_ tendre type &quot;0&quot;
+3760077531865	graines de _sésame_ 20%
+3760077531865	huile de tournesol
+3760077531865	sel
+3760077531865	levure (Saccharomyces Cerevisiae)
+3512690000101	farine de _froment_ malté.
+3512690000101	Viande bovine halal
+3512690000101	sel
+3512690000101	dextrose
+3512690000101	saccharose
+3512690000101	stabilisants (E450
+3512690000101	E451
+3512690000101	E452)
+3512690000101	épices
+3512690000101	conservateur (nitrate de potassium)
+3770002558126	ferments
+3770002558126	_Amandes_ 45%
+3770002558126	sucre
+3770002558126	blanc d'_oeuf_
+3770002558126	framboise 2%
+3770002558126	amaretto 2% (eau
+3770002558126	sucre
+3770002558126	_alcool_
+3770002558126	arômes naturels)
+3770002558126	_miel_
+3266191085739	colorant naturel: poudre de betterave
+3266191085739	Farine de _blé_ T65 50%
+3266191085739	sucre de canne roux
+3266191085739	huile de tournesol oléique
+3266191085739	poudre de cacao maigre 6%
+3266191085739	poudre de _lait_ écrémé
+3266191085739	beurre de cacao
+3266191085739	_œufs_ entiers
+3266191085739	_beurre_
+3266191085739	sel de mer
+3266191085739	poudres à lever : carbonates d'ammonium
+3266191085739	carbonates de sodium
+3266191085739	épaississant : gomme d'acacia
+3266191085739	émulsifiant : lécithine de tournesol
+3270190155584	amidon de _blé_.
+3270190155584	Pomme de terre déshydratée 52
+3270190155584	6% (_sulfites_)
+3270190155584	amidon de pomme de terre (_sulfites_)
+3270190155584	huile de tournesol
+3270190155584	sel 2
+3270190155584	4%
+3270190155584	arôme naturel de paprika
+7622300737955	arôme naturel de curcuma
+7622300737955	tarwebloem
+7622300737955	palmvet
+7622300737955	glucosestroop
+7622300737955	gerstemoutextract
+7622300737955	eieren
+7622300737955	rijsmiddelen
+7622300737955	zout
+7622300737955	aroma
+3268350120824	meelverbeteraar
+3268350120824	farine de petit épeautre (triticum monococum) 48%
+3268350120824	sirop de blé
+3268350120824	huile de tournesol
+3268350120824	pépites de chocolat 11.7% (sucre de canne
+3268350120824	pâte de cacao
+3268350120824	beurre de cacao
+3268350120824	extrait de vanille)
+3268350120824	_noisettes_
+3268350120824	poudre à lever : carbonate de sodium et d'ammonium
+3268350120824	fibre d'_avoine_
+2000000000094	jus de citron concentré?
+2000000000094	Farine de _blé_
+2000000000094	sucre
+2000000000094	_beurre_ 22%
+2000000000094	sel
+3396411227486	farine de malt d'_orge_.
+3396411227486	Sucre*
+3396411227486	chocolat noir* 18.7% (pâte de cacao*
+3396411227486	sucre*
+3396411227486	beurre de cacao*
+3396411227486	émulsifiant : lécithines (tournesol); extrait de vanille*)
+3396411227486	_oeufs_ frais* 18%
+3396411227486	farine de _blé*_ 12%
+3396411227486	_beurre_*
+3396411227486	huile de colza*
+3396411227486	_noix*_ 5.9%
+3396411227486	cacao en poudre*
+3396411227486	sel
+3396411227486	poudres à lever : phosphates de calcium
+3256220363334	carbonates de sodium.  *ingrédients issus de l'agriculture biologique.
+3256220363334	Pommes de terre
+3256220363334	huile de tournesol 24%
+20384425	sel.  
+20384425	Sucre
+20384425	_oeuf_
+20384425	huile de colza
+20384425	10
+20384425	8% chocolat (sucre
+20384425	pâte de cacao
+20384425	beurre de cacao
+20384425	émulsifiant : lécithine de _soja_; arôme)
+20384425	farine de _blé_
+20384425	6
+20384425	4% _noisettes_
+20384425	farine de _soja_
+20384425	beurre pâtissier (_lait_)
+20384425	cacao en poudre
+20384425	poudre à lever : diphosphate disodique
+20384425	carbonates de sodium; sel
+3263853107013	farine de _blé_ malté.
+3368954400770	Pommes de terre - huile de tournesol 24% - sel.
+3368954400770	Farine de _blé_ (France) 52%
+3368954400770	sucre 22%
+3368954400770	_beurre_ (France) 22%
+3368954400770	pépites au citron vert 10.6% (sucre
+3368954400770	pomme
+3368954400770	jus de citron 1.9%
+3368954400770	dextrose
+3368954400770	fibres d'ananas
+3368954400770	gélifiant (alginate de sodium)
+3368954400770	arôme naturel de citron vert
+3368954400770	correcteur d'acidité (acide citrique)
+3368954400770	stabilisant (dicalcium phosphates)
+3368954400770	colorant (caramel
+3368954400770	chlorophylles)
+3368954400770	correcteur d'acidité (citrates de potassium))
+3368954400770	jaune d'_oeuf_
+3368954400770	jus de citron 0.7%
+3368954400770	jus de citron vert à base de jus concentré de citron vert 0.5%
+3368954400770	sel
+3368954400770	poudres à lever (carbonate acide de sodium
+3368954400770	pyrophosphate acide de sodium)
+3256225054756	_lait_ demi-écrémé.
+3256225054756	Sucre de canne
+3256225054756	farine de _blé_
+3256225054756	farine de _blé_ complet
+3256225054756	huile de tournesol
+3256225054756	_beurre_
+3256225054756	_lait_ écrémé en poudre
+3256225054756	beurre de cacao
+3256225054756	_œufs_
+3256225054756	arôme naturel
+3256225054756	poudre de fraise 0
+3256225054756	49% (équivalent à 4
+3256225054756	9% de fraise)
+3256225054756	poudre de framboise 0
+3256225054756	49% (équivalent à 4
+3256225054756	4% de framboise)
+3256225054756	poudres à lever : carbonates d'ammonium - carbonates de sodium
+3256225054756	poudre de betterave
+3256225054756	sel
+3256225054756	épaississant : gomme d'acacia
+26039510	antioxydant : extrait de romarin.
+26039510	_Peanuts_ (46%)
+26039510	Maltodextrin
+26039510	Compound Milk Chocolate 12% (Sugar
+26039510	Vegetable Oil
+26039510	_Milk_ Solids
+26039510	Cocoa Powder
+26039510	Emulsifiers (322 From _Soy_
+26039510	492
+26039510	476)
+26039510	Acidity Regulator (330)
+26039510	Natural Chocolate Flavour)
+26039510	Sultanas (Sultanas
+26039510	Vegetable Oil)
+26039510	Glucose Syrup
+26039510	Date Pieces
+26039510	Vegetable Oil
+26039510	Brown Sugar
+26039510	Puffed _Wheat_
+26039510	Humectant (422)
+26039510	Sugar
+26039510	Sunflower Seeds
+26039510	Honey
+26039510	Emulsifier (322 From _Soy_)
+3178530409604	Caramelised Sugar
+3178530409604	Farine de _blé_ 53%
+3178530409604	sucre
+3178530409604	_beurre_ 15%
+3178530409604	pâte de cacao
+3178530409604	_œufs_ frais
+3178530409604	arômes
+3178530409604	sel
+3178530409604	poudres à lever : carbonates d'ammonium
+3178530409604	carbonates de sodium
+3178530409604	tartrates de potassium et acide trartrique
+3178530409604	_lait_ écrémé en poudre
+3178530409604	cacao maigre en poudre
+3178530409604	beurre de cacao
+5412514933050	émulsifiant : lécithines (_soja_).
+5412514933050	farine de maïs*
+5412514933050	huile de tournesol désodorisée*
+5412514933050	dextrose*
+5412514933050	sel
+5412514933050	yaourt en poudre* (_lait_)
+5412514933050	oignon*
+5412514933050	maltodextrine*
+5412514933050	_lait_ en poudre*
+5412514933050	extrait de levure
+5412514933050	herbes et épices (persil
+5412514933050	poivre blanc)*
+8480017076489	acidifiant: acide citrique. (*=issu de la culture biologique contrôlée).
+8480017076489	Harina de maíz
+8480017076489	grasa vegetal
+8480017076489	almidón de maíz
+8480017076489	fécula de patata
+8480017076489	sal
+8480017076489	azúcar
+3278310003104	gasificante: bicarbonato sódico (E-500ii) y acidulante: ácido cítrico (E-330).
+3278310003104	Beurre (_lait_)
+3760121211873	sel 3 % max.
+3760121211873	Farine de blé 49
+3760121211873	5%
+3760121211873	chocolat noir 25%
+3760121211873	beurre 14%
+3760121211873	sucre de canne roux 13
+3760121211873	5%
+3760121211873	poudre de lait écrémé
+3760121211873	sirop d'orge malté
+3760121211873	noix de coco
+3760121211873	poudres à lever
+3760121211873	sel
+3113010128750	vanille
+3113010128750	Foie gras de canard
+3113010128750	eau
+3113010128750	sel
+3113010128750	Porto (0
+3113010128750	5%)
+3113010128750	poire
+3113010128750	sucre
+3113010128750	antioxydant : acide ascobique (E300)
+3339881001026	conservateur : nitrite de sodium (E250).
+3339881001026	Farine de _blé_
+3339881001026	sucre
+3339881001026	huile de tournesol
+3339881001026	_amandes_ 7%
+3339881001026	sucre inverti
+3339881001026	poudre à lever (diphosphate disodique
+3339881001026	carbonate acide de sodium)
+3339881001026	sel
+3435070029205	arôme.
+3435070029205	Farine de _blé_
+3435070029205	chocolat au lait 28% ( sucre
+3435070029205	beurre de cacao
+3435070029205	poudre de _lait_ entier
+3435070029205	pâte de cacao
+3435070029205	émulsifiant : lécithine de _soja_
+3435070029205	arôme naturel de vanille)
+3435070029205	sucre
+3435070029205	_beurre_ concentré
+3435070029205	_œufs_
+3435070029205	dextrose
+3435070029205	sel
+3435070029205	poudres à lever (carbonate acide d'ammonium
+3435070029205	carbonate acide de sodium
+3435070029205	diphosphate disodique)
+3700311810516	arôme.
+3700311810516	Sucre
+3700311810516	pâte de cacao
+3700311810516	beurre de cacao
+3700311810516	émulsifiants : lécithine de tournesol
+3700311810516	polyricinoléate de polyglycérol
+3410280021959	arôme vanille.
+3410280021959	Viande de porc
+3410280021959	piment
+3410280021959	paprika
+3410280021959	épices et extraits d'épices
+3410280021959	_lactose_
+3410280021959	sel
+3410280021959	dextrose de maïs
+3410280021959	protéines de _lait_
+3410280021959	arômes naturels
+3410280021959	conservateur : nitrate de potassium
+3067163621678	antioxydant : érythorbate de sodium ; ferments (_soja_).  142 g de viande de porc ont été utilisés pour élaborer 100 g de produit fini.
+3067163621678	Foie Gras de Canard
+3067163621678	eau
+3067163621678	sel
+3067163621678	Porto
+3067163621678	Armagnac
+3067163621678	sucre
+3067163621678	poivre
+3067163621678	conservateur: nitrite de sodium
+20181482	antioxydant : ascorbate de sodium.  
+20181482	Semoule de mais
+20181482	cacahuètes grillées moulues
+20181482	huile de tournesol
+20181482	sel
+20181482	arôme naturel
+5000396037937	maltodextrine
+5000396037937	ac VITES DIGESTME FR: OEL;CIEIJX BSCU7S ngrédents: farine de wnplee (2%)
+5000396037937	huile (p arrej$ fer
+5000396037937	e complete (1 3%)
+5000396037937	sirop de par.id!errert inveri
+5000396037937	a % sodium
+5000396037937	aci± tanrique
+5000396037937	acide malicue)
+5000396037937	El Conserver au frais et au sec
+5000396037937	Apre ower.ure
+5000396037937	darse Valeurs nuritives (Par 1009) Energie ; 16 5g)
+5000396037937	Graisses 21.3g (dont gras 10-1 g)
+5000396037937	7.1 g ; Sel 1 
+5000396037937	3mg Fabriqué au Rqaurne•l-hi. A can%rnrrer de pr&quot;erze Ingred&lt;en: meel van volledge '*rue (2%)
+5000396037937	Àarr.aard;e maaltijd (13%)
+5000396037937	gSnver'er± wikerwocp
+5000396037937	wijneeenzuur
+5000396037937	appelzuur)
+5000396037937	4061 en droog bewaren. Na het te eaan in en toedingswaar± (Per 100g): Energie 2015 kU/431kzl
+5000396037937	;uikers 16 5g)
+5000396037937	Vetten 21 33 (waarvan vetzadg± ve•zuren 10.12)
+5000396037937	7.1;
+5000396037937	oedingwezels 3 eg
+5000396037937	Zoat 1.3mg. Gemaakt in Groat-Brittannié Houdbaz einde. ze verpa+ing. mporté par/Ge&quot;mpofteerd door. i Won±rfood S PRLBVBA Rue Baisan aux za•ps
+7610200021120	no 1 1 1 400 Nivelles
+7610200021120	farine de blé
+7610200021120	beurre 25%
+7610200021120	levure
+7610200021120	lait écrémé en poudre
+7610200021120	sel de cuisine iodé
+7610200021120	protéine de blé
+7610200021120	lactose
+8480017032645	farine de malt d'orge.
+8480017032645	azúcar
+8480017032645	_almendras_ (45%)
+8480017032645	glucosa
+8480000364074	conservador (E-200). 
+8480000364074	Azúcar
+8480000364074	_almendra_ (46%)
+20276607	conservador: ácido sórbico (E-200).
+20276607	Farine de _blé_
+20276607	sucre
+20276607	18% beurre (contient du _lait_)
+20276607	_oeuf_
+20276607	sel
+4004980517905	poudre à lever : carbonate acide de sodium.
+4004980517905	42% _Erdnusskerne_
+4004980517905	Reismehl
+4004980517905	Stärke (Mais
+4004980517905	_Weizen_)
+4004980517905	_Weizenmehl_
+4004980517905	Sonnenblumenöl
+4004980517905	Zucker
+4004980517905	Salz
+4004980517905	Gewürze
+4004980517905	Tomatenpulver
+4004980517905	Zwiebelpulver
+4004980517905	natürliches Aroma
+4004980517905	Paprika
+4004980517905	Hefeextrakt
+4004980517905	Chili
+4004980517905	Farbstoff (Paprikaextrakt)
+7610036000337	Invertzucker.
+7610036000337	Sucre
+7610036000337	beurre de cacao
+7610036000337	_lait_ entier en poudre
+7610036000337	pâte de cacao
+7610036000337	Rémy Martin fine champagne Cognac (9%)
+7610036000337	_lait_ écrémé en poudre
+7610036000337	noisettes
+7610036000337	petit _lait_ en poudre
+7610036000337	émulsifiant (lécithine de _soja_)
+3588570003524	arôme naturel de vanille  Cacao: 31% minimum dans le chocolat
+3588570003524	Farine de _blé_
+3588570003524	chocolat au _lait_ 30% (sucre
+3588570003524	beurre de cacao
+3588570003524	poudre de _lait_ entier
+3588570003524	pâte de cacao
+3588570003524	lactosérum en poudre (_lait_)
+3588570003524	émulsifiant : lécithine de _soja_
+3588570003524	arôme naturel de vanille)
+3588570003524	sucre
+3588570003524	beurre concentré 8
+3588570003524	5% (_lait_)
+3588570003524	mélange de céréales 8
+3588570003524	5% (_seigle_
+3588570003524	_épeautre_
+3588570003524	_orge_
+3588570003524	_avoine_
+3588570003524	maïs
+3588570003524	riz)
+3588570003524	céréales croustillantes (farine de riz
+3588570003524	sucre
+3588570003524	sel
+3588570003524	beurre de cacao)
+3588570003524	fibres solubles
+3588570003524	poudres levantes (carbonate acide d'ammonium
+3588570003524	carbonate acide de sodium)
+3588570003524	extrait de malt (_orge_)
+3588570003524	_lait_ entier en poudre (émulsifiant : lécithine de _soja_)
+3588570003524	_oeuf_ entier en poudre
+3588570003524	arôme naturel de _noisettes_ avec d'autres arômes naturels
+3588570003524	arôme
+3588570003524	sel
+4003754176447	sirop de sucre candi.
+4003754176447	Zucker
+4003754176447	_Mandeln_ gemahlen 38%
+4003754176447	Kakaomasse
+4003754176447	Wasser
+4003754176447	Kakaobutter
+4003754176447	Emulgator: Lecithine
+4104420053847	Feuchthaltemittel: Invertase.
+4104420053847	Maismehl 77%
+4104420053847	Sonnenblumenöl
+4104420053847	Meersalz 0
+4104420054806	8%
+4104420054806	Maismehl 74%
+4104420054806	Sonnenblumenöl
+4104420054806	Würzzubereitung (Salz
+4104420054806	Paprika
+4104420054806	Knoblauch
+4104420054806	Zwiebel
+4104420054806	Rübenzucker
+4104420054806	Koriander
+4104420054806	Chili
+4104420054806	Bockshornklee
+4000161100904	Liebstöckelwurzel)
+4000161100904	_Mandeln_ 57%
+4000161100904	Zucker
+4000161100904	Invertzuckersirup
+4000161440673	Alkohol.
+4000161440673	_Mandeln_ 57%
+4000161440673	Zucker
+4000161440673	Invertzuckersirup
+4000161440673	Alkohol
+4000161440673	stark entölter Kakao
+4000161440673	_Hühnereiweiß_
+4000161440673	Salz
+4000161440673	Farbstoff: E153
+4000161440673	Stabilisator: Gummi arabicum
+4000161440673	Verdickungsmittel (Johannisbrotkernmehl
+4000161440673	E466)
+3560070559619	Säureregulator: Kaliumphosphat.
+3560070559619	Farine de _blé_
+3560070559619	_beurre_ 23%
+3560070559619	_emmental_ 3
+3560070559619	7%
+3560070559619	levure
+3560070559619	sel
+3560070559619	graines de _sésame_ 1
+3560070559619	9%
+3560070559619	tomate en poudre 0
+3560070559619	6%
+3560070559619	_lait_ écrémé en poudre
+3560070559619	origan 0
+3560070559619	3%
+26192000	farine de malt d'_orge_.
+26192000	lNGREDlENTS: Peanuts (46%)
+26192000	Compound Milk Chocolate (12%) [Sugar
+26192000	vegetable 0il
+26192000	Milk Solids
+26192000	Cocoa Powder
+26192000	Emulsifiers (322 From Soy
+26192000	492
+26192000	476). Acidity Regulator (330)
+26192000	Natural Chocolate Flavour]
+26192000	Maltodextrin
+26192000	Sultanas (Sultanas
+26192000	Vegetable Oil)
+26192000	Almonds (4.0%)
+26192000	Glucose Syrup
+26192000	Vegetable Oil
+26192000	Pufffed Wheat
+26192000	Sweetened Dried Cranberries (2.5%)
+26192000	Brown Sugar
+26192000	Humectant(422)
+26192000	Sugar
+26192000	Honey
+26192000	Sunflower Seeds
+26192000	Emulsifier (322 From Soy) Caramelised Sugar
+26192000	Natural Cranberry Flavour
+26192000	Acidity Regulator (330). Compound Milk Chocolate contains 17.5% Milk solids minimum · )and 3.9% cocoa solids minimum. Sweetened Dried Cranberries contains 60% cranberries.CONTAINS PEANUTS
+26192000	TREE NUTS
+26192000	GLUTEN
+3760029244003	MILK AND SOY. MAY CONTAIN: SESAME SEEDS AND SULPHITES. 
+3760029244003	Farine de _froment_
+3760029244003	_beure_ frais (34%)
+3760029244003	sucre
+3760029244003	_lait_ stérilisé
+3760029244003	jaunes d’_œufs_
+3760020501051	sel
+3760020501051	Huile de tournesol
+3760020501051	tomates séchées 21
+3760020501051	8 %
+3760020501051	pulpe de tomates 9 %
+3760020501051	_noix de cajou_ en poudre
+3760020501051	sel marin
+3760020501051	huile d'olive vierge extra
+3760020501051	Parmesan (_lait_) 3 %
+3760020501051	_lait_ écrémé en poudre
+3760020501051	basilic
+3760020501051	amidon de maïs
+3760020501051	vinaigre de vin issu de raisin
+3760020501051	ail en poudre
+3760020501051	origan
+20127541	correcteurs d'acidité : acide citrique et acide ascorbique.
+20127541	Chocolat noir 48 % (sucre
+20127541	pâte de cacao
+20127541	beurre de cacao
+20127541	lactose
+20127541	matière grasse laitière anhydre
+20127541	poudre de lait écrémé
+20127541	émulsifiant : lécithine
+20127541	arôme)
+20127541	farine de blé
+20127541	sucre
+20127541	beurre pâtissier 5 %
+20127541	sirop de glucose - fructose de blé
+20127541	sel
+20127541	poudre à lever : carbonates d'ammonium et de sodium - diphosphates
+3396411223143	acidifiant : acide citrique.
+3396411223143	Farine de _blé_ de Normandie 46 %
+3396411223143	sucre de canne
+3396411223143	_beurre_ de Normandie 20 %
+3396411223143	flocons d'_avoine_
+3396411223143	farine d'_avoine_
+3396411223143	_lait_ demi-écrémé
+3396411223143	poudre de _lait_ écrémé
+3396411223143	amidon de _blé_
+3396411223143	sel marin de Guérande (0
+3396411223143	85 %)
+3396411223143	extrait de vanille
+3396411223143	poudres à lever : carbonates de sodium
+3560070504701	carbonates d'ammonium.
+3560070504701	Sucre
+3560070504701	céréales maltées croustillantes 20% (Farine de blé
+3560070504701	sucre
+3560070504701	farine de blé malté
+3560070504701	amidon de blé
+3560070504701	extrait de malt d'orge
+3560070504701	lait écrémé en poudre
+3560070504701	sel)
+3560070504701	poudre de lait entier
+3560070504701	beurre de cacao
+3560070504701	pâte de cacao
+3560070504701	lactosérum en poudre
+3560070504701	extrait de malt d'orge
+3560070504701	EMULSIFIANT : Lécithine de soja
+3560070504701	sirop de glucose
+3560070504701	AGENT D'ENROBAGE : Gomme arabique
+3560070504701	arôme
+5901869009645	amidon modifié de pomme de terre
+5901869009645	Viande de porc 24.5% (origine UE)
+5901869009645	viande de dinde 19.9%
+5901869009645	viande de poulet 16.9%
+5901869009645	gras de porc
+5901869009645	viande séparée mécaniquement de poulet
+5901869009645	gras de volaille
+5901869009645	huile de colza
+5901869009645	fibres de _blé_
+5901869009645	peau de poulet
+5901869009645	sel
+5901869009645	épices et arômes
+5901869009645	conservateur : nitrite de sodium. Produit fumé au bois. Enveloppe du produit : gélifiants : alginate de sodium et gomme de guar
+5901869009645	stabilisants : chlorure de calcium
+3265475016001	correcteur d'acidité : lactate de calcium.
+3265475016001	Huile de colza (49%)
+3265475016001	eau
+3265475016001	vinaigre d'alcool
+3265475016001	purée de tomate mi-réduite (6
+3265475016001	4%)
+3265475016001	sucre
+3265475016001	jaune d'_œuf_ de poules élevées en plein air
+3265475016001	sel
+3265475016001	_moutarde_ mi-forte (eau
+3265475016001	graine de _moutarde_
+3265475016001	vinaigre
+3265475016001	sel
+3265475016001	sucre
+3265475016001	dextrose
+3265475016001	arôme
+3265475016001	épice)
+3265475016001	arômes (dont arôme poulet rôti 1
+3265475016001	3%)
+3265475016001	amidon modifié
+3265475016001	ail (0
+3265475016001	25%)
+3265475016001	jus de citron concentré
+26018324	épaississant : gomme xanthane
+26018324	Semoule de maïs (58
+26018324	7 %)
+26018324	_arachides_ grillées moulues (32 %)
+26018324	huile de tournesol (7
+26018324	5 %)
+3555080708591	sel. 
+3555080708591	70 % de chocolat noir (pâte de cacao
+3555080708591	sucre
+3555080708591	beurre de cacao
+3555080708591	émulsifiant : lécithine de _soja_
+3555080708591	arôme vanille)
+3555080708591	30 % de fourrage caramel liquide au beurre et salé à la fleur de sel (sucre
+3555080708591	sirop de glucose
+3555080708591	_lait_ concentré
+3555080708591	_lait_ concentré sucré
+3555080708591	_beurre_ 2
+3555080708591	5 %
+3555080708591	sirop de sucre inverti
+3555080708591	stabilisant : sorbitol
+3555080708591	dextrose
+3555080708591	fleur de sel 0
+3555080708591	07 %
+3555080708591	sel 0
+3555080708591	07 %
+3555080708591	arôme vanille (contient de l'_amande_)
+3760077534583	émulsifiant : lécithine de _soja_).
+3760077534583	farine de blé tendre
+3760077534583	huile d'olive
+3760077534583	vin blanc
+3760077534583	huile d'olive vierge extra
+3760077534583	sel
+8423207207478	olives noires déshydratées (1%).  Contient du gluten.
+8423207207478	Maíz (78%)
+8423207207478	aceites vegetales (aceite de girasol alto oleico y aceite de oliva (3
+8423207207478	5%)
+8423207207478	maltodextrina
+8423207207478	tomate en polvo (1%)
+8423207207478	sal
+8423207207478	azúcar
+8423207207478	glucosa
+8423207207478	aroma
+8423207207478	especias
+8423207207478	plantas aromáticas
+8423207207478	albahaca en polvo (0
+8423207207478	02%)
+8423207207478	corrector de la acidez: diacetato sódico (E-262 ii)
+8423207207478	acidulante: ácido cítrico (E-330)
+3222475720444	emulgente: lecitina de _soja_ (E-322) 
+5000167082890	pâte d'amande 44% (poudre d'amande 14% - sucre - sirop de glucose-fructose  - stabilisant : sirop de sorbitol - sirop de glucose - eau - arôme - fécule de pomme de terre) sucre - pâte de cacao - beurre de cacao - beurre concentré - émulsifiant  : lécithine de tournesol - arome naturel de vanille  cacoao : 49 % dans le chocolat noir seul
+5000167082890	sweeteners (lactilol
+5000167082890	aspartame
+5000167082890	acesulfame K)
+5000167082890	cocoa butter
+5000167082890	whole _milk_ powder
+5000167082890	cocoa mass
+5000167082890	inulin
+5000167082890	emulsifier (sunflower lecithin)
+3260260031412	flavouring.
+3260260031412	Farine de _blé_
+3260260031412	sucre
+3260260031412	_beurre_ concentré : 22 % (26.5 % de _beurre_ reconstitué)
+3260260031412	_œufs_ entiers
+3260260031412	sel
+3260260031412	caramel
+3260260031412	poudres à lever (diphosphate disodique
+20277406	carbonate acide de sodium).
+20277406	azúcar
+602652176616	_almendra_  y aroma.
+602652176616	_Amandes_
+602652176616	_noix de coco_
+602652176616	miel
+602652176616	glucose
+602652176616	riz croustillant
+602652176616	inuline (à partir de racines de chicorée)
+8480000335760	_lécithine de soja_.
+8480000335760	Sémola de maíz
+8480000335760	aceite de girasol (19
+8480000335760	9%)
+8480000335760	fibra vegetal
+8413671022202	sal y potenciador del sabor: glutamato monosódico (E-621).
+8413671022202	Harina de maíz
+8413671022202	aceite vegetal
+8413671022202	sal
+8413671022202	azúcar
+8413671030603	gasificante: bicarbonato sódico (E-500ii) y acidulante: ácido cítrico (E-330).
+8413671030603	Harina de maíz
+8413671030603	aceite vegetal
+8413671030603	sal
+8413671030603	azúcar
+8413671022042	gasificante: bicarbonato sódico (E-500ii) y acidulante: ácido cítrico (E-330).
+8413671022042	Harina de maíz
+8413671022042	aceite vegetal
+8413671022042	sal
+8413671022042	azúcar
+5425008344584	gasificante: bicarbonato sódico (E-500ii) y acidulante: ácido cítrico (E-330).
+5425008344584	Pâte de cacao
+5425008344584	sucre
+5425008344584	fibres diététiques (inuline & oligofructose
+5425008344584	dextrine)
+5425008344584	pur beurre de cacao
+5425008344584	canneberges (4.7 %
+5425008344584	grenades lyophilisées (2.5 %)
+5425008344584	extrait naturel de marc de raisin
+5425008344584	arôme naturel de papaye (0.2 %)
+5425008344584	émulsifiant : lécithine de soja
+836110002074	arôme naturel de vanille. Cacao : minimum 65 %. 
+836110002074	Pur beurre de cacao
+836110002074	sucre de canne
+836110002074	fibres d'agave (inuline)
+836110002074	lait écrémé en poudre
+836110002074	pâte de cacao
+836110002074	amandes grillées caramélisées
+836110002074	graines de lin
+836110002074	émulsifiant : lécithine de soja sans OGM
+24001885	arôme de vanille. Cacao: minimum 50 %. Sans OGM;
+24001885	chocolate negro (74%) (azúcar
+24001885	pasta de cacao
+24001885	manteca de cacao
+24001885	emulgente: lecitina de _soja_
+24001885	aromas)
+24001885	harina de _trigo_
+24001885	harina de maíz
+24001885	salvado de _trigo_
+24001885	dextrina
+24001885	sal
+24001885	fructosa
+24001885	vitaminas (A
+24001885	D
+24001885	E
+24001885	B1
+24001885	B2
+24001885	B3
+24001885	B6
+24001885	B9 - ácido fólico
+24001885	B12
+24001885	biotina
+20128609	ácido pantoténico).
+3497900007111	Sonnenblumenkerne geschält
+3497900007111	Farine de _froment_* T65
+3497900007111	olives* 10%
+3497900007111	petits flocons d'avoine*
+3497900007111	huile de coco non hydrogénée*
+3497900007111	huile d'olive* 4
+3497900007111	5%
+3497900007111	_sésame_* 3
+3497900007111	1 %
+3497900007111	_tamari_* (eau
+3497900007111	_soja_*
+3497900007111	sel marin
+3497900007111	alcool*
+3350033092419	ferment : Aspergillus oryzae (koji)).  * Ingrédients issus de l'agriculture biologique.
+3350033092419	Farine de _blé_
+3350033092419	sucre
+3350033092419	_beurre_ concentré 18 %
+3350033092419	amidon de _blé_ et de riz
+3350033092419	_œufs_
+3350033092419	poudre de cacao maigre 1
+3350033092419	5 %
+3350033092419	_lait_ écrémé en poudre
+3350033092419	poudre de cacao 0
+3350033092419	5 %
+3350033092419	sel
+60465005828	arôme naturel vanille.
+60465005828	INGRÉDIENTS: FARINE DE BLÉ EMRICHIE. SUCRE. SHORTENING D'HUILE PALME ET/OU SHORTENING D'HUILE  VÉGÉTALE. MÉLASSE DE FANTAISIE
+60465005828	EAU. ÉPICES
+60465005828	BICARBONATE DE SOUDE
+3250392250249	SEL
+3250392250249	CÉRÉALES* 57 % [farine de _blé_*
+3250392250249	farine complète de _blé_*
+3250392250249	flocons d'_avoine_*
+3250392250249	billettes de riz* (riz*
+3250392250249	_avoine_*
+3250392250249	sel)]
+3250392250249	CHOCOLAT NOIR* 25 % (pâte de cacao*
+3250392250249	sucre de canne*
+3250392250249	beurre de cacao*
+3250392250249	émulsifiant : lécithines (tournesol)
+3250392250249	extrait de vanille*)
+3250392250249	sucre roux de canne*
+3250392250249	matière grasse végéta|e* (huile de tournesol*
+3250392250249	beurre de cacao*
+3250392250249	émulsifiant : lécithines (tournesol)
+3250392250249	acidifiant : acide citrique)
+3250392250249	poudre à lever : carbonates d' ammonium
+3250392250249	sel marin
+3250392250249	poudre de _lait_ écrémé*
+3662790003325	arôme naturel.   *Ingrédients issus de l'agriculture biologique. 
+3662790003325	Farine de BLÉ*
+3662790003325	BEURRE*
+3662790003325	tomates séchées* 9
+3662790003325	5 %
+3662790003325	concentré de tomate*
+3662790003325	gluten de BLÉ*
+3662790003325	levure
+3662790003325	sel de mer
+3662790003325	LAIT en poudre entier*
+3662790003325	arôme naturel
+3662790003325	basilic séché* 0
+3662790003325	5 %
+3662790003325	extrait de levure*
+3662790003325	oignon en poudre*
+3662790003325	poivre blanc*
+3564700083642	ail en poudre*    * = ingrédients issus de l'agriculture biologique.
+3564700083642	Foie gras de canard
+3564700083642	eau
+3564700083642	sel
+3564700083642	Armagnac
+3564700083642	sucre
+3564700083642	épices
+3564700083642	antioxydant : ascorbate de sodium
+3257980085788	conservateur : E250.  
+3257980085764	Foie gras de canard - morceaux de foie gras de canard 30% - eau - sel - Armagnac - sucre - poivre - muscade - antioxydant : ascorbate de sodium - conservateur : nitrite de sodium
+3257982161565	Foie gras de canard - morceaux de foie gras de canard 30% - eau - sel - armagnac - sucre - poivre - antioxydant : ascorbate de sodium - muscade - conservateur : nitrite de sodium
+3245412512179	Foie gras de canard - morceaux de foie gras de canard 30% - eau - sel - Armagnac - sucre - poivre - antioxydant: ascorbate de sodium - muscade - conservateur : nitrite de sodium
+3245412512179	Foie gras de canard
+3245412512179	morceaux de foie gras de canard 30 %
+3245412512179	eau
+3245412512179	sel
+3245412512179	Armagnac
+3245412512179	poivre
+3245412512179	sucre
+3245412512179	antioxydant : acide ascorbique
+3350030201029	conservateur : nitrite de sodium.
+3350030201029	Foie gras de canard
+3350030201029	eau
+3350030201029	sel
+3350030201029	Armagnac
+3350030201029	sucre
+3350030201029	épices
+3350030201029	antioxydant : ascorbate de sodium
+3250391773688	conservateur : nitrite de sodium.
+3250391773688	Foie gras de canard
+3250391773688	morceaux de foie gras de canard 30 %
+3250391773688	eau
+3250391773688	Armagnac
+3250391773688	sel
+3250391773688	poivre
+3250391773688	sucre
+3113010125865	conservateurs : ascorbate de sodium et nitrite de sodium.
+3113010125865	Foie gras de canard
+3113010125865	morceaux de foie gras de canard 30 %
+3113010125865	eau
+3113010125865	sel
+3113010125865	Armagnac
+3113010125865	poivre
+3113010125865	sucre
+3113010125865	antioxydant : acide ascorbique (E300)
+3250391095605	conservateur : nitrite de sodium (E250).
+3250391095605	foie gras de canard
+3250391095605	morceaux de foie gras de canard 30%
+3250391095605	eau
+3250391095605	armagnac
+3250391095605	sel
+3250391095605	poivre
+3250391095605	sucre
+3250390424079	conservateurs : ascorbate de sodium et nitrite de sodium.
+3250390424079	Sucre
+3250390424079	_œufs_
+3250390424079	huile de colza
+3250390424079	chocolat (UE) 10.8% (sucre
+3250390424079	pâte de cacao
+3250390424079	beurre de cacao
+3250390424079	émulsifiant : lécithines de _soja_
+3250390424079	arôme naturel)
+3250390424079	farine de _blé_
+3250390424079	_noisettes_ (UE) 6.4%
+3250390424079	farine de _soja_
+3250390424079	beurre pâtissier (dont _lait_)
+3250390424079	cacao en poudre
+3250390424079	poudre à lever : diphosphates - carbonates de sodium
+3250390424079	sel
+9310072000411	farine de _blé_ malté.
+9310072000411	sugar
+9310072000411	_wheat_ flour
+9310072000411	rolled oats
+9310072000411	coconut
+9310072000411	butter (cream
+9310072000411	salt)
+9310072000411	vegetable oil (contains: soy)
+9310072000411	golden syrup
+9310072000411	baking powder
+8000015003081	salt.
+8000015003081	Farine de froment
+8000015003081	sucre
+8000015003081	huile d'olive extra vierge 7
+8000015003081	5%
+8000015003081	gouttes de chocolat 7
+8000015003081	5% (sucre
+8000015003081	pâte de cacao
+8000015003081	beurre de cacao
+8000015003081	émulsifiant: lécithine de soja; arôme: vanille)
+8000015003081	huile de maïs
+8000015003081	fécule de pommes de terre
+8000015003081	vin blanc 4
+8000015003081	5% (contient des sulfites)
+8000015003081	sirop de glucose-fructose
+8000015003081	poudre à lever: carbonate acide d'amonium
+8000015003081	pyrophosphate acide de sodium
+8000015003081	carbonate acide de sodium
+9300617324126	émulsifiant: lécithine de soja; sel.
+9300617324126	Sugar
+9300617324126	Milk Solids
+9300617324126	Wheat Glucose Syrup
+9300617324126	Cocoa Butter
+9300617324126	Cocoa Mass
+9300617324126	Raising Agent (500)
+9300617324126	Emulsifiers (Soy Lecithin
+9300617324126	476)
+9300617324126	Flavour. Milk Chocolate contains Cocoa Solids 28%
+9300617324126	Milk Solids 22%.  Allergen:    Contains Soy
+9300617324126	Contains Milk
+3339883010170	Contains Wheat
+3339883010170	Farine de _blé_
+3339883010170	sucre
+3339883010170	huile de tournesol
+3339883010170	amandes 7%
+3339883010170	sucre inverti
+3339883010170	poudres à lever (diphosphate disodique
+3339883010170	carbonate acide de sodium)
+3339883010170	sel
+8480017020215	arôme.
+8480017020215	Pommes de terre (75%)
+8480017020215	huile de tournesol (24%)
+9400553011477	sel.
+9400553011477	_wheat_ flour
+9400553011477	sugar
+9400553011477	vegetable fats (antioxidant (307b)
+9400553011477	emulsifiers (492
+9400553011477	_soy_ lecithin))
+9400553011477	cocoa powder
+9400553011477	_milk_ solids
+9400553011477	invert syrup
+9400553011477	colours (150c
+9400553011477	110
+9400553011477	115)
+9400553011477	salt
+9400553011477	raising agents (500
+9400553011477	450)
+9400553011477	emulsifier (_soy_ lecithin)
+8480017155436	flavours.
+8480017155436	Chocolate negro (65%) [azúcar
+8480017155436	pasta de cacao
+8480017155436	manteca de cacao
+8480017155436	emulgente: Iecitinas (contiene _soja_) (E-322)
+8480017155436	aroma]
+8480017155436	azúcar
+8480017155436	jarabe de glucosa
+8480017155436	agua
+8480017155436	jarabe e azúcar invertido
+8411814206885	aceite de menta.
+8411814206885	Viande et lard de porc (123 g de viande de porc mise en œuvre pour 100 g de produit fini)
+8411814206885	paprika
+8411814206885	sel
+8411814206885	protéine de _soja_
+8411814206885	_lactose_
+8411814206885	dextrose
+8411814206885	épices
+8411814206885	antioxydant (E316)
+8411814206885	conservateurs (E250
+8411814215863	E252).
+8411814215863	Viande et lard de porc 
+8411814215863	Paprika
+8411814215863	Sel
+8411814215863	Protéine de _Soja_
+8411814215863	_Lactose_
+8411814215863	Dextrose
+8411814215863	Épices
+8411814215863	Antioxydant (E316)
+8411814215863	Conservateurs (E250
+8411814210806	E252).
+8411814210806	Viande et lard de porc
+8411814210806	paprika
+8411814210806	sel
+8411814210806	protéine de soja
+8411814210806	lactose
+8411814210806	épices
+8411814210806	dextrine
+8411814210806	dextrose
+8411814210806	antioxydant (E316)
+8411814210806	conservateurs (E250
+3700656401158	E252)
+3700656401158	Viande de porc
+3700656401158	sel
+3700656401158	dextrose
+3700656401158	arômes
+3700656401158	épices
+3700656401158	antioxydant : ascorbate de sodium
+3700656401158	conservateurs : nitrite de sodium
+26080994	nitrate de potassium.
+26080994	farine de _blé_
+26080994	beurre (contient du _lait_)
+26080994	huile de tournesol
+26080994	assaisonnement (sel
+26080994	amidon de pomme de terre
+26080994	sucre
+26080994	sirop de glucose
+26080994	raifort
+26080994	épices (poudre d'oignon
+26080994	poudre d'ail)
+26080994	arôme
+26080994	dextrose
+26080994	poudre d'épinards
+26080994	huile de colza
+26080994	acidifiant : acétates de sodium
+26080994	arôme naturel)
+26080994	amidon modifié de maïs
+26080994	poudre de _lait_ partiellement écrémé
+26080994	sucre
+26080994	sirop de glucose
+26080994	arôme naturel
+26080994	poudre de lactosérum (contient du _lait_)
+26080994	sel
+26080994	poudres à lever : E503
+26080994	E500
+26080994	oignon en poudre
+26080994	poudre de champignons
+26080994	épices
+3222475718991	colorant : complexes cuivres-chlorophylles et cuivres-chlorophyllines.
+3222475718991	Farine de _blé_ 72 %
+3222475718991	huiles de colza et de tournesol
+3222475718991	graines de _sésame_ 4
+3222475718991	8 %
+3222475718991	sucre
+3222475718991	graines de pavot 2
+3222475718991	4 %
+3222475718991	préparation à base de sucre (sucre
+3222475718991	sirop de sucre inverti caramélisé)
+3222475718991	poudres à lever : phosphates de calcium
+3222475718991	carbonates de sodium
+3222475718991	carbonates d'ammonium
+3222475718991	farine d'_orge_ maltée
+3222475718991	sel
+3222475718991	mélange aromatique (sel
+3222475718991	épices
+3222475718991	extrait de levure
+3222475718991	thym
+3222475718991	sucre
+3222475718991	arôme naturel (contient _gluten_)
+3222475718991	poudre d'oignon
+819701	extrait d'épice).
+819701	Rapeseed Oil
+819701	Water
+819701	Sugar
+819701	Vinegar
+819701	Pasteurised Free Range Egg Yolk
+819701	Tomato Paste
+819701	Gherkins (2.7%) (Gherkins
+819701	Vinegar
+819701	Water
+819701	Natural Flavouring)
+819701	Cornflour
+819701	Concentrated Lemon Juice
+819701	Salt
+819701	Mustard Flour
+819701	Dried Red Peppers
+819701	Dill
+819701	Dried Onions
+819701	Preservative: E202
+819701	Paprika
+819701	Ground Black Pepper
+8480000670151	Chilli Powder
+8480000670151	Cacahuete tostado 90%
+8480000670151	azúcar
+8480000670151	grasa vegetal totalmente hidrogenada de palma
+3535800172659	sal.
+3535800172659	Farine de _blé_
+3535800172659	sucre
+3535800172659	chocolat au _lait_ 21 % (sucre
+3535800172659	beurre de cacao
+3535800172659	poudre de _lait_ entier
+3535800172659	pâte de cacao
+3535800172659	_lactose_
+3535800172659	émulsifiant : lécithines (_soja_)
+3535800172659	arôme naturel de vanille)
+3535800172659	chocolat noir 21 % (pâte de cacao
+3535800172659	sucre
+3535800172659	beurre de cacao
+3535800172659	beurre pâtissier (_lait_)
+3535800172659	émulsifiant : lécithines (_soja_)
+3535800172659	arôme naturel de vanille)
+3535800172659	beurre pâtissier (_lait_) 5 %
+3535800172659	_lactose_ et protéines de _lait_
+3535800172659	sel
+3535800172659	extrait de malt d'_orge_
+3535800172659	poudre à lever : carbonates de sodium
+3270160801534	lécithines (_soja_).
+3270160801534	Chocolat au _lait_ 43% [sucre
+3270160801534	beurre de cacao
+3270160801534	_lait_ entier en poudre
+3270160801534	pâte de cacao
+3270160801534	lactose (_lait_)
+3270160801534	émulsifiant : lécithine de _soja_
+3270160801534	arôme naturel de vanille]
+3270160801534	farine de blé (_gluten_)
+3270160801534	sucre
+3270160801534	_beurre_ concentré (contient _lait_)
+3270160801534	lactose (_lait_) et protéines de _lait_
+3270160801534	sel
+3270160801534	extrait de malt d'orge (_gluten_)
+3270160801534	poudre à lever : carbonates de sodium
+8410376016789	lécithine de _soja_.  
+8410376016789	Farinha de _trigo_ 59%
+8410376016789	gordura vegetal (palma)
+8410376016789	açucar
+8410376016789	xarope de glucose e frutose
+8410376016789	levedantes químicos (bicarbonatos de sódio e amónio)
+4001518003312	sal.
+4001518003312	_Weizenmehl_
+4001518003312	Zucker. pﬂanzliche Fette (Palm
+4001518003312	Palmkern
+4001518003312	Kokos in veränderlichen Gewichtsanteilen)
+4001518003312	Glukosesirup
+4001518003312	fettarmes Kakaopulver (4%)
+4001518003312	Backtriebmittel (Ammoniumhydrogencarbonat
+4001518003312	Natriumhydrogencarbonat)
+4001518003312	Speisesalz
+4001518003312	_Magermilchpulver_
+4001518003312	_Molkenerzeugnis_
+4001518003312	Säureregulator (Natriumcarbonat). Kann Spuren ent alten von: Sofa
+4001518003312	Sulﬁte. ﬁchalenfrüchtçn (Ç : Hasçlnﬁsse)
+8008714000899	Ei. Vo_r Wärme sçhützen. Trocken. lagemz Hergestelrlt in  
+8008714000899	Kartoffeln
+8008714000899	Pflanzenöle (90% Sonnenblumenöl
+8008714000899	10% Olivenöl)
+24086721	Salz.
+24086721	Azúcar
+24086721	_almendra_ (45%)
+8410350065055	conservador: ácido sórbico (E-200).
+8410350065055	Azúcar
+8410350065055	_almendra_ (45%)
+8431876251197	conservador (ácido sórbico).
+8431876251197	_Almendra_ (45%)
+8431876251197	azúcar
+8433329039826	jarabe de glucosa y conservador (ácido sórbico).
+8433329039826	_Almendra_ (50%)
+8433329039826	azúcar
+8433329039826	jarabe de glucosa y fructosa
+8433329039826	agua
+8433329039833	conservador (E 200) y acidulante (E 330).
+8433329039833	_Almendra_ (50%)
+8433329039833	azúcar
+8433329039833	jarabe de glucosa y fructosa
+8433329039833	agua
+3700428432885	conservador (E 200) y acidulante (E 330).
+3700428432885	Foie gras de canard (origine France)
+3700428432885	sel
+3700428432885	poivre
+3700428432885	poivre de Madagascar (0
+85366013000299	3 %).
+85366013000299	unbleached wheat flour
+85366013000299	sugar
+85366013000299	butter 22%
+85366013000299	whole milk
+85366013000299	yolks
+85366013000299	sea salt
+85366013000299	raising agent (ammonium carbonate)
+85366013000299	whole eggs
+85366013000299	skimmed milk
+3250390183976	
+3250390183976	Farine de _blé_
+3250390183976	sucre
+3250390183976	_beurre_ concentré 18% (dont _lait_) (soit 21
+3250390183976	6% en beurre reconstitué)
+3250390183976	_œufs_
+3250390183976	amidon de _blé_
+3250390183976	poudres à lever : carbonates de sodium - phosphates de calcium - carbonates d'ammonium
+3250390183976	sel
+3250390183976	_lactose_ et protéines de _lait_
+3258563020295	_lait_ écrémé en poudre.
+3258563020295	Farine de _blé_
+3258563020295	sucre
+3258563020295	_beurre_ d'Isigny A.O.P. (23 %)
+3258563020295	fruits rouges (7 %) [purée et jus de pomme concentrés
+3258563020295	purée de fruits rouges concentrée : fraise - framboise - cassis
+3258563020295	fibres de blé
+3258563020295	gélifiant : pectine
+3258563020295	jus concentre de sureau]
+3258563020295	_crème_ fraîche d'Isigny A.O.P (5 %)
+3258563020295	jaunes d'_œufs_ en poudre
+3258563020295	arôme
+3258563020295	sel de mer
+3258563020295	jus de citron
+3258563020295	_œuf_ entier en poudre
+5410126716016	_lait_ écrémé en poudre.
+5410126716016	Harina de _trigo_
+5410126716016	azúcar
+5410126716016	aceites vegetales (aceite de palma de plantaciones sostenibles y certificadas
+5410126716016	aceite de nabina)
+5410126716016	jarabe de azúcar moreno
+5410126716016	levadura en polvo (bicarbonato sódico)
+5410126716016	harina de _soja_
+5410126716016	sal
+8421691784543	canela.
+8421691784543	Harina integral de _trigo_ (59%)
+8421691784543	grasa vegetal (palma)
+8421691784543	azúcar
+8421691784543	jarabe de glucosa y fructosa
+8421691784543	gasificantes (E-500ii
+8421691477292	E-503ii) y sal. 
+8421691477292	Copos de _avena_ (36%)
+8421691477292	harina integral de _trigo_ (20
+8421691477292	5%)
+8421691477292	grasa vegetal (palma)
+8421691477292	azúcar
+8421691477292	jarabe de glucosa y fructosa
+8421691477292	gasificantes (bicarbonato sódico y bicarbonato amónico)
+8410196051380	sal. 
+8410196051380	Cobertura de chocolate negro con 70% de cacao sin azúcares añadidos con edulcorantes (55%): Pasta de cacao
+8410196051380	edulcorante (maltitol)
+8410196051380	manteca de cacao
+8410196051380	emulgentes (E-442
+8410196051380	E-476)
+8410196051380	aroma
+8410196051380	edulcorante (acesulfamo potásico). Galleta sin azúcares añadidos con edulcorantes (45%): Harina de _trigo_
+8410196051380	harina integral de _trigo_ (15%)
+8410196051380	edulcorante (maltitol)
+8410196051380	grasa vegetal de palma
+8410196051380	aceite de girasol
+8410196051380	cereal (_avena_ 3%)
+8410196051380	edulcorante (jarabe de maltitol)
+8410196051380	harina de malta de _cebada_
+8410196051380	almidón de patata
+8410196051380	gasificantes (carbonatos de sodio y de amonio)
+8410196051380	aroma
+8410196051380	emulgente (lecitina de girasol)
+8410196051380	vitaminas [Acetato de retinilo (Vitamina A)
+8410196051380	Colecalciferol (Vitamina D)
+8410196051380	Mononitrato de tiamina (Vitamina B1)
+8410196051380	Riboflavina (Vitamina B2)
+8410196051380	D-pantotenato cálcico (Ácido pantoténico)
+8410196051380	Ácido pteroilmonoglutámico (Ácido fólico)]
+8410196051380	edulcorante (acesulfamo potásico)
+8430803027225	conservador (_metabisulfito_ potásico).
+8430803027225	Harina integral de _trigo_ (59%)
+8430803027225	grasa vegetal de palma
+8430803027225	azúcar
+8430803027225	jarabe de glucosa y fructosa
+7622210114730	gasificantes (bicarbonatos sódico y amónico) y sal. 
+7622210114730	Cereales 68
+7622210114730	8% (harina de _trigo_ 54
+7622210114730	7%
+7622210114730	harina integral de _trigo_ 14
+7622210114730	1%)
+7622210114730	azúcar
+7622210114730	aceite de girasol alto oleico 12
+7622210114730	7%
+7622210114730	grasa de palma
+7622210114730	jarabe de azúcar
+7622210114730	gasificantes (carbonato ácido de sodio
+7622210114730	ácido málico
+7622210114730	carbonato ácido de amonio)
+7622210114730	jarabe de fructoolisacáridos
+7622210114730	sal
+7622210114730	emulgentes (lecitina de _soja_
+20204389	lecitina de girasol).
+20204389	59% harina integral de _trigo_
+20204389	grasa vegetal (palma)
+20204389	azúcar
+20204389	jarabe de glucosa y fructosa
+20204433	gasificantes: bicarbonato sódico (E-500ii) y bicarbonato amónico (E-503ii); sal. 
+20204433	36% copos de _avena_
+20204433	20
+20204433	5% harina integral de _trigo_
+20204433	grasa vegetal (palma)
+20204433	azúcar
+20204433	jarabe de glucosa y fructosa
+8480017092991	gasificantes: bicarbonato sódico (E-500ii) y bicarbonato amónico (E-503ii); sal. 
+8480017092991	copos de _avena_ (36%)
+8480017092991	harina integral de _trigo_ (20
+8480017092991	5%)
+8480017092991	grasa vegetal (palma)
+8480017092991	azúcar
+8480017092991	jarabe de glucosa y fructosa
+8480017092991	gasificantes (carbonato de sodio y carbonato de amonio)
+24044882	sal.
+24044882	Copos de _avena_ 36%
+24044882	harina integral de _trigo_ 20
+24044882	5%
+24044882	grasa vegetal (palma)
+24044882	azúcar
+24044882	jarabe de glucosa y fructosa
+24044882	gasificantes (bicarbonato sódico y amónico)
+20204365	sal. 
+20204365	56
+20204365	5% harina integral de _trigo_
+20204365	grasa vegetal (palma)
+20204365	azúcar
+20204365	trozos de _soja_ caramelizada (4
+20204365	5%) [azúcar
+20204365	semillas de _soja_
+20204365	grasa vegetal (palma)
+20204365	jarabe de glucosa
+20204365	colorante: caramelo natural; aroma]
+20204365	jarabe de glucosa y fructosa
+20204365	gasificantes: bicarbonato sódico y amónico; 1
+20204365	5% preparado de frutas [jarabe de fructosa y glucosa
+20204365	fruta (14% puré de manzana
+20204365	7% zumo de naranja)
+20204365	humectante: glicerina; fibra de _trigo_
+20204365	azúcar
+20204365	gelificante: pectina; grasa vegetal (palma)
+20204365	corrector de acidez: ácido cítrico; aroma
+20204365	antioxidante: ácido ascórbico; colorante: curcumina]
+20204365	sal
+20204365	0
+8480017092984	1% aroma de naranja.
+8480017092984	harina integral de _trigo_ (57%)
+8480017092984	grasa vegetal (palma)
+8480017092984	azúcar
+8480017092984	trozos de _soja_ caramelizada (4
+8480017092984	5%) [azúcar
+8480017092984	semillas de _soja_
+8480017092984	grasa vegetal (palma)
+8480017092984	jarabe de glucosa
+8480017092984	colorante (caramelo)
+8480017092984	aroma]
+8480017092984	jarabe de glucosa y fructosa
+8480017092984	gasificantes (carbonato de sodio y carbonato de amonio)
+8480017092984	preparado de frutas (1
+8480017092984	3%) [jarabe de fructosa y glucosa
+8480017092984	puré de manzana (0
+8480017092984	2%) y zumo de naranja (0
+8480017092984	1%)
+8480017092984	humectante (glicerina)
+8480017092984	fibra de _trigo_
+8480017092984	azúcar
+8480017092984	gelificante (pectina)
+8480017092984	grasa vegetal (palma)
+8480017092984	corrector de acidez (ácido cítrico)
+8480017092984	aroma
+8480017092984	antioxidante (ácido ascórbico)
+8480017092984	colorante (curcumina)]
+8480017092984	sal
+24044080	aroma.
+24044080	Harina integral de _trigo_ (56
+24044080	5%)
+24044080	grasa vegetal (palma)
+24044080	azúcar
+24044080	trozos de _soja_ caramelizada (4
+24044080	5%) [azúcar
+24044080	semillas de _soja_
+24044080	grasa vegetal (palma)
+24044080	jarabe de glucosa
+24044080	colorante (caramelo)
+24044080	aroma]
+24044080	jarabe de glucosa y fructosa
+24044080	gasificantes (bicarbonato sódico y amónico)
+24044080	preparado de frutas (1
+24044080	5%) [jarabe de fructosa y glucosa
+24044080	fruta (puré de manzana (14%) y zumo de naranja (7%))
+24044080	humectante (glicerol)
+24044080	fibra de _trigo_
+24044080	azúcar
+24044080	gelificante (pectina)
+24044080	grasa vegetal (palma)
+24044080	corrector de acidez (ácido cítrico)
+24044080	aroma
+24044080	antioxidante: ácido ascórbico
+24044080	colorante (curcumina)]
+24044080	sal
+24044080	aroma de naranja (0
+24018128	1%).
+24018128	Harina integral de _trigo_ 59%
+24018128	grasa vegetal (palma)
+24018128	azúcar
+24018128	jarabe de glucosa y fructosa
+24018128	gasificantes (bicarbonato sódico y amónico)
+8431876005066	sal.
+8431876005066	Harina de _trigo_
+8431876005066	azúcar
+8431876005066	grasa vegetal (palma)
+8431876005066	coco rallado
+8431876005066	jarabe de glucosa y fructosa
+8431876005066	dextrosa
+8431876005066	gasificantes (bicarbonatos sódico y amónico)
+8431876005066	sal
+8410014305169	aroma de vainilla y coco.
+8410014305169	Harina de trigo 66%
+8410014305169	oleoequilibre 19% (aceites vegetales de girasol alto oleico y palma)
+8410014305169	azúcar
+8410014305169	sueros de leche en polvo
+8410014305169	jarabe de glucosa y fructosa
+8410014305169	gasificante (carmonatos de amonio e sodio)
+8410014305169	sal
+8410014305169	emulgente (lecitina)
+5941634001061	aromas y agentes de tratamiento de la harina (metabisulfito sódico)
+5941634001061	_Cacahuetes_ tostados
+5941634001061	pasas
+5941634001061	azúcar invertida (glucosa
+5941634001061	fructosa)
+5941634001061	copos multicereales (arroz
+5941634001061	maíz
+5941634001061	azúcar
+5941634001061	sal)
+5941634001061	arroz inflado (arroz
+5941634001061	azúcar
+5941634001061	sal)
+5941634001061	arándanos deshidratados y endulzados (arándanos
+5941634001061	concentrado de jugo de arándano
+5941634001061	azúcar 
+5941634001061	aceite de girasol)
+5941634001061	_almendras_
+5941634001061	dextrosa
+5941634001061	jarabe de maíz con alto contenido en maltosa
+5060422870099	emulgente: lecitina de _soja_ (E-322).
+5060422870099	raisins jumbo (20%) [raisins
+5060422870099	huile de tournesol]
+5060422870099	chocolat noir (18%)[sucre
+5060422870099	pâte de cacao
+5060422870099	beurre de cacao
+5060422870099	émulsifiant : lécithine de soja
+5060422870099	arôme nturel de vanille]
+5060422870099	baies de Goji (17%)[baies de Goji
+5060422870099	conservateur : dioxide de soufre] cacahuètes blanchies (17%)
+5060422870099	amandes (13%)
+3182650148985	graines de courges (12%).
+3182650148985	Farine de _blé_ tendre
+3182650148985	sucre
+3182650148985	_beurre_ frais 20%
+3182650148985	_oeufs_ frais de poules élevées au sol
+3182650148985	sel
+3182650148985	poudre de _lait_ écrémé (3% équivalent lait écrémé)
+3182650148985	poudre à lever (carbonate acide de sodium
+3182650248739	diphosphate disodique)
+3182650248739	GRANDES GALETTES : Farine de _blé_ tendre
+3182650248739	sucre
+3182650248739	_beurre_ frais 20%
+3182650248739	_oeufs_ frais de poules élevées au sol
+3182650248739	poudre de _lait_ écrémé (3% équivalent lait écrémé)
+3182650248739	poudre à lever (carbonate acide de sodium
+3182650248739	diphosphate disodique. PALETS BRETONS : Farine de _blé_ tendre
+3182650248739	sucre
+3182650248739	_beurre_ pâtissier 25% (colorant : bêtacarotène)
+3182650248739	_oeufs_ frais de poules élevées au sol 12%
+3182650248739	sel
+3182650248739	_lactose
+3182650008982	poudre à lever (carbonate acide de sodium
+3182650008982	Farine de _blé_ tendre
+3182650008982	sucre
+3182650008982	_beurre_ frais 20%
+3182650008982	_oeufs_ frais 3%
+3182650008982	sel
+3182650008982	poudre de _lait_ écrémé (3% équivalent lait écrémé)
+3182650008982	poudre à lever (carbonate acide de sodium
+8606107223124	diphosphate disodique).
+8606107223124	kukuruzni griz
+8606107223124	biljno ulje (palmino)
+8606107223124	dehidrirani krompir pire (krompir 99%
+8606107223124	emulgator: mono- i digliceridi masnih kiselina
+8606107223124	konzervans: natrijum-_metabisulfit_)
+8606107223124	paradajz u prahu 3%
+8606107223124	kuhinjska so
+4013200332198	paprika ekstrakt.
+4013200332198	_Weizenmehl_
+4013200332198	Olivenöl
+4013200332198	Palmöl
+4013200332198	Basilikum (4%)
+4013200332198	Tomate (1
+4013200332198	9%)
+4013200332198	Hefe
+4013200332198	Speisesalz
+50300853	_Weizenmalz_
+50300853	Olive Oil 22%
+50300853	Rapeseed Oil
+50300853	Water
+50300853	Lemon Juice from concentrate
+50300853	Red Wine Vinegar 9%
+50300853	White Wine Vinegar
+50300853	Extra Virgin Olive Oil 2%
+50300853	Salt
+50300853	Black Pepper
+50300853	Onion
+50300853	Mustard Seeds
+50300853	Spirit Vinegar
+50300853	Garlic Puree
+50300853	Celery Seeds
+50300853	Acidity Regulator (Citric Acid)
+5410471903024	Ground Turmeric.
+5410471903024	Farine de blé
+5410471903024	chocolat noir (22%) (pâte de cacao
+5410471903024	sucre
+5410471903024	beurre de cacao
+5410471903024	graisse de lait anhydre
+5410471903024	émulsifiant : lécithine de soja)
+5410471903024	sucre de candi
+5410471903024	beurre (12%); sucre
+5410471903024	oeufs
+5410471903024	amandes (3%)
+5410471903024	sel
+5410471903024	poudre à lever : carbonate acide de sodium
+5410471903024	chocolat blanc (sucre
+5410471903024	beurre de cacao
+5410471903024	poudre de lait entier
+5410471903024	émulsifiant : lécithine de soja)
+5410471903024	sirope de candi
+5410471903024	cannelle.  Contient du _gluten_
+5410471903024	du _soja_
+5410471903024	du _lait_
+4001518110294	des _fruits à coque_ et des _œufs_.
+4001518110294	Zucker
+4001518110294	_Weizenmehl_
+4001518110294	flüssiges _Hühnereiklar_
+4001518110294	Sonnenblumenöl
+4001518110294	fettarmes Kakaopulver
+4001518110294	_Magermilchpulver_
+4001518110294	_Vollmilchpulver_
+4001518110294	Glukosesirup
+4001518110294	Kakaobutter
+4001518110294	Kakaomasse
+4001518110294	Dextrose
+4001518110294	_Laktose_
+4001518110294	Speisesalz
+4001518110294	Aromen
+4001518110294	Backtriebmittel (Ammoniumhydrogencarbonat)
+4000161110170	Emulgator (Sonnenblumenlecithine).
+4000161110170	_Mandeln_ 35 %
+4000161110170	Zartbitter-Schokolade 28% (Kakaomasse
+4000161110170	Zucker
+4000161110170	Kakaobutter
+4000161110170	_Vollmilchpulver_
+4000161110170	Emulgator: _Soja_-Lecithine
+4000161110170	Vanille-Extrakt)
+4000161110170	Zucker
+4000161110170	Pistazien 3
+4000161110170	1%
+4000161110170	Invertzuckersirup
+4000161110170	Ananas 1
+4000161110170	7%
+4000161110170	Alkohol
+4000161110170	Orangenschalen 1
+4000161110170	2 %
+4000161110170	Glukose-Fruktose-Sirup
+4000161110170	Iöslicher Kaffee 0
+4000161110170	4%
+4000161110170	Fruchtpulver Orange (Maltodextrin
+4000161110170	Orangen
+4000161110170	natürliches Orangenaroma)
+4000161110170	Fruchtpulver Ananas (Ananas
+4000161110170	Maltodextrin)
+4000161110170	Spirituose (Arrak)
+4000161110170	natürliches Ananasaroma
+4000161110170	Glukosesirup
+42305880	Säuerungsmittel: Zitronensäure.
+42305880	Kokosraspel 45%
+42305880	Reissirup
+42305880	_Hafermehl_
+42305880	Oblaten (_Weizenmehl_
+42305880	Kartoffelstärke
+42305880	Palmöl)
+42305880	Rohrohrzucker
+42305880	Kokosfett
+3104544018860	Bourbonvanilleschote gemahlen
+3104544018860	foie gras de canard
+3104544018860	morceaux de foie gras de canard 30%
+3104544018860	eau
+3104544018860	sel 1%
+3104544018860	Armagnac
+3104544018860	sucre
+3104544018860	poivre 0
+3104544018860	1%
+3104544018860	antioxydant : ascorbate de sodium
+3104544018860	muscade
+3263852910713	conservateur : nitrite de sodium
+3263852910713	Farine de _blé_
+3263852910713	sucre
+3263852910713	_beurre_ 17%
+3263852910713	chocolat 16%
+3263852910713	_œufs_ entiers
+3263852910713	poudre de cacao
+3368390000190	sel.
+3368390000190	Farine de _blé_
+3368390000190	_beurre_ pâtissier 21%
+3368390000190	eau
+3368390000190	sucre
+3368390000190	sel
+3226219005705	colorant : caroténoïdes.
+3226219005705	farine de blé
+3226219005705	sucre
+3226219005705	beurre d'Isigny AOP 22%
+3226219005705	jaunes d’œufs en poudre
+3226219005705	poudre de lait entier
+3226219005705	sel
+3226219005705	poudre à lever (carbonate d'ammonium)
+3226219005705	œufs entiers en poudre
+3700663000399	poudre de lait écrémé.
+3700663000399	Huile de colza* (40%)
+3700663000399	eau
+3700663000399	huile de tournesol (10%)
+3700663000399	vinaigre de cidre*
+3700663000399	_moutarde_ de Dijon* (graines de _moutarde_
+3700663000399	vinaigre d'alcool
+3700663000399	eau
+3700663000399	sel)
+3700663000399	gingembre* (2%)
+3700663000399	citron* (1
+3700663000399	6%)
+3700663000399	curcuma* (1%)
+3700663000399	persil* 
+3700663000399	sel
+3472860003557	huile essentielle de citron zeste*. *Issus de l'agriculture biologique
+3472860003557	Farine de _froment_
+3472860003557	cassonade
+3472860003557	_beurre_
+3472860003557	pépites de pomme (8
+3472860003557	3%) (fruits (purée concentrée de pomme
+3472860003557	jus concentré de pomme)
+3472860003557	sucrose
+3472860003557	sirop de fructose
+3472860003557	farine de riz
+3472860003557	beurre de cacao
+3472860003557	agent gélifiant : pectine
+3472860003557	acidifiant : acide citrique
+3472860003557	arôme
+3472860003557	fibre d'agrumes)
+3472860003557	éclats de caramel au beurre salé (5
+3472860003557	6%) (sucre
+3472860003557	sirop de glucose
+3472860003557	_crème_ fraîche de Normandie
+3472860003557	_beurre_ salé (3
+3472860003557	7%)
+3472860003557	_lait_ écrémé en poudre
+3472860003557	fleur de sel de Guérande (1
+3472860003557	4%)
+3472860003557	caramel (sirop de glucose-fructose
+3472860003557	eau))
+3472860003557	_œufs_ entiers en poudre
+3472860003557	sel
+3472860003557	poudre à lever (pyrophosphate de soude
+3472860003557	bicarbonate de soude
+3472860003557	amidon de blé)
+3472860003557	arôme naturel de pomme (0
+3700125800826	3%).  
+3700125800826	Sucre
+3700125800826	_amande_ 46 %
+3700125800826	amidon de riz
+3700125800826	stabilisant : gomme d'acacia
+3700125800826	colorants (suivant la couleur des dragées) : Blanc : E171
+3700125800826	Turquoise : E131
+3700125800826	E132
+3700125800826	E171
+3700125800826	Fuschia : E120
+3700125800826	E171
+3700125800826	Chocolat : E151
+3700125800826	E155
+3700125800826	E171
+3700125800826	Vert : E100
+3700125800826	E133
+3700125800826	E171
+3700125800826	agents d'enrobage : E901
+3700125800826	E903
+3700125800826	E904
+3328481290770	arôme naturel de vanille.
+3328481290770	Chocolat*° 30% pâte de cacao 69%
+3328481290770	sucre 25.5%
+3328481290770	beurre de cacao 5.5%
+3328481290770	_crème_*°°
+3328481290770	sucre *°
+3328481290770	_amandes_ effilées*°
+3328481290770	miel*°
+3328481290770	sirop de glucose*°
+3328481290770	_beurre_ frais*°° (* : Agriculture biologique
+3328481290770	*° : Agriculture non-UE
+7613035903524	*°° : Agriculture UE. Licence Ecocert n°127172T)
+7613035903524	glukozno-fruktozni sirup
+7613035903524	biljna ulja (palmino
+7613035903524	shea
+7613035903524	ulje palminih koštica)
+7613035903524	šećer
+7613035903524	_pšenično_ brašno
+7613035903524	kondezovano zaslađeno _mleko_ (_mleko_
+7613035903524	šećer)
+7613035903524	obrano _mleko_ u prahu
+7613035903524	_surutka_ u prahu (iz _mleka_)
+7613035903524	maltodekstrin
+7613035903524	_pšenični_ skrob
+7613035903524	so
+7613035903524	emulgator (lecitini)
+7613035903524	sredstvo za dizanje testa (natrijum-hidrogenkarbonat)
+7613035903524	karamelizovani šećer
+7613035903524	zgušnjivač (karagenan)
+7613035903524	prirodna aroma vanile
+4003754178076	prirodna aroma.
+4003754178076	Zucker
+4003754178076	_Mandeln_ gemahlen 39%
+4003754178076	Kakaomasse
+4003754178076	Wasser
+4003754178076	Kakaobutter
+4003754178076	Emulgator: Lecithine
+8713445070041	Feuchthaltemittel: Invertase.
+8713445070041	biologisch Maïs 55%
+8713445070041	fairtrade pinda 22%
+8713445070041	biologisch cashewnoot 10%
+8713445070041	biolgisch palmolie
+4000161400219	zeezout
+4000161400219	_Mandeln_ 57%
+4000161400219	Zucker
+4000161400219	Invertzuckersirup
+4000161400219	Alkohol
+4000161050292	stark entölter Kakao.
+4000161050292	_Mandeln_ 42%
+4000161050292	Zucker
+4000161050292	Vollmilch-Schokolade 13% (Zucker
+4000161050292	Kakabutter
+4000161050292	_Vollmilchpulver_
+4000161050292	Kakaomasse
+4000161050292	Emulgator: _Soja-Lecithine_
+4000161050292	Vanille-Extrakt)
+4000161050292	_Sultaninen_ 9.8%
+4000161050292	Zartbitter-Schokolade 5% (Kakaomasse
+4000161050292	Zucker
+4000161050292	Kakaobutter
+4000161050292	_Vollmilchpulver_
+4000161050292	Emulgator: _Soja-Lecithine_
+4000161050292	Vanille-Extrakt)
+4000161050292	Invertzuckersirup
+4000161050292	Rum 1
+4000161050292	8%
+4000161050292	Alkohol
+4000161050292	Sonnenblumenöl
+4000161400516	Rapsöl.
+4000161400516	_Mandeln_ 57%
+4000161400516	Zucker
+4000161400516	lnvertzuckersirup
+4000161400516	Rum 1
+4000161400516	4%
+4000161400516	stark entölter Kakao
+4000161600091	Alkohol.
+4000161600091	_Mandeln_ 50%
+4000161600091	Zucker
+4000161600091	Zartbitter-Schokolade 12% (Kakaomasse
+4000161600091	Zucker
+4000161600091	Kakaobutter
+4000161600091	_Vollmilchpulver_
+4000161600091	Emulgator: _Soja_-Lecithine
+4000161600091	Vanille-Extrakt)
+4000161600091	Invertzuckersirup
+4000161600091	Alkohol
+4000161740308	Kakaobutter.
+4000161740308	_Mandeln_ 52%
+4000161740308	Zucker
+4000161740308	Zartbitter-Schokolade 9
+4000161740308	3% (Kakaomasse
+4000161740308	Zucker
+4000161740308	_Kakaobutter_
+4000161740308	Vollmilchpulver
+4000161740308	Emulgator: _Soja_-Lecithine
+4000161740308	Vanille-Extrakt)
+4000161740308	Inverzuckersirup
+4000161740308	Alkohol
+4000161740308	_Hühnereiweiß_
+4000161740308	Speisesalz
+4000161740308	Konzentrate (Alge
+4000161740308	Saﬂor)
+4000161740308	Karamellsirup 
+4000161740308	Stabilisator: Gummi arabicum
+4000161740308	Vordickungsmittel (Johannisbrotkernmehl
+4000161740308	E 466)
+4000161740308	Säureregulator: Kaliumphosphat
+4000161740308	Farbstoff (E 100
+4000161740308	120
+4000161740308	132
+8422584000511	160a).
+8422584000511	Aceite de girasol*
+8422584000511	licuado de soja*
+8422584000511	vinagre de manzana*
+8422584000511	jugo concentrado de manzana*
+8422584000511	mostaza*
+8422584000511	agua
+8421691560970	goma guar (E-412) y sal marina. (* Ingredientes procedentes de la agricultura ecológica).
+8421691560970	_Almendra_ (48%)
+8421691560970	azúcar
+8421691560970	jarabe de glucosa
+8421691560970	agua
+8421691560970	azúcar invertido
+718122600595	conservadores: ácido sórbico (E-200) y sorbato de potasio (E-202) y acidulante: ácido cítrico (E-330).
+718122600595	tapioca starch
+718122600595	vegetable oil (palm)
+718122600595	potato starch
+718122600595	potato flakes
+718122600595	pasteurized whole _egg_
+718122600595	salt
+1151	curcumin / paprika
+1151	Chocolat au lait 45% (sucre
+1151	beurre de cacao
+1151	poudre de _lait_ entier
+1151	pâte de cacao
+1151	émulsifiant : lécithines (_soja_)
+1151	arôme)
+1151	farine de _blé_
+1151	sucre
+1151	fructose
+1151	_lait_ écrémé en poudre
+1151	graisse de coprah
+1151	émulsifiant : lécithines (_soja_)
+1151	sel
+8480017541857	colorant : caramel ordinaire.
+8480017541857	Maigre et gras de porc
+8480017541857	sel
+8480017541857	_lactose_
+8480017541857	dextrose
+8480017541857	saccharose
+8480017541857	épices
+8480017541857	conservateur : E250
+2000000017785	ferments de maturation. Enveloppe collagénique comestible.
+2000000017785	Farine de _blé_
+2000000017785	sucre
+2000000017785	_beurre_ concentré reconstitué 22
+2000000017785	5%
+2000000017785	_œufs_ entiers frais
+2000000017785	amidon de _blé_
+2000000017785	poudre à lever (pyrophosphate et bicarbonate de sodium
+2000000017785	bicarbonate d'ammonium)
+2000000017785	sel
+3350031637513	_lait_ en poudre. 
+3350031637513	Pomme de terre déshydratée et amidon de pomme de terre 82 % (contient des _sulfites_)
+3350031637513	huile de tournesol 20 %
+3350031637513	sel 2
+3350031637513	4 %
+3350031637513	arôme naturel de paprika
+9300650012349	arôme naturel de curcuma.
+9300650012349	Wheat Flour
+9300650012349	Vegetable Oil (Contains Antioxidant (330))
+9300650012349	Malt Extract (From Barley)
+9300650012349	Sugar
+9300650012349	Egg
+9300650012349	Raising Agents (500
+9300650012349	503)
+9300650012349	Salt
+9300650012349	Flavours (Bacon (0.1%)
+9300650012349	Whey Powder (From Milk)
+9300650012349	Flavour Enhancers (621
+9300650012349	627
+9300650012349	631) Colours (150c
+4000161620112	120)) Flour Treatment Agent (223 (Contains Sulphites)
+4000161620112	Mandeln 40%
+4000161620112	Zucker
+4000161620112	Vollmilch-Schokolade 20% (Zucker
+4000161620112	Kakaobutter
+4000161620112	_Vollmilch_pulver
+4000161620112	Kakaomasse
+4000161620112	Emulgator: _Soja_-Lecithine
+4000161620112	Vanille-Extrakt)
+4000161620112	Sultaninen 9
+4000161620112	6%
+4000161620112	Invertzuckersirup
+4000161620112	Rum 1
+4000161620112	8%
+4000161620112	Alkohol
+4000161620112	Kakaobutter
+4000161620112	Sonnenblumenöl
+20594442	Rapsöl
+20594442	farine de _blé_
+20594442	sucre
+20594442	22
+20594442	5% beurre (_lait_)
+20594442	7% pépites de fruits rouges (purée et jus de pomme concentrés
+20594442	purée de fruits rouges (minimum 0
+20594442	7% fraise
+20594442	minimum 0
+20594442	7% framboise
+20594442	minimum 0
+20594442	9% cassis
+20594442	minimum 0
+20594442	7% groseille)
+20594442	jus concentré de sureau (équivalent à 5% de fruits rouges)) ; fibres de _blé_
+20594442	gélifiant : pectines)
+20594442	5% crème d'Isigny A.O
+20594442	P.* (_lait_)
+20594442	jaunes d'_œufs_ en poudre
+20594442	arôme naturel
+20594442	sel marin
+20594442	jus de citron
+20594442	_œufs_ entiers en poudre
+20045463	poudre de _lait_ écrémé.  * Appellation d'Origine Protégée
+20045463	Viande de Porc
+20045463	10% de Noix
+20045463	sel
+20045463	lactose
+20045463	dextrose
+20045463	sucre
+20045463	epices
+20045463	conservateurs : nitrate de potassium
+20045463	nitrite de sodium
+8423348402336	ferments  
+8423348402336	Viande de porc (100 g de fuet extra proviennent 150 g de viande)
+8423348402336	gras de porc
+8423348402336	sel
+8423348402336	_lactose_
+8423348402336	fécule de pomme de terre
+8423348402336	épices
+8423348402336	antioxydant (E301)
+8423348402336	conservateurs (E262
+8423348402336	E250)
+5997591100545	arôme  et colorant (E120). Enveloppe comestible (collagène)
+5997591100545	Zartbitterschokolade 55% [Zucker
+5997591100545	Kakaomasse
+5997591100545	Kakaobutter
+5997591100545	Emulgatoren (_Soja_-Lecithine
+5997591100545	E476)
+5997591100545	Aroma]
+5997591100545	_Weizenmehl_
+5997591100545	Zucker
+5997591100545	_Magermilchpulver_
+5997591100545	pflanzliches Fett (Palm)
+5997591100545	_Volleipulver_
+5997591100545	Salz
+5997591100545	Karamellsirup
+5997591100545	Emulgator _Soja_-Lecithine
+5400113569435	Aroma.
+5400113569435	čokolada 29.2% (šećer
+5400113569435	kakao masa
+5400113569435	kakao maslac
+5400113569435	kakao prah sa redukovanim sadržajem kakao masti
+5400113569435	emulgator: _sojin_ lecitin
+5400113569435	aroma)
+5400113569435	_pšenično_ brašno
+5400113569435	_maslac_
+5400113569435	glukozni sirup
+5400113569435	invertni šećerni sirup
+5400113569435	_jaja_ i _žumance  jaja_
+5400113569435	smeđi šećer od šećerne trske
+5400113569435	kukuruzni skrob
+5400113569435	kakao u prahu
+5400113569435	humektant: glicerol
+5400113569435	sredstva za dizanje testa: dinatrijum-difosfat
+5400113569435	natrijum-hidrogenkarbonat
+5400113569435	aroma
+3257980832290	so.
+3257984499307	Semoule de maïs 60 % - _arachides_ grillées moulues 29 % - huile de tournesol - sel.
+3245390015594	Farine de _blé_ 64% - huile de tournesol - amidon de pomme de terre - arôme (contient _blé_) - sel - arômes naturels - arômes de fumée.
+3245390015594	Farine de _blé_ 64%
+3245390015594	huile de tournesol 24%
+3245390015594	amidon de pomme de terre
+3245390015594	arôme (contient _blé_)
+3245390015594	sel
+3245390015594	extraits de bois de santal
+3245390015594	paprika et curcuma
+3245390015594	arôme de fumée

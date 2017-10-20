@@ -1,190 +1,156 @@
-1	
+1	Bjorg
 2	Lotus
 3	Saveurs de nos régions
-4	Carrefour Bio
-5	Carrefour
-6	//Propiedad de://
-7	Carrefour S.A.
-8	Le moulin du pivert
-9	Bonne Maman
-10	Vico
-11	Intersnack
-12	Monoprix
-13	Gavottes
-14	Justin Bridou
-15	Le Bâton de Berger
-16	Sigdal
-17	Sigdal bakeri
-18	Agir Carrefour
-19	Biocoop
-20	Nos Régions ont du Talent
-21	Leclerc
-22	Loc Maria
-23	Kaoka
-24	Michel et Augustin
-25	McVitie's
-26	Délice
-27	Véritable Délice
-28	Céréal bio
-29	St Michel
-30	Kergrist
-31	Casino Bio
-32	Nos régions ont du talent
-33	Carabreizh
-34	La Maison d'Armorine
-35	Reflets de France
-36	Céréal Bio
-37	Le Moulin du Pivert
-38	Casino
-39	U
-40	Daco bello
-41	U Bio
-42	Artesani
-43	Isla délice
-44	Le collectif des gourmandes
-45	La Vie Claire
-46	Les Super Kid's
-47	Tuc
-48	Picard
-49	Bonneterre
-50	u
-51	McEnnedy
-52	Leader Price
-53	U Saveurs
-54	Hillcrest
-55	Aldi
-56	Saint-Michel
-57	Acapulco
-58	Dia
-59	Dia - Distribuidora Internacional de Alimentación S.A.
-60	Le Hameau
-61	Larnaudie
-62	Larnaudie Prestige
-63	Afa Biscuiterie
-64	Fossier
-65	Maison Fossier
-66	Tous les jours
-67	Top Budget
-68	Les Mousquetaires
-69	Delpeyrat
-70	Crusti Croc
-71	Migros
-72	Afiro
-73	Hacendado
-74	Mercadona S.A.
-75	Catago
-76	Ültje
-77	Villars
-78	Eugene blond
-79	Unser Norden
-80	Alnatura
-81	Niederegger
-82	La Bien Nommée
-83	Jardin Bio
-84	Léa Nature
-85	Delicia
-86	Indykpol
-87	Lesieur
-88	Drizz
-89	Sans marque
-90	DV S.A.S.
-91	Bicentury
-92	Biocentury S.L.U.
-93	casino
-94	Boots
-95	La Trinitaine
-96	DOR
-97	Be-Kind
-98	Chaskis
-99	Facundo
-100	Industrial Comercial Facundo S.A.
-101	NewTree
-102	Golden Bridge
-103	GoldenBridge
-104	Bio Sonne
-105	DAO
-106	Lou Bio
-107	Hollandia
-108	Chabrior
-109	Sélection des Mousquetaires
-110	Mémé Georgette
-111	Pierre de Chaumeyrac
-112	Marque Repère
-113	Cora
-114	Guillaume Dunoy
-115	Jean Larnaudie
-116	Intermarché
-117	Arnott's
-118	CAVEOSI
-119	Cadbury
-120	Mondelēz International
-121	Afa
-122	Afa biscuiterie
-123	Griffin's
-124	Delicious Dia
-125	Argal
-126	Selection Terroirs Espagne
-127	Corte del Gusto
-128	Asia Green Garden
-129	Marks & Spencer
-130	Antiu Xixona
-131	Gullón
-132	Griesson
-133	Amica
-134	Amica chips
-135	Flor de Navidad
-136	Turrones José Garrigós S.A.
-137	Turrón 25
-138	El Corte Inglés
-139	El Corte Inglés S.A.
-140	//Perteneciente a://
-141	Grupo El Corte Inglés
-142	Fleurons de Lomagne
-143	Pierre biscuiterie
-144	Netto
-145	Les Délices de Belle France
-146	Belle France
-147	Francap Distribution
-148	Biscoff
-149	Alipende
-150	Virginias
-151	B-SAN
-152	SuperSol
-153	Fontaneda
-154	Sondey
-155	Aurada
-156	Cuétara
-157	Sam Mills The Corn Master
-158	S.C. Sam Mills S.R.L.
-159	Sam Mills Group
-160	Real Handful
-161	Le Glazik
-162	Chips way
-163	Leverno
-164	Newman's Own
-165	Jules Destrooper
-166	Montfort
-167	Armor Délices
-168	Biscuiterie de l‘abbaye
-169	Quintesens Bio
-170	La Mère Poulard
-171	Motta
-172	Michel Chatillon
-173	Nestle
-174	Joannusmolen
-175	Ecocesta Productos Ecológicos
-176	Biogran S.L.
-177	AhorraMas S.A.
-178	goldbaums
-179	Bijou
-180	Bretagne Specialités
-181	Ritz
-182	Nabisco
-183	Lidl
-184	Fresh & Easy  Llc
-185	Le Césarin Gourmand
-186	Casa Ramon
-187	Ro'thello
-188	Delhaize
-189	Groupe Louis Delhaize
-190	Grand Jury
+4	Carrefour Bio,Carrefour
+5	Carrefour Bio,Carrefour,//Propiedad de://,Carrefour S.A.
+6	Le moulin du pivert
+7	Bonne Maman
+8	Vico,Intersnack
+9	Monoprix
+10	Gavottes
+11	Carrefour Bio
+12	Justin Bridou,Le Bâton de Berger
+13	Carrefour
+14	Sigdal,Sigdal bakeri
+15	Agir Carrefour,Carrefour
+16	Biocoop
+17	Nos Régions ont du Talent,Leclerc,Loc Maria
+18	Kaoka
+19	Michel et Augustin
+20	McVitie's
+21	Vico
+22	Délice,Véritable Délice
+23	Céréal bio
+24	St Michel
+25	Kergrist
+26	Casino Bio
+27	Nos régions ont du talent
+28	Carabreizh
+29	La Maison d'Armorine
+30	Reflets de France,Carrefour
+31	Céréal Bio
+32	Le Moulin du Pivert
+33	Casino
+34	U
+35	Daco bello
+36	U Bio,U
+37	Artesani
+38	Isla délice
+39	Le collectif des gourmandes
+40	La Vie Claire,Les Super Kid's
+41	Tuc
+42	Picard
+43	Bonneterre
+44	u
+45	McEnnedy
+46	Leader Price
+47	U Saveurs,U
+48	Hillcrest,Aldi
+49	St Michel,Saint-Michel
+50	Acapulco
+51	Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+52	Le Hameau
+53	Larnaudie,Larnaudie Prestige
+54	Afa Biscuiterie
+55	Fossier,Maison Fossier
+56	Tous les jours
+57	Top Budget,Les Mousquetaires
+58	Delpeyrat
+59	Crusti Croc
+60	Migros,Afiro
+61	Hacendado,//Propiedad de://,Mercadona S.A.
+62	Catago
+63	Ültje
+64	Villars
+65	Eugene blond
+66	Unser Norden
+67	Alnatura
+68	Niederegger
+69	La Bien Nommée
+70	Jardin Bio,Léa Nature
+71	Delicia
+72	Indykpol
+73	Lesieur
+74	Drizz,Aldi
+75	Sans marque,DV S.A.S.
+76	Bicentury,//Propiedad de://,Biocentury S.L.U.
+77	casino
+78	Boots
+79	La Trinitaine
+80	DOR
+81	Be-Kind
+82	Chaskis,Facundo,//Propiedad de://,Industrial Comercial Facundo S.A.
+83	NewTree
+84	Golden Bridge, GoldenBridge
+85	Bio Sonne
+86	DAO,Lou Bio
+87	Hollandia
+88	Chabrior,Sélection des Mousquetaires,Les Mousquetaires
+89	Mémé Georgette
+90	Pierre de Chaumeyrac,Marque Repère
+91	Cora
+92	Guillaume Dunoy
+93	Jean Larnaudie
+94	Guillaume Dunoy,Intermarché
+95	Chabrior
+96	Arnott's
+97	CAVEOSI
+98	Cadbury,Mondelēz International
+99	Afa,Afa biscuiterie
+100	Dia
+101	Griffin's
+102	Delicious Dia,Dia,//Propiedad de://,Dia - Distribuidora Internacional de Alimentación S.A.
+103	Argal
+104	Selection Terroirs Espagne
+105	Corte del Gusto
+106	Asia Green Garden
+107	Marks & Spencer
+108	Hacendado,Antiu Xixona
+109	Gullón
+110	Griesson
+111	Amica,Amica chips
+112	Flor de Navidad,//Propiedad de://,Turrones José Garrigós S.A.
+113	Turrón 25
+114	El Corte Inglés,//Propiedad de://,El Corte Inglés S.A.,//Perteneciente a://,Grupo El Corte Inglés
+115	El Corte Inglés
+116	Fleurons de Lomagne
+117	Pierre biscuiterie
+118	Netto
+119	Les Délices de Belle France,Belle France,Francap Distribution
+120	Lotus,Biscoff
+121	Alipende
+122	Virginias, B-SAN
+123	SuperSol
+124	Fontaneda
+125	Sondey
+126	Aurada
+127	Cuétara
+128	Sam Mills The Corn Master, //Propiedad de://, S.C. Sam Mills S.R.L., //Perteneciente a://, Sam Mills Group
+129	Real Handful
+130	Le Glazik
+131	Le Glazik,Lotus
+132	Chips way
+133	Leverno
+134	Newman's Own
+135	Jules Destrooper
+136	Montfort
+137	Armor Délices
+138	Biscuiterie de l‘abbaye
+139	Quintesens Bio
+140	La Mère Poulard
+141	Motta
+142	Michel Chatillon
+143	Nestle
+144	Joannusmolen
+145	Ecocesta Productos Ecológicos,//Propiedad de://,Biogran S.L.
+146	Alipende,//Propiedad de://,AhorraMas S.A.
+147	goldbaums
+148	Bijou
+149	Bretagne Specialités
+150	Ritz,Nabisco,Mondelēz International
+151	Lidl,Fresh & Easy  Llc,Le Césarin Gourmand
+152	Casa Ramon
+153	Ro'thello
+154	Delhaize
+155	Cora,Groupe Louis Delhaize
+156	Grand Jury
