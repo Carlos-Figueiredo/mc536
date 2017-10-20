@@ -1,3 +1,17 @@
+
+-- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
+SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
+    FROM Produto
+    JOIN Paises_Vendidos
+    ON Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
+    JOIN Pais a
+    ON Paises_Vendidos.idPais = a.idPais
+    JOIN Paises_Fabricados
+    ON Produto.Cod_barras = Paises_Fabricados.Produto_Cod_barras
+    JOIN Pais b
+    ON Paises_Fabricados.idPais = b.idPais
+    ORDER BY Paises_Vendidos;
+    
 -- Carrega informações no banco de dados.
 
 LOAD DATA INFILE 'produto.csv'
@@ -50,15 +64,15 @@ SELECT Produto.Nome, Premio.Nome_Premio, Premio.Ano FROM Produto
 		ON Produto_has_Premio.Premio_Id = Premio.Id
 	ORDER BY Produto.Nome, Premio.Ano;
 
-
-
-
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
-SELECT Paises_Vendidos.Pais_nomePais, SUM(Produto.Calorias) AS cal_total FROM Produto
+SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
 	JOIN Paises_Vendidos
 	ON Paises_Vendidos.Produto_Cod_barras = Produto.Cod_barras
-	GROUP BY Paises_Vendidos.Pais_nomePais
+	JOIN Pais
+	ON Paises_Vendidos.idPais = Pais.idPais
+	GROUP BY Pais.nome
 	ORDER BY cal_total DESC;
+
 
 -- Resulta em uma tabela com os paises e a média da quantidade (em g ou ml) comprada por eles, ordenada de forma decrescente.
 SELECT AVG(Produto.Quantidade), Paises_Vendidos.Pais_nomePais
