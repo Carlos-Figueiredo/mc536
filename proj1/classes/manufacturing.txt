@@ -1,0 +1,124 @@
+1	
+2	Belgique
+3	France
+4	Bélgica ??
+5	Lunac
+6	Aveyron
+7	Biscuiterie de l'Abbaye - Route du Val - 61700 Lonlay-l'Abbaye
+8	Orne
+9	Normandie
+10	Aoste SNC - A SNC (Filiale Campofrio Food Group) - ZI Les Jacquards - 42520 Maclas
+11	Loire
+12	Rhône-Alpes
+13	République Tchèque
+14	Norvège
+15	Lonlay l'Abbaye
+16	Bretagne
+17	Saint-Grégoire
+18	United Kingdom
+19	Ardèche
+20	Finistère
+21	Pays-Bas
+22	Manche
+23	Champagnac de Bélair
+24	Italie
+25	Castanet-Tolosan
+26	België
+27	12270
+28	Suisse
+29	Charente Maritime
+30	Loc Maria
+31	Coray
+32	Australia
+33	Saint-Michel-Chef-Chef
+34	Loire-Atlantique
+35	Union Européenne
+36	Manzanares (Ciudad Real)
+37	Ciudad Real (provincia)
+38	Castilla-La Mancha
+39	España
+40	Corse
+41	Etablissements Berni et Cie - Rue du Port Sec - ZI de Tavannes - 55100 Verdun
+42	Meuse
+43	Lorraine
+44	Landes
+45	Royaume-Uni
+46	AFIRO Entreprise sociale et formatrice Lausanne
+47	AFIRO Ecublens Chemin de Champ Colomb 13 Case postale 25 1024 Ecublens Suisse
+48	Jijona
+49	Alicante (provincia)
+50	Comunidad Valenciana
+51	Niederlande
+52	Nord
+53	Lübeck
+54	Schleswig-Holstein
+55	Deutschland
+56	Belgien
+57	New Zealand
+58	Belle-Ile-en-Mer
+59	La Compagnie du Biscuit (Filiale Groupe Biscuits Bouvard) - 69 Avenue Jean Jaurès - 33600 Pessac
+60	Gironde
+61	Aquitaine-Limousin-Poitou-Charentes
+62	Allemagne
+63	Pologne
+64	02290 Montigny-Lengrain
+65	Aisne
+66	Picardie
+67	Quart
+68	Gerona (provincia)
+69	Cataluña
+70	france
+71	Switzerland
+72	U.S.A
+73	États-Unis
+74	Medina del Campo
+75	Valladolid (provincia)
+76	Castilla y León
+77	Villamuriel de Cerrato
+78	Palencia (provincia)
+79	Simbach am Inn
+80	Antersdorfer Mühle
+81	Provence
+82	Biscuits Bouvard - 73 Rue Albert Métras - ZAC de la Teppe - 01250 Ceyzériat
+83	Ain
+84	Auvergne-Rhône-Alpes
+85	Intario
+86	Canada
+87	Les Délices d'Auzan
+88	Castelnau d'Auzan
+89	45300 Pithivier
+90	ITALIE
+91	Canadá ??
+92	Industrias Cárnicas Navarras - Carretera de la Foz - s/n - 31440 Lumbier
+93	Navarre
+94	Espagne
+95	navarre
+96	espagne
+97	Aguilar de Campoo
+98	Palencia
+99	Amica Chips SpA Via dell'Industria 57 46043 Castiglione
+100	Italien
+101	Orgaz
+102	Toledo (provincia)
+103	61700
+104	Lonlay
+105	Bélgica
+106	España ?
+107	Villarejo de Salvanés
+108	Madrid
+109	Rumanía
+110	Briec
+111	Serbia
+112	61700 LONLAY L'ABBAYE
+113	Poland
+114	Hulsbos 3
+115	5431 NZ Cuijk
+116	Nederland
+117	[DISTRIBUIDOR]
+118	israel
+119	87500
+120	Brocéliande-ALH (Filiale Cooperl Arc Atlantique) - Rue du Moulin Tampon - 42120 Perreux
+121	Hungary
+122	A SNC Hameau de Saint-Didier RD 592 38400 Les Abrets France
+123	Ungarn
+124	Intersnack France - ISF (Filiale Groupe Intersnack) - Route de Compiègne - 02290 Montigny-Lengrain

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
 SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     FROM Produto
@@ -10,6 +11,62 @@ SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     JOIN Pais b
     ON Paises_Fabricados.idPais = b.idPais
     ORDER BY Paises_Vendidos;
+=======
+-- Carrega informações no banco de dados.
+
+LOAD DATA INFILE 'produto.csv'
+	INTO TABLE Produto
+    IGNORE 1 LINES (Cod_barras, Nome, idFabricante, Calorias_100g, Sodio_100g, FibrasAlimentares_100g, Acucares_100g, Proteinas_100g, GordurasTotais_100g, Quantidade, Un_Quantidade);
+LOAD DATA INFILE 'paises_vendidos.csv'
+	INTO TABLE Paises_Vendidos 
+    IGNORE 1 LINES (Produto_Cod_barras, idPais);
+LOAD DATA INFILE 'paises_fabricados.csv'
+	INTO TABLE Paises_Fabricados 
+    IGNORE 1 LINES (Produto_Cod_barras, idPais);
+LOAD DATA INFILE 'paises.csv'
+	INTO TABLE Paises 
+    IGNORE 1 LINES (idPais, Nome);
+LOAD DATA INFILE 'fabricante.csv'
+	INTO TABLE Fabricante 
+    IGNORE 1 LINES (idFabricante, Nome);
+LOAD DATA INFILE 'categoria_has_produto.csv'
+	INTO TABLE Categoria_has_Produto 
+    IGNORE 1 LINES (idCategoria, Produto_Cod_barras);
+LOAD DATA INFILE 'categoria.csv'
+	INTO TABLE Categoria 
+    IGNORE 1 LINES (idCategoria, Nome);
+LOAD DATA INFILE 'produto_has_ingrediente.csv'
+	INTO TABLE Produto_has_Ingrediente 
+    IGNORE 1 LINES (Produto_Cod_barras, idIngrediente);
+LOAD DATA INFILE 'ingrediente.csv'
+	INTO TABLE Ingrediente 
+    IGNORE 1 LINES (idIngrediente, Nome);
+LOAD DATA INFILE 'produto_has_caracterisca.csv'
+	INTO TABLE Produto_has_Caracteristica
+    IGNORE 1 LINES (idCaracteristica, Produto_Cod_barras);
+LOAD DATA INFILE 'caracteristica.csv'
+	INTO TABLE Caracteristica 
+    IGNORE 1 LINES (idCaracteristica, Nome);
+LOAD DATA INFILE 'produto_has_embalagem.csv'
+	INTO TABLE Produto_has_Embalagem 
+    IGNORE 1 LINES (Produto_Cod_barras, idEmbalagem);
+LOAD DATA INFILE 'embalagem.csv'
+	INTO TABLE Embalagem 
+    IGNORE 1 LINES (idEmbalagem, Nome);
+
+-- Retorna o nome do produto, o prêmio e o ano do prêmio em ordem alfabética de nome.
+-- Para cada nome, ordena os prêmios de acordo com os anos.
+-- !!!!!!!!!!!REFAZER!!!!!!!!!!
+SELECT Produto.Nome, Premio.Nome_Premio, Premio.Ano FROM Produto
+	JOIN Produto_has_Premio
+		ON Produto_has_Premio.Produto_Cod_barras = Produto.Cod_barras
+	JOIN Premio
+		ON Produto_has_Premio.Premio_Id = Premio.Id
+	ORDER BY Produto.Nome, Premio.Ano;
+
+
+
+>>>>>>> 42d53efded1dc89d928f94e25a8f621db7e47da8
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
 SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
