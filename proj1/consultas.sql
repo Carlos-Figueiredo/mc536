@@ -86,7 +86,7 @@ FROM (  SELECT
 	Proteinas_100g,
 	Cod_barras
 	FROM Produto
-	WHERE Proteinas_100g >= 20
+	WHERE Proteinas_100g >= 10
 	) Produto_p
 INNER JOIN Categoria_has_Produto
 	on Produto_p.Cod_barras = Categoria_has_Produto.Produto_Cod_barras
