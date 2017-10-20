@@ -1,0 +1,233 @@
+idCategoria	nome
+2	Biscuits et gâteaux
+3	Biscuits
+4	Biscuits au chocolat
+5	en:sugary-snacks
+6	en:biscuits-and-cakes
+7	en:biscuits
+8	fr:speculoos
+9	Aliments et boissons à base de végétaux
+10	Aliments d'origine végétale
+11	Céréales et pommes de terre
+12	Pains
+13	Gressins
+14	en:salty-snacks
+15	en:appetizers
+16	en:chips-and-fries
+17	en:crisps
+18	en:corn-chips
+19	Snacks sucrés
+20	Petits beurres
+21	fr:Biscuits apéritif soufflés
+22	fr:Biscuits apéritif soufflés à la cacahuète
+23	Cookies
+24	Cookies au chocolat
+25	Céréales et dérivés
+26	Galettes de céréales
+27	Galettes de riz
+28	Galettes de riz au chocolat noir
+29	Viandes
+30	Charcuteries
+31	Saucissons
+32	Saucissons secs
+33	Saucissons secs aux noisettes
+34	Galettes de riz au chocolat au lait
+35	en:plant-based-foods-and-beverages
+36	en:plant-based-foods
+37	en:cereals-and-potatoes
+38	en:breads
+39	en:special-breads
+40	Crêpes et galettes
+41	Crêpes
+42	Crêpes dentelle
+43	Chocolats
+44	Chocolats noirs
+45	Biscuits au chocolat au lait
+46	Crêpes fourrées
+47	Crêpes sucrées
+48	Digestive Biscuits
+49	Gaufres
+50	Gaufrettes
+51	Biscuits-aux-cereales
+52	Biscuits-bio
+53	Biscuits secs
+54	Galettes-bretonnes
+55	Galettes bretonnes
+56	Chips de légumes
+57	chips
+58	Confiseries
+59	Caramels
+60	Caramels au beurre salé
+61	Crème de caramel
+62	Biscuits sablés
+63	Sugary snacks
+64	Biscuits and cakes
+65	Sablés
+66	Aliments à base de fruits et de légumes
+67	Fruits et produits dérivés
+68	Produits déshydratés
+69	Aliments à base de plantes séchés
+70	Fruits secs
+71	Mélanges de fruits secs
+72	Biscuits apéritifs
+73	Snacks salés
+74	Gressins artisanaux
+75	Saucissons de boeuf
+76	Macaron à la framboise
+77	Goûters fourrés
+78	Apéritif
+79	Chips et frites
+80	Chips
+81	Chips de pommes de terre
+82	Chips de pommes de terre à l'huile de tournesol
+83	en:aperitif
+84	en:biscuits-aperitifs
+85	en:snacks-sales
+86	nl:Zoute snacks
+87	Surgelés
+88	Biscuits feuilletés
+89	Palmiers
+90	Biscuits au beurre
+91	Desserts
+92	Gâteaux
+93	Gâteaux au chocolat
+94	Chips de pommes de terre allégées
+95	Brownies
+96	Muesli Bars
+97	Chips de maïs
+98	Aperitivos
+99	Aros de maíz
+100	Beurres demi-sel
+101	Beurres pasteurisés
+102	Biscuits au chocolat noir
+103	Conserves
+104	Poissons et viandes et oeufs
+105	Foies gras
+106	Bloc de foie gras
+107	Foies gras de canard
+108	Foie gras de canard au porto
+109	Chorizos
+110	Blocs de foie gras
+111	Snacks dulces
+112	Dulces
+113	Gastronomía navideña
+114	Dulces de Navidad
+115	Mazapanes
+116	Figuritas de mazapán
+117	Salty snacks
+118	Erdnüsse
+119	Chocolats au lait
+120	Chocolat au lait fourré
+121	Marzipan
+122	Appetizers
+123	Chips and fries
+124	Crisps
+125	Corn chips
+126	Plant-based foods and beverages
+127	Plant-based foods
+128	Nuts and their products
+129	Bars
+130	Nut bars
+131	Museli bars
+132	biscuits au beurre
+133	sablés
+134	gâteaux bretons
+135	palets bretons
+136	Epicerie
+137	Sauces
+138	Sauces pour pâtes
+139	Sauces Pesto
+140	Sauces Pesto Rosso
+141	Bonbons
+142	Saucisses
+143	Chocolats fourrés au caramel
+144	Alimentos y bebidas de origen vegetal
+145	Alimentos de origen vegetal
+146	Cereales y patatas
+147	Cereales y derivados
+148	Tortitas de cereales
+149	Tortitas de maíz
+150	Chocolates
+151	Milk chocolates
+152	fr:Biscuits sablés
+153	fr:Biscuits pur beurre
+154	fr:Galettes bretonnes
+155	Frutos de cáscara y derivados
+156	Dulces de frutos de cáscara
+157	Almendras garrapiñadas
+158	Barres
+159	Barres de céréales
+160	fr:Barres
+161	fr:Barres chocolatées
+162	Candies
+163	Barres chocolatées
+164	Barritas
+165	Barritas de cereales
+166	Sonnenblumenkerne
+167	Biscuits aux céréales
+168	Biscuits salés
+169	Blocs de foies gras avec morceaux
+170	Bloc de foie gras avec morceaux
+171	Foies gras cuits
+172	Foies gras mi-cuits
+173	sweet biscuits
+174	Chocolate Bars
+175	Chocolate biscuits
+176	Chocolates rellenos de crema de menta
+177	Coppa
+178	Crackers
+179	Sauce
+180	Leguminosas y derivados
+181	Untables
+182	Untables vegetales
+183	Purés de oleaginosas
+184	Mantecas de frutos de cáscara
+185	Mantecas de leguminosas
+186	Mantecas de cacahuete
+187	Cremas de frutos secos
+188	Bolachas
+189	Kekse
+190	Pan y repostería
+191	Foies gras entiers
+192	Galettes Bretonnes
+193	Gâteaux bretons
+194	Galettes sablées
+195	Galletas y pasteles
+196	Galletas
+197	Spéculoos
+198	Galletas de tipo Digestive
+199	Galletas de tipo campurrianas
+200	Galletas de tipo María
+201	Productos sin gluten
+202	Barritas de cereales sin gluten
+203	Breadsticks
+204	Dressing
+205	Pflanzliche Lebensmittel und Getränke
+206	Pflanzliche Lebensmittel
+207	Frucht- und gemüsebasierte Lebensmittel
+208	Fruchtbasierte Lebensmittel
+209	Gaufres fourrées
+210	Galettes au chocolat
+211	Vinaigrettes
+212	Dragées
+213	Confectioneries
+214	Chocolate bars
+215	Süßwaren
+216	Christmas foods and drinks
+217	Christmas sweets
+218	Mayonesas
+219	Groceries
+220	Salsas
+221	Mayonesas sin huevo
+222	Mazapanes de Soto
+223	Croutons
+224	Crêpes au chocolat
+225	Frais
+226	Mini saucissons secs
+227	Biscuits bretons
+228	Biscuits apéritifs soufflés
+229	Saucisson aux noix
+230	Schokoladen
+231	Chocolate cookies
+232	fr:Biscuits apéritif soufflés au bacon
+233	Biscuits apéritif soufflés au bacon

@@ -11,7 +11,7 @@ LOAD DATA INFILE 'paises_fabricados.csv'
     IGNORE 1 LINES (Produto_Cod_barras, idPais);
 LOAD DATA INFILE 'paises.csv'
 	INTO TABLE Paises 
-    IGNORE 1 LINES (nome, idPais);
+    IGNORE 1 LINES (idPais, Nome);
 LOAD DATA INFILE 'fabricante.csv'
 	INTO TABLE Fabricante 
     IGNORE 1 LINES (idFabricante, Nome);
@@ -20,25 +20,25 @@ LOAD DATA INFILE 'categoria_has_produto.csv'
     IGNORE 1 LINES (idCategoria, Produto_Cod_barras);
 LOAD DATA INFILE 'categoria.csv'
 	INTO TABLE Categoria 
-    IGNORE 1 LINES (idCategoria, nome);
+    IGNORE 1 LINES (idCategoria, Nome);
 LOAD DATA INFILE 'produto_has_ingrediente.csv'
 	INTO TABLE Produto_has_Ingrediente 
     IGNORE 1 LINES (Produto_Cod_barras, idIngrediente);
 LOAD DATA INFILE 'ingrediente.csv'
 	INTO TABLE Ingrediente 
-    IGNORE 1 LINES (idIngrediente, nome);
+    IGNORE 1 LINES (idIngrediente, Nome);
 LOAD DATA INFILE 'produto_has_caracterisca.csv'
 	INTO TABLE Produto_has_Caracteristica
     IGNORE 1 LINES (idCaracteristica, Produto_Cod_barras);
 LOAD DATA INFILE 'caracteristica.csv'
 	INTO TABLE Caracteristica 
-    IGNORE 1 LINES (nome, idCaracteristica);
+    IGNORE 1 LINES (idCaracteristica, Nome);
 LOAD DATA INFILE 'produto_has_embalagem.csv'
 	INTO TABLE Produto_has_Embalagem 
     IGNORE 1 LINES (Produto_Cod_barras, idEmbalagem);
 LOAD DATA INFILE 'embalagem.csv'
 	INTO TABLE Embalagem 
-    IGNORE 1 LINES (idEmbalagem, nome);
+    IGNORE 1 LINES (idEmbalagem, Nome);
 
 -- Retorna o nome do produto, o prêmio e o ano do prêmio em ordem alfabética de nome.
 -- Para cada nome, ordena os prêmios de acordo com os anos.
