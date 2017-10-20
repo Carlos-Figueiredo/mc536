@@ -31,7 +31,7 @@ int main(int argc, char *argv[]){
         int fim = 0;
         do{
             fscanf(in2, "%d", &chave_sec);
-            //gcprintf("%d\n", chave_sec);
+            //printf("%d\n", chave_sec);
             int k = 0;
             do{
                 fscanf(in2, "%c", &d);
