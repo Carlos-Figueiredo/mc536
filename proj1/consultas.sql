@@ -1,17 +1,4 @@
 
--- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
-SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
-    FROM Produto
-    JOIN Paises_Vendidos
-    ON Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
-    JOIN Pais a
-    ON Paises_Vendidos.idPais = a.idPais
-    JOIN Paises_Fabricados
-    ON Produto.Cod_barras = Paises_Fabricados.Produto_Cod_barras
-    JOIN Pais b
-    ON Paises_Fabricados.idPais = b.idPais
-    ORDER BY Paises_Vendidos;
-    
 -- Carrega informações no banco de dados.
 
 LOAD DATA INFILE 'produto.csv'
@@ -54,33 +41,38 @@ LOAD DATA INFILE 'embalagem.csv'
 	INTO TABLE Embalagem 
     IGNORE 1 LINES (idEmbalagem, Nome);
 
--- Retorna o nome do produto, o prêmio e o ano do prêmio em ordem alfabética de nome.
--- Para cada nome, ordena os prêmios de acordo com os anos.
--- !!!!!!!!!!!REFAZER!!!!!!!!!!
-SELECT Produto.Nome, Premio.Nome_Premio, Premio.Ano FROM Produto
-	JOIN Produto_has_Premio
-		ON Produto_has_Premio.Produto_Cod_barras = Produto.Cod_barras
-	JOIN Premio
-		ON Produto_has_Premio.Premio_Id = Premio.Id
-	ORDER BY Produto.Nome, Premio.Ano;
+-- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
+SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
+    FROM Produto
+    JOIN Paises_Vendidos
+    ON Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
+    JOIN Pais a
+    ON Paises_Vendidos.Pais_idPais = a.idPais
+    JOIN Paises_Fabricados
+    ON Produto.Cod_barras = Paises_Fabricados.Produto_Cod_barras
+    JOIN Pais b
+    ON Paises_Fabricados.Pais_idPais = b.idPais
+    ORDER BY Paises_Vendidos;
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
 SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
 	JOIN Paises_Vendidos
 	ON Paises_Vendidos.Produto_Cod_barras = Produto.Cod_barras
 	JOIN Pais
-	ON Paises_Vendidos.idPais = Pais.idPais
+	ON Paises_Vendidos.Pais_idPais = Pais.idPais
 	GROUP BY Pais.nome
 	ORDER BY cal_total DESC;
 
 
 -- Resulta em uma tabela com os paises e a média da quantidade (em g ou ml) comprada por eles, ordenada de forma decrescente.
-SELECT AVG(Produto.Quantidade), Paises_Vendidos.Pais_nomePais
-FROM Produto
-INNER JOIN Paises_Vendidos
-	on Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
-GROUP BY Paises_Vendidos.Pais_nomePais
-ORDER BY AVG(Produto.Quantidade) DESC;
+SELECT AVG(pr.Quantidade), p.nome
+FROM Produto pr
+INNER JOIN Paises_Vendidos v
+	ON pr.Cod_barras = v.Produto_Cod_barras
+INNER JOIN Pais p
+	ON v.Pais_idPais = p.idPais
+GROUP BY p.nome
+ORDER BY AVG(pr.Quantidade) DESC;
 
 -- Para todo fabricante, dá o número de produtos que ele possui
 SELECT Fabricante.nome, COUNT(Produto.Cod_barras) as num_produto FROM Fabricante
@@ -94,7 +86,7 @@ FROM (  SELECT
 	Proteinas_100g,
 	Cod_barras
 	FROM Produto
-	WHERE Proteinas >= 20
+	WHERE Proteinas_100g >= 20
 	) Produto_p
 INNER JOIN Categoria_has_Produto
 	on Produto_p.Cod_barras = Categoria_has_Produto.Produto_Cod_barras
