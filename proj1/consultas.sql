@@ -1,3 +1,45 @@
+-- Carrega informações no banco de dados.
+
+LOAD DATA INFILE 'produto.csv'
+	INTO TABLE Produto
+    IGNORE 1 LINES (Cod_barras, Nome, idFabricante, Calorias_100g, Sodio_100g, FibrasAlimentares_100g, Acucares_100g, Proteinas_100g, GordurasTotais_100g, Quantidade, Un_Quantidade);
+LOAD DATA INFILE 'paises_vendidos.csv'
+	INTO TABLE Paises_Vendidos 
+    IGNORE 1 LINES (Produto_Cod_barras, idPais);
+LOAD DATA INFILE 'paises_fabricados.csv'
+	INTO TABLE Paises_Fabricados 
+    IGNORE 1 LINES (Produto_Cod_barras, idPais);
+LOAD DATA INFILE 'paises.csv'
+	INTO TABLE Paises 
+    IGNORE 1 LINES (nome, idPais);
+LOAD DATA INFILE 'fabricante.csv'
+	INTO TABLE Fabricante 
+    IGNORE 1 LINES (idFabricante, Nome);
+LOAD DATA INFILE 'categoria_has_produto.csv'
+	INTO TABLE Categoria_has_Produto 
+    IGNORE 1 LINES (idCategoria, Produto_Cod_barras);
+LOAD DATA INFILE 'categoria.csv'
+	INTO TABLE Categoria 
+    IGNORE 1 LINES (idCategoria, nome);
+LOAD DATA INFILE 'produto_has_ingrediente.csv'
+	INTO TABLE Produto_has_Ingrediente 
+    IGNORE 1 LINES (Produto_Cod_barras, idIngrediente);
+LOAD DATA INFILE 'ingrediente.csv'
+	INTO TABLE Ingrediente 
+    IGNORE 1 LINES (idIngrediente, nome);
+LOAD DATA INFILE 'produto_has_caracterisca.csv'
+	INTO TABLE Produto_has_Caracteristica
+    IGNORE 1 LINES (idCaracteristica, Produto_Cod_barras);
+LOAD DATA INFILE 'caracteristica.csv'
+	INTO TABLE Caracteristica 
+    IGNORE 1 LINES (nome, idCaracteristica);
+LOAD DATA INFILE 'produto_has_embalagem.csv'
+	INTO TABLE Produto_has_Embalagem 
+    IGNORE 1 LINES (Produto_Cod_barras, idEmbalagem);
+LOAD DATA INFILE 'embalagem.csv'
+	INTO TABLE Embalagem 
+    IGNORE 1 LINES (idEmbalagem, nome);
+
 -- Retorna o nome do produto, o prêmio e o ano do prêmio em ordem alfabética de nome.
 -- Para cada nome, ordena os prêmios de acordo com os anos.
 -- !!!!!!!!!!!REFAZER!!!!!!!!!!
