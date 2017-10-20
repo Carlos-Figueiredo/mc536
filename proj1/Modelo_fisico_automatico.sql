@@ -8,6 +8,8 @@ USE `db_ra169767` ;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Fabricante`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Fabricante` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Fabricante` (
   `idFabricante` INT NOT NULL ,
   `Nome` VARCHAR(45) NULL ,
@@ -18,6 +20,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Produto`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Produto` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto` (
   `Cod_barras` VARCHAR(12) NOT NULL ,
   `Nome` VARCHAR(45) NULL ,
@@ -43,9 +47,11 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Categoria`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Categoria` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Categoria` (
   `idCategoria` INT NOT NULL ,
-  `nome` VARCHAR(45) NULL ,
+  `Nome` VARCHAR(45) NULL ,
   PRIMARY KEY (`idCategoria`) )
 ENGINE = InnoDB;
 
@@ -53,9 +59,11 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Ingrediente`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Ingrediente` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Ingrediente` (
   `idIngrediente` INT NOT NULL ,
-  `nome` VARCHAR(45) NULL ,
+  `Nome` VARCHAR(45) NULL ,
   PRIMARY KEY (`idIngrediente`) )
 ENGINE = InnoDB;
 
@@ -63,38 +71,20 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Pais`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Pais` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Pais` (
-  `nome` VARCHAR(45) NOT NULL ,
   `idPais` INT NOT NULL ,
+  `Nome` VARCHAR(45) NOT NULL ,
   PRIMARY KEY (`idPais`) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `db_ra169767`.`Paises_Vendidos`
--- -----------------------------------------------------
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Paises_Vendidos` (
-  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
-  `idPais` INT NOT NULL ,
-  PRIMARY KEY (`Produto_Cod_barras`, `idPais`) ,
-  INDEX `fk_Produto_has_País onde se vende_País onde se vende1_idx` (`idPais` ASC) ,
-  INDEX `fk_Produto_has_País onde se vende_Produto1_idx` (`Produto_Cod_barras` ASC) ,
-  CONSTRAINT `fk_Produto_has_País onde se vende_Produto1`
-    FOREIGN KEY (`Produto_Cod_barras` )
-    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_Produto_has_País onde se vende_País onde se vende1`
-    FOREIGN KEY (`idPais` )
-    REFERENCES `db_ra169767`.`Pais` (`nome` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Produto_has_Ingrediente`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Produto_has_Ingrediente` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Ingrediente` (
   `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
   `idIngrediente` INT NOT NULL ,
@@ -116,33 +106,13 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `db_ra169767`.`Paises_Fabricados`
--- -----------------------------------------------------
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Paises_Fabricados` (
-  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
-  `idPais` INT NOT NULL ,
-  PRIMARY KEY (`Produto_Cod_barras`, `idPais`) ,
-  INDEX `fk_Local_fabricado_has_Produto_Produto1_idx` (`Produto_Cod_barras` ASC) ,
-  INDEX `fk_Pais_fabricado_has_Produto_Pais_vendido1_idx` (`idPais` ASC) ,
-  CONSTRAINT `fk_Local_fabricado_has_Produto_Produto1`
-    FOREIGN KEY (`Produto_Cod_barras` )
-    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_Pais_fabricado_has_Produto_Pais_vendido1`
-    FOREIGN KEY (`idPais` )
-    REFERENCES `db_ra169767`.`Pais` (`nome` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
 -- Table `db_ra169767`.`Embalagem`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Embalagem` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Embalagem` (
   `idEmbalagem` INT NOT NULL ,
-  `nome` VARCHAR(45) NULL ,
+  `Nome` VARCHAR(45) NULL ,
   PRIMARY KEY (`idEmbalagem`) )
 ENGINE = InnoDB;
 
@@ -150,10 +120,12 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Categoria_has_Produto`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Categoria_has_Produto` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Categoria_has_Produto` (
-  `idCategoria` INT NOT NULL ,
   `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
-  PRIMARY KEY (`idCategoria`, `Produto_Cod_barras`) ,
+  `idCategoria` INT NOT NULL ,
+  PRIMARY KEY (`Produto_Cod_barras`, `idCategoria`) ,
   INDEX `fk_Categoria_has_Produto_Produto1_idx` (`Produto_Cod_barras` ASC) ,
   INDEX `fk_Categoria_has_Produto_Categoria1_idx` (`idCategoria` ASC) ,
   CONSTRAINT `fk_Categoria_has_Produto_Categoria1`
@@ -172,6 +144,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Produto_has_Embalagem`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Produto_has_Embalagem` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Embalagem` (
   `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
   `idEmbalagem` INT NOT NULL ,
@@ -194,6 +168,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Premio`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Premio` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Premio` (
   `Nome_Premio` VARCHAR(200) NULL ,
   `Ano` INT NULL ,
@@ -205,6 +181,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Produto_has_Premio`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Produto_has_Premio` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Premio` (
   `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
   `Id` INT NOT NULL ,
@@ -228,38 +206,20 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Caracteristica`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Caracteristica` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Caracteristica` (
-  `nome` VARCHAR(100) NOT NULL ,
   `idCaracteristica` INT NOT NULL ,
+  `Nome` VARCHAR(100) NOT NULL ,
   PRIMARY KEY (`idCaracteristica`) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `db_ra169767`.`Produto_has_Caracteristica`
--- -----------------------------------------------------
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Caracteristica` (
-  `idCaracteristica` INT NOT NULL ,
-  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
-  PRIMARY KEY (`idCaracteristica`, `Produto_Cod_barras`) ,
-  INDEX `fk_Produto_has_Caracteristica_Caracteristica1_idx` (`idCaracteristica` ASC) ,
-  INDEX `fk_Produto_has_Caracteristica_Produto1_idx` (`Produto_Cod_barras` ASC) ,
-  CONSTRAINT `fk_Produto_has_Caracteristica_Prod`
-    FOREIGN KEY (`Produto_Cod_barras` )
-    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_Produto_has_Caracteristica_Carac`
-    FOREIGN KEY (`idCaracteristica` )
-    REFERENCES `db_ra169767`.`Caracteristica` (`nome` )
-    ON DELETE CASCADE
-    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Alergeno`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Alergeno` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Alergeno` (
   `idAlergeno` INT NOT NULL ,
   `Nome` VARCHAR(45) NULL ,
@@ -270,6 +230,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `db_ra169767`.`Alergeno_has_Alergeno`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Alergeno_has_Alergeno` ;
+
 CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Alergeno_has_Alergeno` (
   `Alergeno_idAlergeno` INT NOT NULL ,
   `Alergeno_idAlergeno1` INT NOT NULL ,
@@ -284,6 +246,78 @@ CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Alergeno_has_Alergeno` (
   CONSTRAINT `fk_Alergeno_has_Alergeno_Alergeno2`
     FOREIGN KEY (`Alergeno_idAlergeno1` )
     REFERENCES `db_ra169767`.`Alergeno` (`idAlergeno` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `db_ra169767`.`Paises_Vendidos`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Paises_Vendidos` ;
+
+CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Paises_Vendidos` (
+  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
+  `Pais_idPais` INT NOT NULL ,
+  PRIMARY KEY (`Produto_Cod_barras`, `Pais_idPais`) ,
+  INDEX `fk_Produto_has_Pais_Pais1_idx` (`Pais_idPais` ASC) ,
+  INDEX `fk_Produto_has_Pais_Produto1_idx` (`Produto_Cod_barras` ASC) ,
+  CONSTRAINT `fk_Produto_has_Pais_Produto1`
+    FOREIGN KEY (`Produto_Cod_barras` )
+    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_Produto_has_Pais_Pais1`
+    FOREIGN KEY (`Pais_idPais` )
+    REFERENCES `db_ra169767`.`Pais` (`idPais` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `db_ra169767`.`Paises_Fabricados`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Paises_Fabricados` ;
+
+CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Paises_Fabricados` (
+  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
+  `Pais_idPais` INT NOT NULL ,
+  PRIMARY KEY (`Produto_Cod_barras`, `Pais_idPais`) ,
+  INDEX `fk_Produto_has_Pais_Pais2_idx` (`Pais_idPais` ASC) ,
+  INDEX `fk_Produto_has_Pais_Produto2_idx` (`Produto_Cod_barras` ASC) ,
+  CONSTRAINT `fk_Produto_has_Pais_Produto2`
+    FOREIGN KEY (`Produto_Cod_barras` )
+    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_Produto_has_Pais_Pais2`
+    FOREIGN KEY (`Pais_idPais` )
+    REFERENCES `db_ra169767`.`Pais` (`idPais` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `db_ra169767`.`Produto_has_Caracteristica`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `db_ra169767`.`Produto_has_Caracteristica` ;
+
+CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Caracteristica` (
+  `Produto_Cod_barras` VARCHAR(12) NOT NULL ,
+  `Caracteristica_idCaracteristica` INT NOT NULL ,
+  PRIMARY KEY (`Produto_Cod_barras`, `Caracteristica_idCaracteristica`) ,
+  INDEX `fk_Produto_has_Caracteristica_Caracteristica1_idx` (`Caracteristica_idCaracteristica` ASC) ,
+  INDEX `fk_Produto_has_Caracteristica_Produto1_idx` (`Produto_Cod_barras` ASC) ,
+  CONSTRAINT `fk_Produto_has_Caracteristica_Produto1`
+    FOREIGN KEY (`Produto_Cod_barras` )
+    REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_Produto_has_Caracteristica_Caracteristica1`
+    FOREIGN KEY (`Caracteristica_idCaracteristica` )
+    REFERENCES `db_ra169767`.`Caracteristica` (`idCaracteristica` )
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
