@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 -- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
 SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     FROM Produto
@@ -11,7 +11,7 @@ SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     JOIN Pais b
     ON Paises_Fabricados.idPais = b.idPais
     ORDER BY Paises_Vendidos;
-=======
+    
 -- Carrega informações no banco de dados.
 
 LOAD DATA INFILE 'produto.csv'
@@ -63,10 +63,6 @@ SELECT Produto.Nome, Premio.Nome_Premio, Premio.Ano FROM Produto
 	JOIN Premio
 		ON Produto_has_Premio.Premio_Id = Premio.Id
 	ORDER BY Produto.Nome, Premio.Ano;
-
-
-
->>>>>>> 42d53efded1dc89d928f94e25a8f621db7e47da8
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
 SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
