@@ -3,9 +3,9 @@
 -- !!!!!!!!!!!REFAZER!!!!!!!!!!
 SELECT Produto.Nome, Premio.Nome_Premio, Premio.Ano FROM Produto
 	JOIN Produto_has_Premio
-	ON Produto_has_Premio.Produto_Cod_barras = Produto.Cod_barras
+		ON Produto_has_Premio.Produto_Cod_barras = Produto.Cod_barras
 	JOIN Premio
-	ON Produto_has_Premio.Premio_Id = Premio.Id
+		ON Produto_has_Premio.Premio_Id = Premio.Id
 	ORDER BY Produto.Nome, Premio.Ano;
 
 
@@ -18,7 +18,7 @@ SELECT Paises_Vendidos.Pais_nomePais, SUM(Produto.Calorias) AS cal_total FROM Pr
 	GROUP BY Paises_Vendidos.Pais_nomePais
 	ORDER BY cal_total DESC;
 
--- Resulta em uma tabela com os paises e a média da quantidade (peso) comprada por eles, ordenada de forma decrescente.
+-- Resulta em uma tabela com os paises e a média da quantidade (em g ou ml) comprada por eles, ordenada de forma decrescente.
 SELECT AVG(Produto.Quantidade), Paises_Vendidos.Pais_nomePais
 FROM Produto
 INNER JOIN Paises_Vendidos
@@ -42,6 +42,6 @@ FROM (  SELECT
 	) Produto_p
 INNER JOIN Categoria_has_Produto
 	on Produto_p.Cod_barras = Categoria_has_Produto.Produto_Cod_barras
-	INNER JOIN Categoria
-		ON Categoria_has_Produto.Categoria_idCategoria = Categoria.idCategoria
+INNER JOIN Categoria
+	ON Categoria_has_Produto.Categoria_idCategoria = Categoria.idCategoria
 GROUP BY Categoria_has_Produto.Categoria_idCategoria;
