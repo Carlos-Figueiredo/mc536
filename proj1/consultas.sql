@@ -47,33 +47,34 @@ LOAD DATA INFILE 'embalagem.csv'
 -- Lista de produtos, onde são fabricados e onde são vendidos, ordenados por onde são vendidos.
 SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     FROM Produto
-    JOIN Paises_Vendidos
-    ON Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
+    JOIN Produto_has_Locais_Vendidos
+    ON Produto.Cod_barras = Produto_has_Locais_Vendidos.Produto_Cod_barras
     JOIN Locais_Vendidos a
-    ON Paises_Vendidos.Pais_idPais = a.idPais
-    JOIN Paises_Fabricados
-    ON Produto.Cod_barras = Paises_Fabricados.Produto_Cod_barras
+    ON Produto_has_Locais_Vendidos.Locais_Vendidos_idLocais_Vendidos = a.idLocais_Vendidos
+    JOIN Produto_has_Locais_Fabricados
+    ON Produto.Cod_barras = Produto_has_Locais_Fabricados.Produto_Cod_barras
     JOIN Locais_Fabricados b
-    ON Paises_Fabricados.Pais_idPais = b.idPais
-    ORDER BY Paises_Vendidos;
+    ON Produto_has_Locais_Fabricados.Locais_Fabricados_idLocais_Fabricados = b.idLocais_Fabricados
+    ORDER BY Produto_has_Locais_Vendidos.Locais_Vendidos_idLocais_Vendidos;
+    
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
 SELECT Locais_Vendidos.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
-	JOIN Paises_Vendidos
-	ON Paises_Vendidos.Produto_Cod_barras = Produto.Cod_barras
+	JOIN Produto_has_Locais_Vendidos
+	ON Produto_has_Locais_Vendidos.Produto_Cod_barras = Produto.Cod_barras
 	JOIN Locais_Vendidos
-	ON Paises_Vendidos.Pais_idPais = Pais.idPais
-	GROUP BY Pais.nome
+	ON Produto_has_Locais_Vendidos.Locais_Vendidos_idLocais_Vendidos = Locais_Vendidos.idLocais_Vendidos
+	GROUP BY Locais_Vendidos.nome
 	ORDER BY cal_total DESC;
 
 
 -- Resulta em uma tabela com os paises e a média da quantidade (em g ou ml) comprada por eles, ordenada de forma decrescente.
 SELECT AVG(pr.Quantidade), p.nome
 FROM Produto pr
-INNER JOIN Paises_Vendidos v
+INNER JOIN Produto_has_Locais_Vendidos v
 	ON pr.Cod_barras = v.Produto_Cod_barras
 INNER JOIN Locais_Vendidos p
-	ON v.Pais_idPais = p.idPais
+	ON v.Locais_Vendidos_idLocais_Vendidos = p.idLocais_Vendidos
 GROUP BY p.nome
 ORDER BY AVG(pr.Quantidade) DESC;
 
