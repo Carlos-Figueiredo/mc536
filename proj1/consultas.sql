@@ -46,19 +46,19 @@ SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     FROM Produto
     JOIN Paises_Vendidos
     ON Produto.Cod_barras = Paises_Vendidos.Produto_Cod_barras
-    JOIN Pais a
+    JOIN Locais_Vendidos a
     ON Paises_Vendidos.Pais_idPais = a.idPais
     JOIN Paises_Fabricados
     ON Produto.Cod_barras = Paises_Fabricados.Produto_Cod_barras
-    JOIN Pais b
+    JOIN Locais_Fabricados b
     ON Paises_Fabricados.Pais_idPais = b.idPais
     ORDER BY Paises_Vendidos;
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
-SELECT Pais.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
+SELECT Locais_Vendidos.nome, SUM(Produto.Calorias_100g) AS cal_total FROM Produto
 	JOIN Paises_Vendidos
 	ON Paises_Vendidos.Produto_Cod_barras = Produto.Cod_barras
-	JOIN Pais
+	JOIN Locais_Vendidos
 	ON Paises_Vendidos.Pais_idPais = Pais.idPais
 	GROUP BY Pais.nome
 	ORDER BY cal_total DESC;
@@ -69,16 +69,18 @@ SELECT AVG(pr.Quantidade), p.nome
 FROM Produto pr
 INNER JOIN Paises_Vendidos v
 	ON pr.Cod_barras = v.Produto_Cod_barras
-INNER JOIN Pais p
+INNER JOIN Locais_Vendidos p
 	ON v.Pais_idPais = p.idPais
 GROUP BY p.nome
 ORDER BY AVG(pr.Quantidade) DESC;
+
 
 -- Para todo fabricante, dá o número de produtos que ele possui
 SELECT Fabricante.nome, COUNT(Produto.Cod_barras) as num_produto FROM Fabricante
     LEFT OUTER JOIN Produto
     ON Produto.IdFabricante = Fabricante.IdFabricante
     GROUP BY Fabricante.IdFabricante;
+
 
 -- Dá o nome da categoria e o número de produtos com proteínas maior do que 20 para cada categoria.
 SELECT Count(Produto_p.Proteinas_100g) AS Num_Produtos, Categoria.Nome as Categoria
