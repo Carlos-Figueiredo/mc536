@@ -153,19 +153,6 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `db_ra169767`.`Premio`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `db_ra169767`.`Premio` ;
-
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Premio` (
-  `Nome_Premio` VARCHAR(200) NULL ,
-  `Ano` INT NULL ,
-  `Id` VARCHAR(45) NOT NULL ,
-  PRIMARY KEY (`Id`) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
 -- Table `db_ra169767`.`Produto_has_Premio`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `db_ra169767`.`Produto_has_Premio` ;
@@ -176,17 +163,11 @@ CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Produto_has_Premio` (
   `Premio_Id` VARCHAR(45) NOT NULL ,
   PRIMARY KEY (`Produto_Cod_barras`, `Id`) ,
   INDEX `fk_Premio_has_Produto_Produto1_idx` (`Produto_Cod_barras` ASC) ,
-  INDEX `fk_Produto_has_Premio_Premio1_idx` (`Premio_Id` ASC) ,
   CONSTRAINT `fk_Premio_has_Produto_Produto1`
     FOREIGN KEY (`Produto_Cod_barras` )
     REFERENCES `db_ra169767`.`Produto` (`Cod_barras` )
     ON DELETE CASCADE
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_Produto_has_Premio_Premio1`
-    FOREIGN KEY (`Premio_Id` )
-    REFERENCES `db_ra169767`.`Premio` (`Id` )
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -199,42 +180,6 @@ CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Caracteristica` (
   `idCaracteristica` INT NOT NULL ,
   `Nome` VARCHAR(150) NOT NULL ,
   PRIMARY KEY (`idCaracteristica`) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `db_ra169767`.`Alergeno`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `db_ra169767`.`Alergeno` ;
-
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Alergeno` (
-  `idAlergeno` INT NOT NULL ,
-  `Nome` VARCHAR(45) NULL ,
-  PRIMARY KEY (`idAlergeno`) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `db_ra169767`.`Alergeno_has_Alergeno`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `db_ra169767`.`Alergeno_has_Alergeno` ;
-
-CREATE  TABLE IF NOT EXISTS `db_ra169767`.`Alergeno_has_Alergeno` (
-  `Alergeno_idAlergeno` INT NOT NULL ,
-  `Alergeno_idAlergeno1` INT NOT NULL ,
-  PRIMARY KEY (`Alergeno_idAlergeno`, `Alergeno_idAlergeno1`) ,
-  INDEX `fk_Alergeno_has_Alergeno_Alergeno2_idx` (`Alergeno_idAlergeno1` ASC) ,
-  INDEX `fk_Alergeno_has_Alergeno_Alergeno1_idx` (`Alergeno_idAlergeno` ASC) ,
-  CONSTRAINT `fk_Alergeno_has_Alergeno_Alergeno1`
-    FOREIGN KEY (`Alergeno_idAlergeno` )
-    REFERENCES `db_ra169767`.`Alergeno` (`idAlergeno` )
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_Alergeno_has_Alergeno_Alergeno2`
-    FOREIGN KEY (`Alergeno_idAlergeno1` )
-    REFERENCES `db_ra169767`.`Alergeno` (`idAlergeno` )
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
