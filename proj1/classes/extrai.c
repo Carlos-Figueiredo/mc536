@@ -4,36 +4,53 @@
 
 int main(int argc, char *argv[]){
     char final[3000][1000];
-    FILE *p = fopen(argv[1], "r");
-    FILE *out = fopen("labels.txt", "w");
+    FILE *in = fopen(argv[1], "r");
+    FILE *in2 = fopen(argv[2], "r");
+    FILE *out = fopen(argv[3], "w");
     
-    char c[1000];
+    char c[1000], f[1000];
     char d;
     int size = 0;
     int i = 0;
     int k, j;
-    while(fscanf(p, "%c", &d) != EOF){
-        if(d == '\n' || d == ','){
-            c[k] = '\0';
-            for(j = 0; j < size; j++)
-                if(strcmp(c, final[j]) == 0)
-                    break;
-            if(j == size)
-                strcpy(final[size++], c);
-            i++;
-            k = 0;
-        }
-        else
-            if(k != 0 || d != ' ')
+    char codigo[100];
+    
+    while(fscanf(in, "%s", codigo) != EOF){
+        int k = 0;
+        do{
+            fscanf(in, "%c", &d);
+            if(d != '\n')
                 c[k++] = d;
-    }
+        } while(d != '\n');
+        c[k] = '\0';
+        
+       //printf("%s\t%s\n", codigo, c);
+        
+        int chave_sec;
+        rewind(in2);
+        int fim = 0;
+        do{
+            fscanf(in2, "%d", &chave_sec);
+            //printf("%d\n", chave_sec);
+            int k = 0;
+            do{
+                fscanf(in2, "%c", &d);
+                if(d != '\n')
+                    f[k++] = d;
+            } while(d != '\n');
+            f[k] = '\0';
+            //printf("%s %s\n", f, c);
+            fim++;
+            if(fim > 5000)
+                printf("sim %s\n", c);
+        } while(strcmp(f, c) != 0);
+        
+        //printf("%d\n", i++);
+        //printf("mais um\n");
+        fprintf(out, "%s\t%d\n", codigo, chave_sec);        
+    } 
     
-    for(int j = 0; j < size; j++)
-        fprintf(out, "%s\n", final[j]);
-    
-    printf("%d %d\n", i, size);
-    
-    fclose(p);
+    fclose(in);
     fclose(out);
     
     return 0;

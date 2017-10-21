@@ -4,14 +4,17 @@
 LOAD DATA INFILE 'produto.csv'
 	INTO TABLE Produto
     IGNORE 1 LINES (Cod_barras, Nome, idFabricante, Calorias_100g, Sodio_100g, FibrasAlimentares_100g, Acucares_100g, Proteinas_100g, GordurasTotais_100g, Quantidade, Un_Quantidade);
-LOAD DATA INFILE 'paises_vendidos.csv'
-	INTO TABLE Paises_Vendidos 
+LOAD DATA INFILE 'locais_produto_vendido.csv'
+	INTO TABLE Produto_has_Locais_Vendidos 
     IGNORE 1 LINES (Produto_Cod_barras, idPais);
-LOAD DATA INFILE 'paises_fabricados.csv'
-	INTO TABLE Paises_Fabricados 
+LOAD DATA INFILE 'locais_produto_fabricado.csv'
+	INTO TABLE Produto_has_Locais_Vendidos 
     IGNORE 1 LINES (Produto_Cod_barras, idPais);
-LOAD DATA INFILE 'paises.csv'
-	INTO TABLE Paises 
+LOAD DATA INFILE 'local_vendido.csv'
+	INTO TABLE Locais_Vendidos 
+    IGNORE 1 LINES (idPais, Nome);
+LOAD DATA INFILE 'local_fabricacao.csv'
+	INTO TABLE Locais_Fabricados
     IGNORE 1 LINES (idPais, Nome);
 LOAD DATA INFILE 'fabricante.csv'
 	INTO TABLE Fabricante 

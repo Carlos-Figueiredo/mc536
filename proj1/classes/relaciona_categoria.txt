@@ -1,160 +1,160 @@
 3229820181950	Snacks sucrés
 3229820181950	Biscuits et gâteaux
 3229820181950	Biscuits
-5410126806052	Biscuits au chocolat
+3229820181950	Biscuits au chocolat
 5410126806052	en:sugary-snacks
 5410126806052	en:biscuits-and-cakes
 5410126806052	en:biscuits
-20093709	fr:speculoos
+5410126806052	fr:speculoos
 20093709	en:sugary-snacks
 20093709	en:biscuits-and-cakes
-3560070420179	en:biscuits
+20093709	en:biscuits
 3560070420179	Aliments et boissons à base de végétaux
 3560070420179	Aliments d'origine végétale
 3560070420179	Céréales et pommes de terre
 3560070420179	Pains
-3560070419456	Gressins
+3560070420179	Gressins
 3560070419456	en:salty-snacks
 3560070419456	en:appetizers
 3560070419456	en:chips-and-fries
 3560070419456	en:crisps
-3268350120558	en:corn-chips
+3560070419456	en:corn-chips
 3268350120558	Snacks sucrés
 3268350120558	Biscuits et gâteaux
 3268350120558	Biscuits
-3178530402698	Biscuits au chocolat
+3268350120558	Biscuits au chocolat
 3178530402698	Snacks sucrés
 3178530402698	Biscuits et gâteaux
 3178530402698	Biscuits
-3336970711057	Petits beurres
+3178530402698	Petits beurres
 3336970711057	fr:Biscuits apéritif soufflés
-3350033118065	fr:Biscuits apéritif soufflés à la cacahuète
+3336970711057	fr:Biscuits apéritif soufflés à la cacahuète
 3350033118065	Snacks sucrés
 3350033118065	Biscuits et gâteaux
 3350033118065	Biscuits
 3350033118065	Biscuits au chocolat
 3350033118065	Cookies
-3431410131003	Cookies au chocolat
+3350033118065	Cookies au chocolat
 3431410131003	Snacks sucrés
 3431410131003	Biscuits et gâteaux
 3431410131003	Biscuits
-3560070600977	Biscuits au chocolat
+3431410131003	Biscuits au chocolat
 3560070600977	Aliments et boissons à base de végétaux
 3560070600977	Aliments d'origine végétale
 3560070600977	Céréales et pommes de terre
 3560070600977	Céréales et dérivés
 3560070600977	Galettes de céréales
 3560070600977	Galettes de riz
-3449851140553	Galettes de riz au chocolat noir
+3560070600977	Galettes de riz au chocolat noir
 3449851140553	Viandes
 3449851140553	Charcuteries
 3449851140553	Saucissons
 3449851140553	Saucissons secs
-3560070725588	Saucissons secs aux noisettes
+3449851140553	Saucissons secs aux noisettes
 3560070725588	Aliments et boissons à base de végétaux
 3560070725588	Aliments d'origine végétale
 3560070725588	Céréales et pommes de terre
 3560070725588	Céréales et dérivés
 3560070725588	Galettes de céréales
 3560070725588	Galettes de riz
-7071848006113	Galettes de riz au chocolat au lait
+3560070725588	Galettes de riz au chocolat au lait
 7071848006113	en:plant-based-foods-and-beverages
 7071848006113	en:plant-based-foods
 7071848006113	en:cereals-and-potatoes
 7071848006113	en:breads
-3245413922403	en:special-breads
+7071848006113	en:special-breads
 3245413922403	en:sugary-snacks
 3245413922403	en:biscuits-and-cakes
-3760121210524	en:biscuits
+3245413922403	en:biscuits
 3760121210524	Snacks sucrés
 3760121210524	Biscuits et gâteaux
 3760121210524	Biscuits
 3760121210524	Biscuits au chocolat
 3760121210524	Cookies
-3564709005157	Cookies au chocolat
+3760121210524	Cookies au chocolat
 3564709005157	Snacks sucrés
 3564709005157	Biscuits et gâteaux
 3564709005157	Biscuits
 3564709005157	Crêpes et galettes
 3564709005157	Crêpes
-3477730001503	Crêpes dentelle
+3564709005157	Crêpes dentelle
 3477730001503	Snacks sucrés
 3477730001503	Chocolats
-3760122961241	Chocolats noirs
-3178530411195	Biscuits au chocolat au lait
+3477730001503	Chocolats noirs
+3760122961241	Biscuits au chocolat au lait
 3178530411195	Crêpes et galettes
 3178530411195	Crêpes
 3178530411195	Crêpes fourrées
-5000396015935	Crêpes sucrées
+3178530411195	Crêpes sucrées
 5000396015935	Snacks sucrés
 5000396015935	Biscuits et gâteaux
 5000396015935	Biscuits
-3336971112013	Digestive Biscuits
+5000396015935	Digestive Biscuits
 3336971112013	fr:Biscuits apéritif soufflés
-26034669	fr:Biscuits apéritif soufflés à la cacahuète
+3336971112013	fr:Biscuits apéritif soufflés à la cacahuète
 26034669	Gaufres
-3175681140806	Gaufrettes
+26034669	Gaufrettes
 3175681140806	Snacks sucrés
 3175681140806	Biscuits et gâteaux
 3175681140806	Biscuits
 3175681140806	Biscuits-aux-cereales
-3178530408409	Biscuits-bio
+3175681140806	Biscuits-bio
 3178530408409	Snacks sucrés
 3178530408409	Biscuits et gâteaux
 3178530408409	Biscuits
-26035468	Biscuits au chocolat
+3178530408409	Biscuits au chocolat
 26035468	Snacks sucrés
 26035468	Biscuits et gâteaux
 26035468	Biscuits
 26035468	Biscuits secs
-3222471834732	Galettes-bretonnes
+26035468	Galettes-bretonnes
 3222471834732	Snacks sucrés
 3222471834732	Biscuits et gâteaux
 3222471834732	Biscuits
-3560070907564	Galettes bretonnes
+3222471834732	Galettes bretonnes
 3560070907564	Chips de légumes
-3564709001579	chips
+3560070907564	chips
 3564709001579	Snacks sucrés
 3564709001579	Biscuits et gâteaux
-3760029247127	Biscuits
+3564709001579	Biscuits
 3760029247127	Snacks sucrés
 3760029247127	Confiseries
 3760029247127	Caramels
-3561770000036	Caramels au beurre salé
+3760029247127	Caramels au beurre salé
 3561770000036	Snacks sucrés
 3561770000036	Confiseries
 3561770000036	Caramels
 3561770000036	Caramels au beurre salé
-3336971202059	Crème de caramel
+3561770000036	Crème de caramel
 3336971202059	fr:Biscuits apéritif soufflés
-3245390021908	fr:Biscuits apéritif soufflés à la cacahuète
+3336971202059	fr:Biscuits apéritif soufflés à la cacahuète
 3245390021908	Snacks sucrés
 3245390021908	Biscuits et gâteaux
 3245390021908	Biscuits
-3175681120679	Biscuits sablés
+3245390021908	Biscuits sablés
 3175681120679	Snacks sucrés
 3175681120679	Biscuits et gâteaux
 3175681120679	Biscuits
 3175681120679	Biscuits au chocolat
 3175681120679	Cookies
-3178530407365	Cookies au chocolat
+3175681120679	Cookies au chocolat
 3178530407365	Sugary snacks
 3178530407365	Biscuits and cakes
-3268350120367	Biscuits
+3178530407365	Biscuits
 3268350120367	Snacks sucrés
 3268350120367	Biscuits et gâteaux
 3268350120367	Biscuits
 3268350120367	Biscuits au chocolat
 3268350120367	Cookies
-3222475123597	Cookies au chocolat
+3268350120367	Cookies au chocolat
 3222475123597	Snacks sucrés
 3222475123597	Biscuits et gâteaux
 3222475123597	Biscuits
 3222475123597	Biscuits au chocolat
 3222475123597	Cookies
-3368955782202	Cookies au chocolat
+3222475123597	Cookies au chocolat
 3368955782202	Biscuits
-3270720080102	Sablés
+3368955782202	Sablés
 3270720080102	Aliments et boissons à base de végétaux
 3270720080102	Aliments d'origine végétale
 3270720080102	Aliments à base de fruits et de légumes
@@ -162,329 +162,329 @@
 3270720080102	Produits déshydratés
 3270720080102	Aliments à base de plantes séchés
 3270720080102	Fruits secs
-3256224371410	Mélanges de fruits secs
+3270720080102	Mélanges de fruits secs
 3256224371410	Aliments et boissons à base de végétaux
 3256224371410	Aliments d'origine végétale
 3256224371410	Céréales et pommes de terre
 3256224371410	Pains
 3256224371410	Gressins
 3256224371410	Biscuits apéritifs
-3760077531865	Snacks salés
-3512690000101	Gressins artisanaux
+3256224371410	Snacks salés
+3760077531865	Gressins artisanaux
 3512690000101	Viandes
 3512690000101	Charcuteries
 3512690000101	Saucissons
 3512690000101	Saucissons secs
-3770002558126	Saucissons de boeuf
-3266191085739	Macaron à la framboise
+3512690000101	Saucissons de boeuf
+3770002558126	Macaron à la framboise
 3266191085739	Biscuits au chocolat
-3270190155584	Goûters fourrés
+3266191085739	Goûters fourrés
 3270190155584	Snacks salés
 3270190155584	Apéritif
 3270190155584	Chips et frites
 3270190155584	Chips
 3270190155584	Chips de pommes de terre
-7622300737955	Chips de pommes de terre à l'huile de tournesol
+3270190155584	Chips de pommes de terre à l'huile de tournesol
 7622300737955	en:aperitif
 7622300737955	en:biscuits-aperitifs
 7622300737955	en:snacks-sales
 7622300737955	nl:Zoute snacks
-3268350120824	nl:Zoute snacks
+7622300737955	nl:Zoute snacks
 3268350120824	Snacks sucrés
 3268350120824	Biscuits et gâteaux
-2000000000094	Biscuits
+3268350120824	Biscuits
 2000000000094	Snacks sucrés
 2000000000094	Biscuits et gâteaux
 2000000000094	Surgelés
 2000000000094	Biscuits
 2000000000094	Biscuits feuilletés
 2000000000094	Palmiers
-3396411227486	Biscuits au beurre
+2000000000094	Biscuits au beurre
 3396411227486	Snacks sucrés
 3396411227486	Biscuits et gâteaux
 3396411227486	Desserts
 3396411227486	Gâteaux
-3256220363334	Gâteaux au chocolat
+3396411227486	Gâteaux au chocolat
 3256220363334	Snacks salés
 3256220363334	Apéritif
 3256220363334	Chips et frites
 3256220363334	Chips
 3256220363334	Chips de pommes de terre
 3256220363334	Chips de pommes de terre à l'huile de tournesol
-20384425	Chips de pommes de terre allégées
+3256220363334	Chips de pommes de terre allégées
 20384425	Snacks sucrés
 20384425	Desserts
 20384425	Biscuits et gâteaux
 20384425	Gâteaux
 20384425	Gâteaux au chocolat
-3263853107013	Brownies
+20384425	Brownies
 3263853107013	Chips de pommes de terre
 3263853107013	Chips de pommes de terre allégées
-3368954400770	Chips de pommes de terre à l'huile de tournesol
+3263853107013	Chips de pommes de terre à l'huile de tournesol
 3368954400770	Snacks sucrés
 3368954400770	Desserts
 3368954400770	Biscuits et gâteaux
-3256225054756	Biscuits
+3368954400770	Biscuits
 3256225054756	Sugary snacks
 3256225054756	Biscuits and cakes
-26039510	Biscuits
-3178530409604	Muesli Bars
+3256225054756	Biscuits
+26039510	Muesli Bars
 3178530409604	Snacks sucrés
 3178530409604	Biscuits et gâteaux
 3178530409604	Biscuits
-5412514933050	Biscuits au chocolat
+3178530409604	Biscuits au chocolat
 5412514933050	Snacks salés
 5412514933050	Apéritif
 5412514933050	Chips et frites
 5412514933050	Chips
-8480017076489	Chips de maïs
+5412514933050	Chips de maïs
 8480017076489	Aperitivos
-3278310003104	Aros de maíz
+8480017076489	Aros de maíz
 3278310003104	Beurres demi-sel
-3760121211873	Beurres pasteurisés
+3278310003104	Beurres pasteurisés
 3760121211873	Snacks sucrés
 3760121211873	Biscuits et gâteaux
 3760121211873	Biscuits
 3760121211873	Biscuits au chocolat
-3113010128750	Biscuits au chocolat noir
+3760121211873	Biscuits au chocolat noir
 3113010128750	Conserves
 3113010128750	Poissons et viandes et oeufs
 3113010128750	Foies gras
 3113010128750	Bloc de foie gras
 3113010128750	Foies gras de canard
-3339881001026	Foie gras de canard au porto
-3435070029205	Biscuits secs
+3113010128750	Foie gras de canard au porto
+3339881001026	Biscuits secs
 3435070029205	Biscuits au chocolat au lait
-3700311810516	Biscuits sablés
+3435070029205	Biscuits sablés
 3700311810516	Snacks sucrés
-3410280021959	Chocolats
+3700311810516	Chocolats
 3410280021959	Viandes
 3410280021959	Charcuteries
 3410280021959	Saucissons
-3067163621678	Chorizos
+3410280021959	Chorizos
 3067163621678	Blocs de foie gras
-20181482	Foies gras de canard
+3067163621678	Foies gras de canard
 20181482	Snacks salés
 20181482	Apéritif
-5000396037937	Biscuits apéritifs
+20181482	Biscuits apéritifs
 5000396037937	Biscuits secs
-7610200021120	Biscuits sablés
+5000396037937	Biscuits sablés
 7610200021120	Snacks salés
-8480017032645	Apéritif
+7610200021120	Apéritif
 8480017032645	Snacks dulces
 8480017032645	Dulces
 8480017032645	Gastronomía navideña
 8480017032645	Dulces de Navidad
 8480017032645	Mazapanes
-8480000364074	Figuritas de mazapán
+8480017032645	Figuritas de mazapán
 8480000364074	Snacks dulces
 8480000364074	Dulces
 8480000364074	Gastronomía navideña
 8480000364074	Dulces de Navidad
 8480000364074	Mazapanes
-20276607	Figuritas de mazapán
+8480000364074	Figuritas de mazapán
 20276607	Snacks sucrés
 20276607	Biscuits et gâteaux
 20276607	Biscuits
-4004980517905	Biscuits au beurre
+20276607	Biscuits au beurre
 4004980517905	Salty snacks
-7610036000337	Erdnüsse
+4004980517905	Erdnüsse
 7610036000337	Snacks sucrés
 7610036000337	Chocolats
 7610036000337	Chocolats au lait
-3588570003524	Chocolat au lait fourré
+7610036000337	Chocolat au lait fourré
 3588570003524	Snacks sucrés
 3588570003524	Biscuits et gâteaux
 3588570003524	Biscuits
-4003754176447	Biscuits au chocolat
-4104420053847	Marzipan
+3588570003524	Biscuits au chocolat
+4003754176447	Marzipan
 4104420053847	Salty snacks
 4104420053847	Appetizers
 4104420053847	Chips and fries
 4104420053847	Crisps
-4104420054806	Corn chips
+4104420053847	Corn chips
 4104420054806	Salty snacks
 4104420054806	Appetizers
 4104420054806	Chips and fries
 4104420054806	Crisps
-4000161100904	Corn chips
+4104420054806	Corn chips
+4000161100904	Marzipan
 4000161440673	Marzipan
-3560070559619	Marzipan
-26192000	Biscuits apéritifs
+3560070559619	Biscuits apéritifs
 26192000	Plant-based foods and beverages
 26192000	Plant-based foods
 26192000	Sugary snacks
 26192000	Nuts and their products
 26192000	Bars
 26192000	Nut bars
-3760029244003	Museli bars
+26192000	Museli bars
 3760029244003	Snacks sucrés
 3760029244003	Biscuits et gâteaux
 3760029244003	Biscuits
 3760029244003	biscuits au beurre
 3760029244003	sablés
 3760029244003	gâteaux bretons
-3760020501051	palets bretons
+3760029244003	palets bretons
 3760020501051	Epicerie
 3760020501051	Sauces
 3760020501051	Sauces pour pâtes
 3760020501051	Sauces Pesto
-20127541	Sauces Pesto Rosso
+3760020501051	Sauces Pesto Rosso
 20127541	Snacks sucrés
 20127541	Biscuits et gâteaux
 20127541	Biscuits
 20127541	Biscuits au chocolat
-3396411223143	Biscuits au chocolat noir
+20127541	Biscuits au chocolat noir
 3396411223143	Snacks sucrés
 3396411223143	Biscuits et gâteaux
-3560070504701	Biscuits
+3396411223143	Biscuits
 3560070504701	Snacks sucrés
 3560070504701	Confiseries
 3560070504701	Chocolats
 3560070504701	Bonbons
-5901869009645	Chocolats au lait
+3560070504701	Chocolats au lait
 5901869009645	Viandes
 5901869009645	Charcuteries
-3265475016001	Saucisses
+5901869009645	Saucisses
 3265475016001	Epicerie
-26018324	Sauces
+3265475016001	Sauces
 26018324	fr:Biscuits apéritif soufflés
-3555080708591	fr:Biscuits apéritif soufflés à la cacahuète
+26018324	fr:Biscuits apéritif soufflés à la cacahuète
 3555080708591	Chocolats noirs
-3760077534583	Chocolats fourrés au caramel
+3555080708591	Chocolats fourrés au caramel
 3760077534583	Snacks salés
 3760077534583	Apéritif
-8423207207478	Biscuits apéritifs
+3760077534583	Biscuits apéritifs
 8423207207478	Alimentos y bebidas de origen vegetal
 8423207207478	Alimentos de origen vegetal
 8423207207478	Cereales y patatas
 8423207207478	Cereales y derivados
 8423207207478	Tortitas de cereales
-3222475720444	Tortitas de maíz
-5000167082890	Chocolats noirs
+8423207207478	Tortitas de maíz
+3222475720444	Chocolats noirs
 5000167082890	Sugary snacks
 5000167082890	Chocolates
-3260260031412	Milk chocolates
+5000167082890	Milk chocolates
 3260260031412	fr:Biscuits sablés
 3260260031412	fr:Biscuits pur beurre
-20277406	fr:Galettes bretonnes
+3260260031412	fr:Galettes bretonnes
 20277406	Alimentos y bebidas de origen vegetal
 20277406	Alimentos de origen vegetal
 20277406	Snacks dulces
 20277406	Dulces
 20277406	Frutos de cáscara y derivados
 20277406	Dulces de frutos de cáscara
-602652176616	Almendras garrapiñadas
+20277406	Almendras garrapiñadas
 602652176616	Snacks sucrés
 602652176616	Barres
-8480000335760	Barres de céréales
+602652176616	Barres de céréales
+8480000335760	Aperitivos
 8413671022202	Aperitivos
-8413671022202	Aperitivos
-8413671030603	Aros de maíz
+8413671022202	Aros de maíz
 8413671030603	Aperitivos
-8413671022042	Aros de maíz
+8413671030603	Aros de maíz
 8413671022042	Aperitivos
-5425008344584	Aros de maíz
+8413671022042	Aros de maíz
 5425008344584	fr:Barres
 5425008344584	Chocolates
 5425008344584	fr:Barres chocolatées
-836110002074	Candies
+5425008344584	Candies
 836110002074	Snacks sucrés
 836110002074	Confiseries
 836110002074	Bonbons
 836110002074	Chocolats
 836110002074	Barres
-24001885	Barres chocolatées
+836110002074	Barres chocolatées
 24001885	Snacks dulces
 24001885	Barritas
-20128609	Barritas de cereales
-3497900007111	Sonnenblumenkerne
-3350033092419	Biscuits apéritifs
+24001885	Barritas de cereales
+20128609	Sonnenblumenkerne
+3497900007111	Biscuits apéritifs
 3350033092419	Snacks sucrés
 3350033092419	Biscuits et gâteaux
 3350033092419	Biscuits
-60465005828	Biscuits sablés
-3250392250249	Biscuits secs
+3350033092419	Biscuits sablés
+60465005828	Biscuits secs
 3250392250249	Snacks sucrés
 3250392250249	Biscuits et gâteaux
 3250392250249	Biscuits
 3250392250249	Biscuits aux céréales
-3662790003325	Biscuits au chocolat
-3564700083642	Biscuits salés
+3250392250249	Biscuits au chocolat
+3662790003325	Biscuits salés
 3564700083642	Poissons et viandes et oeufs
 3564700083642	Foies gras
-3257980085788	Foies gras de canard
+3564700083642	Foies gras de canard
 3257980085788	Blocs de foies gras avec morceaux
-3257980085764	Foies gras de canard
+3257980085788	Foies gras de canard
 3257980085764	Blocs de foies gras avec morceaux
-3257982161565	Foies gras de canard
+3257980085764	Foies gras de canard
 3257982161565	Blocs de foies gras avec morceaux
-3245412512179	Foies gras de canard
+3257982161565	Foies gras de canard
 3245412512179	Conserves
 3245412512179	Poissons et viandes et oeufs
 3245412512179	Foies gras
 3245412512179	Bloc de foie gras
 3245412512179	Bloc de foie gras avec morceaux
-3350030201029	Foies gras de canard
+3245412512179	Foies gras de canard
 3350030201029	Bloc de foie gras
-3250391773688	Foies gras de canard
+3350030201029	Foies gras de canard
 3250391773688	Poissons et viandes et oeufs
 3250391773688	Foies gras
 3250391773688	Bloc de foie gras
 3250391773688	Bloc de foie gras avec morceaux
 3250391773688	Foies gras cuits
-3113010125865	Foies gras de canard
+3250391773688	Foies gras de canard
 3113010125865	Poissons et viandes et oeufs
 3113010125865	Foies gras
 3113010125865	Bloc de foie gras
 3113010125865	Bloc de foie gras avec morceaux
 3113010125865	Foies gras de canard
-3250391095605	Conserves
+3113010125865	Conserves
 3250391095605	Foies gras de canard
 3250391095605	Foies gras mi-cuits
-3250390424079	Foies gras
+3250391095605	Foies gras
 3250390424079	Snacks sucrés
 3250390424079	Desserts
 3250390424079	Biscuits et gâteaux
 3250390424079	Gâteaux
 3250390424079	Gâteaux au chocolat
-9310072000411	Brownies
-8000015003081	sweet biscuits
-9300617324126	Biscuits
-3339883010170	Chocolate Bars
+3250390424079	Brownies
+9310072000411	sweet biscuits
+8000015003081	Biscuits
+9300617324126	Chocolate Bars
 3339883010170	Snacks sucrés
 3339883010170	Biscuits et gâteaux
-8480017020215	Biscuits
+3339883010170	Biscuits
 8480017020215	Snacks salés
 8480017020215	Apéritif
 8480017020215	Chips et frites
 8480017020215	Chips
 8480017020215	Chips de pommes de terre
 8480017020215	Chips de pommes de terre à l'huile de tournesol
-9400553011477	Chips de pommes de terre allégées
+8480017020215	Chips de pommes de terre allégées
 9400553011477	Sugary snacks
 9400553011477	Biscuits and cakes
 9400553011477	Biscuits
-8480017155436	Chocolate biscuits
+9400553011477	Chocolate biscuits
 8480017155436	Snacks dulces
 8480017155436	Chocolates
-8411814206885	Chocolates rellenos de crema de menta
+8480017155436	Chocolates rellenos de crema de menta
 8411814206885	Viandes
 8411814206885	Charcuteries
 8411814206885	Saucissons
-8411814215863	Chorizos
+8411814206885	Chorizos
 8411814215863	Viandes
 8411814215863	Charcuteries
 8411814215863	Saucissons
+8411814215863	Chorizos
 8411814210806	Chorizos
-3700656401158	Chorizos
 3700656401158	Coppa
-26080994	Charcuteries
+3700656401158	Charcuteries
 26080994	Snacks salés
 26080994	Apéritif
-3222475718991	Biscuits apéritifs
-819701	Crackers
-8480000670151	Sauce
+26080994	Biscuits apéritifs
+3222475718991	Crackers
+819701	Sauce
 8480000670151	Alimentos y bebidas de origen vegetal
 8480000670151	Alimentos de origen vegetal
 8480000670151	Leguminosas y derivados
@@ -495,223 +495,223 @@
 8480000670151	Mantecas de frutos de cáscara
 8480000670151	Mantecas de leguminosas
 8480000670151	Mantecas de cacahuete
-3535800172659	Cremas de frutos secos
+8480000670151	Cremas de frutos secos
 3535800172659	Crêpes
 3535800172659	Biscuits
 3535800172659	Biscuits au chocolat
 3535800172659	Biscuits au chocolat au lait
-3270160801534	Biscuits au chocolat noir
+3535800172659	Biscuits au chocolat noir
 3270160801534	Snacks sucrés
 3270160801534	Biscuits et gâteaux
 3270160801534	Biscuits
 3270160801534	Crêpes et galettes
 3270160801534	Biscuits au chocolat
 3270160801534	Biscuits au chocolat au lait
-8410376016789	Crêpes dentelle
+3270160801534	Crêpes dentelle
 8410376016789	Sugary snacks
 8410376016789	Biscuits and cakes
 8410376016789	Biscuits
-4001518003312	Bolachas
-8008714000899	Kekse
+8410376016789	Bolachas
+4001518003312	Kekse
 8008714000899	Snacks salés
 8008714000899	Apéritif
 8008714000899	Chips et frites
 8008714000899	Chips
-24086721	Chips de pommes de terre
+8008714000899	Chips de pommes de terre
 24086721	Snacks dulces
 24086721	Dulces
 24086721	Gastronomía navideña
 24086721	Dulces de Navidad
 24086721	Mazapanes
 24086721	Figuritas de mazapán
-8410350065055	Pan y repostería
+24086721	Pan y repostería
 8410350065055	Snacks dulces
 8410350065055	Dulces
 8410350065055	Gastronomía navideña
 8410350065055	Dulces de Navidad
 8410350065055	Mazapanes
-8431876251197	Figuritas de mazapán
+8410350065055	Figuritas de mazapán
 8431876251197	Snacks dulces
 8431876251197	Dulces
 8431876251197	Gastronomía navideña
 8431876251197	Dulces de Navidad
 8431876251197	Mazapanes
-8433329039826	Figuritas de mazapán
+8431876251197	Figuritas de mazapán
 8433329039826	Snacks dulces
 8433329039826	Dulces
 8433329039826	Gastronomía navideña
 8433329039826	Dulces de Navidad
 8433329039826	Mazapanes
+8433329039826	Figuritas de mazapán
 8433329039833	Figuritas de mazapán
-3700428432885	Figuritas de mazapán
 3700428432885	Poissons et viandes et oeufs
 3700428432885	Foies gras
 3700428432885	Foies gras de canard
-85366013000299	Foies gras entiers
+3700428432885	Foies gras entiers
 85366013000299	Sugary snacks
 85366013000299	Biscuits and cakes
 85366013000299	Biscuits
-3250390183976	Cookies
+85366013000299	Cookies
 3250390183976	Snacks sucrés
 3250390183976	Biscuits et gâteaux
 3250390183976	Biscuits
 3250390183976	Galettes Bretonnes
 3250390183976	Gâteaux bretons
 3250390183976	Biscuits au beurre
-3258563020295	Sablés
+3250390183976	Sablés
 3258563020295	Snacks sucrés
 3258563020295	Biscuits et gâteaux
 3258563020295	Biscuits
 3258563020295	Biscuits sablés
-5410126716016	Galettes sablées
+3258563020295	Galettes sablées
 5410126716016	Snacks dulces
 5410126716016	Galletas y pasteles
 5410126716016	Galletas
-8421691784543	Spéculoos
+5410126716016	Spéculoos
 8421691784543	Snacks dulces
 8421691784543	Galletas y pasteles
 8421691784543	Galletas
-8421691477292	Galletas de tipo Digestive
+8421691784543	Galletas de tipo Digestive
 8421691477292	Snacks dulces
 8421691477292	Galletas y pasteles
 8421691477292	Galletas
-8410196051380	Galletas de tipo Digestive
+8421691477292	Galletas de tipo Digestive
 8410196051380	Snacks dulces
 8410196051380	Galletas y pasteles
 8410196051380	Galletas
-8430803027225	Chocolate biscuits
+8410196051380	Chocolate biscuits
 8430803027225	Snacks dulces
 8430803027225	Galletas y pasteles
 8430803027225	Galletas
-7622210114730	Galletas de tipo Digestive
+8430803027225	Galletas de tipo Digestive
 7622210114730	Snacks dulces
 7622210114730	Galletas y pasteles
 7622210114730	Galletas
-20204389	Galletas de tipo Digestive
+7622210114730	Galletas de tipo Digestive
 20204389	Snacks dulces
 20204389	Galletas y pasteles
 20204389	Galletas
-20204433	Galletas de tipo Digestive
+20204389	Galletas de tipo Digestive
 20204433	Snacks dulces
 20204433	Galletas y pasteles
 20204433	Galletas
-8480017092991	Galletas de tipo Digestive
+20204433	Galletas de tipo Digestive
 8480017092991	Snacks dulces
 8480017092991	Galletas y pasteles
 8480017092991	Galletas
-24044882	Galletas de tipo Digestive
+8480017092991	Galletas de tipo Digestive
 24044882	Snacks dulces
 24044882	Galletas y pasteles
 24044882	Galletas
-20204365	Galletas de tipo Digestive
+24044882	Galletas de tipo Digestive
 20204365	Snacks dulces
 20204365	Galletas y pasteles
 20204365	Galletas
-8480017092984	Galletas de tipo Digestive
+20204365	Galletas de tipo Digestive
 8480017092984	Snacks dulces
 8480017092984	Galletas y pasteles
 8480017092984	Galletas
-24044080	Galletas de tipo Digestive
+8480017092984	Galletas de tipo Digestive
 24044080	Snacks dulces
 24044080	Galletas y pasteles
 24044080	Galletas
-24018128	Galletas de tipo Digestive
+24044080	Galletas de tipo Digestive
 24018128	Snacks dulces
 24018128	Galletas y pasteles
 24018128	Galletas
-8431876005066	Galletas de tipo Digestive
+24018128	Galletas de tipo Digestive
 8431876005066	Snacks dulces
 8431876005066	Galletas y pasteles
 8431876005066	Galletas
-8410014305169	Galletas de tipo campurrianas
+8431876005066	Galletas de tipo campurrianas
 8410014305169	Snacks dulces
 8410014305169	Galletas y pasteles
 8410014305169	Galletas
-5941634001061	Galletas de tipo María
+8410014305169	Galletas de tipo María
 5941634001061	Barritas de cereales
 5941634001061	Productos sin gluten
-5060422870099	Barritas de cereales sin gluten
-3182650148985	Snacks sucrés
+5941634001061	Barritas de cereales sin gluten
+5060422870099	Snacks sucrés
 3182650148985	Snacks sucrés
 3182650148985	Desserts
 3182650148985	Biscuits et gâteaux
-3182650248739	Gâteaux
+3182650148985	Gâteaux
 3182650248739	Snacks sucrés
 3182650248739	Desserts
 3182650248739	Biscuits et gâteaux
 3182650248739	Biscuits
-3182650008982	Gâteaux
+3182650248739	Gâteaux
 3182650008982	Snacks sucrés
 3182650008982	Biscuits et gâteaux
-8606107223124	Biscuits
-4013200332198	Salty snacks
-50300853	Breadsticks
+3182650008982	Biscuits
+8606107223124	Salty snacks
+4013200332198	Breadsticks
 50300853	Dressing
-5410471903024	Sauce
+50300853	Sauce
 5410471903024	Snacks sucrés
 5410471903024	Biscuits et gâteaux
-4001518110294	Biscuits
-4000161110170	Kekse
-42305880	Marzipan
+5410471903024	Biscuits
+4001518110294	Kekse
+4000161110170	Marzipan
 42305880	Pflanzliche Lebensmittel und Getränke
 42305880	Pflanzliche Lebensmittel
 42305880	Frucht- und gemüsebasierte Lebensmittel
-3104544018860	Fruchtbasierte Lebensmittel
+42305880	Fruchtbasierte Lebensmittel
 3104544018860	Poissons et viandes et oeufs
 3104544018860	Foies gras
 3104544018860	Bloc de foie gras
 3104544018860	Bloc de foie gras avec morceaux
-3263852910713	Foies gras de canard
+3104544018860	Foies gras de canard
 3263852910713	Biscuits au chocolat
 3263852910713	Gaufres fourrées
-3368390000190	Galettes au chocolat
+3263852910713	Galettes au chocolat
 3368390000190	Snacks sucrés
 3368390000190	Biscuits et gâteaux
 3368390000190	Biscuits
 3368390000190	Biscuits feuilletés
-3226219005705	Palmiers
+3368390000190	Palmiers
 3226219005705	Biscuits
-3700663000399	Sablés
-3472860003557	Vinaigrettes
+3226219005705	Sablés
+3700663000399	Vinaigrettes
 3472860003557	Snacks sucrés
 3472860003557	Biscuits et gâteaux
 3472860003557	Biscuits
 3472860003557	Cookies
-3700125800826	Biscuits sablés
+3472860003557	Biscuits sablés
 3700125800826	Dragées
-3328481290770	Bonbons
+3700125800826	Bonbons
 3328481290770	Snacks sucrés
 3328481290770	Desserts
 3328481290770	Biscuits et gâteaux
 3328481290770	Biscuits
-7613035903524	Gâteaux
+3328481290770	Gâteaux
 7613035903524	Sugary snacks
 7613035903524	Confectioneries
 7613035903524	Bars
-4003754178076	Chocolate bars
+7613035903524	Chocolate bars
 4003754178076	Confectioneries
-8713445070041	Marzipan
-4000161400219	
-4000161050292	Marzipan
+4003754178076	Marzipan
+8713445070041	
+4000161400219	Marzipan
 4000161050292	Süßwaren
 4000161050292	Confectioneries
 4000161050292	Christmas foods and drinks
 4000161050292	Christmas sweets
+4000161050292	Marzipan
 4000161400516	Marzipan
 4000161600091	Marzipan
 4000161740308	Marzipan
-8422584000511	Marzipan
 8422584000511	Mayonesas
 8422584000511	Groceries
 8422584000511	Salsas
-8421691560970	Mayonesas sin huevo
+8422584000511	Mayonesas sin huevo
 8421691560970	Snacks dulces
 8421691560970	Dulces
 8421691560970	Gastronomía navideña
 8421691560970	Dulces de Navidad
 8421691560970	Mazapanes
-718122600595	Mazapanes de Soto
-1151	Croutons
+8421691560970	Mazapanes de Soto
+718122600595	Croutons
 1151	Snacks sucrés
 1151	Biscuits et gâteaux
 1151	Biscuits
@@ -719,43 +719,43 @@
 1151	Biscuits au chocolat
 1151	Crêpes
 1151	Biscuits au chocolat au lait
-8480017541857	Crêpes au chocolat
+1151	Crêpes au chocolat
 8480017541857	Frais
 8480017541857	Viandes
 8480017541857	Charcuteries
 8480017541857	Saucissons
 8480017541857	Saucissons secs
-2000000017785	Mini saucissons secs
+8480017541857	Mini saucissons secs
 2000000017785	Biscuits bretons
-3350031637513	Biscuits
-9300650012349	Biscuits apéritifs soufflés
+2000000017785	Biscuits
+3350031637513	Biscuits apéritifs soufflés
 9300650012349	Salty snacks
 9300650012349	Appetizers
-4000161620112	Crackers
-20594442	Marzipan
+9300650012349	Crackers
+4000161620112	Marzipan
 20594442	Snacks sucrés
 20594442	Biscuits et gâteaux
 20594442	Biscuits
-20045463	Sablés
-8423348402336	Saucisson aux noix
+20594442	Sablés
+20045463	Saucisson aux noix
 8423348402336	Viandes
 8423348402336	Charcuteries
 8423348402336	Saucissons
-5997591100545	Saucissons secs
+8423348402336	Saucissons secs
 5997591100545	Süßwaren
 5997591100545	Biscuits and cakes
 5997591100545	Schokoladen
-5400113569435	Kekse
+5997591100545	Kekse
 5400113569435	Sugary snacks
 5400113569435	Biscuits and cakes
 5400113569435	Biscuits
 5400113569435	Chocolate biscuits
 5400113569435	Cookies
-3257980832290	Chocolate cookies
+5400113569435	Chocolate cookies
 3257980832290	fr:Biscuits apéritif soufflés
-3257984499307	fr:Biscuits apéritif soufflés à la cacahuète
+3257980832290	fr:Biscuits apéritif soufflés à la cacahuète
 3257984499307	fr:Biscuits apéritif soufflés
-3245390015594	fr:Biscuits apéritif soufflés au bacon
+3257984499307	fr:Biscuits apéritif soufflés au bacon
 3245390015594	Snacks salés
 3245390015594	Apéritif
 3245390015594	Biscuits apéritifs
