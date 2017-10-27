@@ -9,7 +9,7 @@ SELECT Produto.nome, a.nome as Paises_Vendidos, b.nome as Paises_Fabricados
     ON Produto.Cod_barras = Produto_has_Locais_Fabricados.Produto_Cod_barras
     JOIN Locais_Fabricados b
     ON Produto_has_Locais_Fabricados.Locais_Fabricados_idLocais_Fabricados = b.idLocais_Fabricados
-    ORDER BY Produto_has_Locais_Vendidos.Locais_Vendidos_idLocais_Vendidos;
+    ORDER BY a.Nome;
     
 
 -- Lista de países que compram mais caloria (em ordem decrescente da quantidade de caloria comprada)
