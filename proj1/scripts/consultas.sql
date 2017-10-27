@@ -40,7 +40,7 @@ SELECT Fabricante.nome, COUNT(Produto.Cod_barras) as num_produto FROM Fabricante
     GROUP BY Fabricante.IdFabricante;
 
 
--- Dá o nome da categoria e o número de produtos com proteínas maior do que 20 para cada categoria.
+-- Dá o nome da categoria e o número de produtos com proteínas maior do que 10 para cada categoria.
 SELECT Count(Produto_p.Proteinas_100g) AS Num_Produtos, Categoria.Nome as Categoria
 FROM (  SELECT 
 	Proteinas_100g,
