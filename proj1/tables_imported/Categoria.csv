@@ -1,25 +1,25 @@
-1	
+idCategoria	Nome
 2	Biscuits et gâteaux
 3	Biscuits
 4	Biscuits au chocolat
-5	en:sugary-snacks
-6	en:biscuits-and-cakes
-7	en:biscuits
-8	fr:speculoos
+5	sugary-snacks
+6	biscuits-and-cakes
+7	biscuits
+8	speculoos
 9	Aliments et boissons à base de végétaux
 10	Aliments d'origine végétale
 11	Céréales et pommes de terre
 12	Pains
 13	Gressins
-14	en:salty-snacks
-15	en:appetizers
-16	en:chips-and-fries
-17	en:crisps
-18	en:corn-chips
+14	salty-snacks
+15	appetizers
+16	chips-and-fries
+17	crisps
+18	corn-chips
 19	Snacks sucrés
 20	Petits beurres
-21	fr:Biscuits apéritif soufflés
-22	fr:Biscuits apéritif soufflés à la cacahuète
+21	Biscuits apéritif soufflés
+22	Biscuits apéritif soufflés à la cacahuète
 23	Cookies
 24	Cookies au chocolat
 25	Céréales et dérivés
@@ -32,11 +32,11 @@
 32	Saucissons secs
 33	Saucissons secs aux noisettes
 34	Galettes de riz au chocolat au lait
-35	en:plant-based-foods-and-beverages
-36	en:plant-based-foods
-37	en:cereals-and-potatoes
-38	en:breads
-39	en:special-breads
+35	plant-based-foods-and-beverages
+36	plant-based-foods
+37	cereals-and-potatoes
+38	breads
+39	special-breads
 40	Crêpes et galettes
 41	Crêpes
 42	Crêpes dentelle
@@ -80,9 +80,9 @@
 80	Chips
 81	Chips de pommes de terre
 82	Chips de pommes de terre à l'huile de tournesol
-83	en:aperitif
-84	en:biscuits-aperitifs
-85	en:snacks-sales
+83	aperitif
+84	biscuits-aperitifs
+85	snacks-sales
 86	nl:Zoute snacks
 87	Surgelés
 88	Biscuits feuilletés
@@ -149,16 +149,16 @@
 149	Tortitas de maíz
 150	Chocolates
 151	Milk chocolates
-152	fr:Biscuits sablés
-153	fr:Biscuits pur beurre
-154	fr:Galettes bretonnes
+152	Biscuits sablés
+153	Biscuits pur beurre
+154	Galettes bretonnes
 155	Frutos de cáscara y derivados
 156	Dulces de frutos de cáscara
 157	Almendras garrapiñadas
 158	Barres
 159	Barres de céréales
-160	fr:Barres
-161	fr:Barres chocolatées
+160	Barres
+161	Barres chocolatées
 162	Candies
 163	Barres chocolatées
 164	Barritas
@@ -229,5 +229,5 @@
 229	Saucisson aux noix
 230	Schokoladen
 231	Chocolate cookies
-232	fr:Biscuits apéritif soufflés au bacon
+232	Biscuits apéritif soufflés au bacon
 233	Biscuits apéritif soufflés au bacon
