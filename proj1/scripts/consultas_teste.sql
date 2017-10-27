@@ -6,7 +6,7 @@
 
 -- SELECT * FROM Fabricante;
 
-SELECT * FROM Ingrediente LIMIT 3000;
+-- SELECT * FROM Ingrediente LIMIT 3000;
 
 -- SELECT * FROM Locais_Fabricados;
 
