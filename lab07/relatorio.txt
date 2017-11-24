@@ -1,0 +1,13 @@
+Grupo:
+Carlos Carlos Carlos      165684
+Ignácio Espinoso Ribeiro  169767
+Seong Eun Kim             177143
+
+Para acessar a página de um membro, bastava inserir um comando sql no campo login,
+de forma que a condição fosse sempre verdadeira e retornasse apenas um usuário, enquanto
+comenta o resto do comando executado pelo servidor:
+' OR 1=1 LIMIT 1 --
+Fora isso, bastava inserir qualquer senha (o campo não podia estar vazio) para conseguir acesso.
+
+Para conseguir a quantidade de usuários do banco, basta adicionar um offset no
+login, de forma que, testando diferentes offsets até obter o último usuário válido.
